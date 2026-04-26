@@ -17,14 +17,8 @@ Symphony is a high-level agent orchestration architecture designed to manage com
 - Robust state management for long-running workflows.
 - Standardized tool integration pathways.
 
-## Source Context
-- Research reconnaissance phase (April 2026).
+## Symphony Service
 
-## Symphony Service (Full Workflow Spec)
-
-# Symphony Service
-
-## Overview
 Symphony is a long-running automation service (draft spec v1) designed to orchestrate coding agents, particularly in the context of issue tracking (e.g., Linear).
 
 ## Workflow

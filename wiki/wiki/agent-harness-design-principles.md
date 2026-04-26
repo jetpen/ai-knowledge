@@ -7,7 +7,7 @@ tags: [agent-harness, design-principles, tool-scoping, reasoning-strategy, permi
 sources: [raw/articles/akshay-pachaar-agent-harness-design-principles-2026-04-24.md]
 ---
 
-# Agent Harness Design Principles (Akshay Pachaar)
+# Agent Harness Design Principles
 
 From [[akshay-pachaar]] (2026-04-24 X post): Every production [[agent-harness]] results from **7 architectural bets**:
 

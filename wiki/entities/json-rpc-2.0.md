@@ -1,6 +1,15 @@
 ---
-updated: 2026-04-25
-tags: []
----
+title: JSON-RPC 2.0
+created: 2026-04-11
+updated: 2026-04-11
+type: entity
+tags: ["communication-standard", "entity", "json-rpc", "protocol"]
+sources: ['raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md']
+--- 
 
-File unchanged since last read. The content from the earlier read_file result in this conversation is still current — refer to that instead of re-reading.
+# Json Rpc 2.0
+
+Synthesis from sources ['raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md']: This page describes a technical component, organization, or protocol fundamental to the AI/ML agentic ai-[[ai-ecosystem]]. It facilitates standardized patterns for interoperability, discovery, or execution.
+
+## Source Context
+This entry is compiled from the following ingested material: raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md.

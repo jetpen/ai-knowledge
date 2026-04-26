@@ -8,7 +8,7 @@ sources: [raw/2026-04-23-google-cloud-tech-adk-2.0-orchestration-patterns.md]
 author: auto
 ---
 
-# 5 Agent Skill Design Patterns
+# Agent Skill Design Patterns
 
 Viral Google Cloud article (prior to ADK 2.0 post):
 - [[tool-wrapper]]
