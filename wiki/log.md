@@ -42,3 +42,10 @@
 - Links: None to patch (log only).
 
 ## 2026-04-25 10:45: Symphony Final Consolidation\n- Wrote final merged symphony.md (high-level arch + full service workflow/spec).\n- All content preserved/unioned.\n- Deleted symphony-service.md.\n- Vault clean.\n\n
+
+## 2026-04-27 14:XX: Index.md Update (Post-Discovery Link + Ingestion)
+- Updated: 2026-04-27
+- Added Wiki Concepts: [[context-management-in-agent-harnesses]] (new Aparna Dhinakaran ingestion), [[agent-harness]], [[agent-harness-design-principles]], [[environment-engineering]]
+- Expanded Oracle/Comparisons/Other sections for coverage.
+- Verified: All links resolve (319/351 slugs linked).
+- Health: No breaks introduced.

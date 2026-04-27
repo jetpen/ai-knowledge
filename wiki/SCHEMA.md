@@ -80,7 +80,8 @@ When new information conflicts with existing content:
 3. Mark the contradiction in frontmatter: `contradictions: [page-name]`
 4. Flag for user review in the lint report
 # Auto-added missing tags from lint pass
-- Discovered: linear-algebra, vectors, matrices, tensors, ai-fundamentals, mathematics, adk-2.0, hybrid-graph, google-cloud-next-26, agent-skill-design-patterns, tool-wrapper, generator-pattern, reviewer-pattern, inversion-pattern, pipeline-pattern, multi-agent-orchestration\n- Discovered: coding-agents, compute-and-sandboxing, e2b, daytona, browserbase, composeio, honcho, memori\n- Discovered: llm-programming, prompt-optimization\n- Discovered: agent-skill, dspy-agent
+- Discovered: linear-algebra, vectors, matrices, tensors, ai-fundamentals, mathematics, adk-2.0, hybrid-graph, google-cloud-next-26, agent-skill-design-patterns, tool-wrapper, generator-pattern, reviewer-pattern, inversion-pattern, pipeline-pattern, multi-agent-orchestration, context-management, agent-harnesses, pi-mono, claude-code, letta, alyx, arize, session-pruning, file-reads, sub-agents, large-file-context-management, subagent-context-management
+\n- Discovered: coding-agents, compute-and-sandboxing, e2b, daytona, browserbase, composeio, honcho, memori\n- Discovered: llm-programming, prompt-optimization\n- Discovered: agent-skill, dspy-agent
 
 - concepts: Synthesized concepts folder from raw sources
   - type: concept
