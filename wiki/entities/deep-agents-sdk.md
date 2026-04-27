@@ -23,5 +23,5 @@ The Python package (`deepagents`) for building agents capable of long-term plann
 
 ## Integration
 - Built on **[[langchain]]** and **[[langgraph]]**.
-- Supports **[[acp]]** (Agent Client Protocol) for editor integrations like **[[zed-editor]]**.
+- Supports **[[acp]]** (Agent Client Protocol) for editor integrations like **[[zed]]**.
 - Inspired by ****Claude-Code****.

@@ -24,7 +24,7 @@ Composio is a developer platform designed to turn LLM-based agents into "general
 - **Production-Ready**: Connectors are pre-authenticated and optimized for agent reliability.
 
 ## Relationships
-- **Functionality**: Acts as an infrastructure layer for Agentic frameworks (e.g., [Claude Cowork](claude-cowork.md), [Cursor](zed-editor.md)).
+- **Functionality**: Acts as an infrastructure layer for Agentic frameworks (e.g., [Claude Cowork](claude-cowork.md), [Cursor](zed.md)).
 - **Conceptual Context**: [Tool Use for AI](tool-use-for-ai.md), [Agentic Infrastructure](agentic-infrastructure.md).
 - **Core Concept**: [Compute and Sandboxing](compute-and-sandboxing.md).
 

@@ -21,7 +21,7 @@ Within the Agent User Interaction Protocol, shared state is managed through:
 - **Conflict Resolution**: The system handles simultaneous edits from both the agent and the application to ensure data integrity.
 
 ## Modes of Shared State
-- **Read-Only**: The agent can observe application state (e.g., the current file open in **[[zed-editor]]**) but cannot change it.
+- **Read-Only**: The agent can observe application state (e.g., the current file open in **[[zed]]**) but cannot change it.
 - **Read-Write**: Both the agent and the user can modify the state simultaneously (e.g., collaboratively editing a task list or a Figma design).
 
 ## Use Cases

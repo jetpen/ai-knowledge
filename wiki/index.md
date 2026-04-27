@@ -93,6 +93,6 @@ updated: 2026-04-27
 [[ag2]] - Multi-agent conversion framework.
 [[linear]] - Issue tracker for software teams.
 [[nous-research]] - AI research organization.
-[[zed-editor]] - Code editor integration surface.
+[[zed]] - Code editor integration surface.
 [[paperclip]] - Open-source orchestration for zero-human companies.
 [[aparna-dhinakaran]] - Ramp co-founder; agent harness context mgmt insights (2026-04-26).
