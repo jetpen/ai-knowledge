@@ -1,7 +1,7 @@
 ---
 title: Agent Harness
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-28
 type: concept
 tags: ["framework", "agents", "harness", "concept", "deepagents"]
 sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md"]
@@ -29,8 +29,13 @@ LangChain defines `deepagents` specifically as an "agent harness." It implements
 - ****Sandboxes****: Providing secure, restricted execution environments for agent code.
 - **[[procedural-memory]]**: Loading persistent context from local files (e.g., `AGENTS.md`) into the harness state.
 
-## Critique: Agent Harness Is Not Enough
+## Perspectives on Harness Architecture
+
+### Critique: Agent Harness Is Not Enough
 Per [[li-jeffrey]] / [[hola-os]]: Harnesses excel at tasks but fail roles without [[environment-engineering]]. Use [[harness-swap-test]] to validate.
+
+### Harness as the Backend
+Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent loop/tools/memory) from backend (queues/state/HTTP/observability) creates debugging hell in stochastic multi-agent systems (agents² * services paths). Thesis: Harnesses will merge into backends as agentic infrastructure standardizes. [[the-harness-is-the-backend]]
 
 ## Related Concepts
 - **Deep Agents**: Examples of an "agent harness." According to current research ([[harness-engineering]]), its utility lies in its modular middleware and progressive disclosure model.

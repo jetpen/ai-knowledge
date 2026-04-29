@@ -68,6 +68,11 @@ updated: 2026-04-27
 [[agent-harness]] - Industrial SDK wrapping LLM loops with durable execution, planning tools, and procedural memory (e.g., Deep Agents).
 [[agent-harness-design-principles]] - Akshay Pachaar (Google Cloud): 7 architectural bets for production harnesses.
 [[environment-engineering]] - Li Jeffrey (HolaBoss AI): Durable contexts sustaining agent roles beyond harness swaps.
+[[memory-lock-in]] - Harrison Chase (@hwchase17): "Memory will be the great lock-in" for agentic AI.
+[[portable-agent-memory]] - Model-agnostic memory layers persisting across harnesses/models (e.g., [[codejunkie99-brain]]).
+[[self-healing-agent-harness]] - IntuitiveML production system: Unified eval/QA loop (grade → triage → fix → verify; 99% AI code, 3-8x/day ships).
+[[the-harness-is-the-backend]] - [[mike-piccolo]]: Harnesses must merge into backends to handle stochastic multi-agent debugging (2026-04-28).
+[[codejunkie99-brain]] - Git-backed Rust memory stack for portable agent "brains" (Avid @Av1dlive).
 
 ## Oracle AI Agents & Frameworks
 [[oracle-cloud-infrastructure]] - OCI: Cloud platform hosting layered AI agent frameworks.
@@ -96,3 +101,5 @@ updated: 2026-04-27
 [[zed]] - Code editor integration surface.
 [[paperclip]] - Open-source orchestration for zero-human companies.
 [[aparna-dhinakaran]] - Ramp co-founder; agent harness context mgmt insights (2026-04-26).
+[[ashpreet-bedi]] - Twitter contributor (@ashpreetbedi); ingested link post (ID 2048817143974613089, 2026-04-27).
+[[intuitiveml]] - AI agent platform (Peter Pang @intuitiveml): Self-healing harness enables 99% AI-written prod code.
