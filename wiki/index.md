@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 created: 2026-04-14
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 
 # Wiki Index
@@ -20,10 +20,13 @@ updated: 2026-04-27
 
 ## Platforms & Frameworks
 [[claude-cowork]] - Claude Cowork is an Anthropic product designed for delegating knowledge work, featuring scheduled automation and multi-platform integrations.
-[[deep-agents]] - Deep Agents is an agent framework built on LangChain primitives, designed for building agents with advanced planning and persistent memory.
+[[codex]] - OpenAI coding agent harness: tool loop, context compression, permissions (Aparna Dhinakaran, 2026-04-29).
+[[cursor]] - Coding agent harness: converged architecture from production agents (Aparna, 2026-04-29).
+[[deep-agents]] - Deep Agents: Harness framework w/ model-specific profiles (OpenAI/Anthropic/Google; 10-20pt tau2-bench gain). Built on LangChain/LangGraph.
 [[hermes-agent]] - Hermes Agent is a self-improving platform built by Nous Research, featuring a sophisticated memory architecture.
 [[openclaw]] - OpenClaw is a personal AI assistant focused on proactive automation that serves as a predecessor project to Hermes Agent.
 [[symphony]] - Symphony is a long-running automation service designed to orchestrate coding agents for issue management.
+[[windsurf]] - Coding agent harness: tool loop, context compression, permissions (Aparna, 2026-04-29).
 
 [[agent-runtime-google]] - GCP: 7-day stateful agents (Gemini Enterprise, [[long-running-agents]] patterns).
 [[langsmith-deployment-lsd]] - LangSmith Deployment (LSD) is the production runtime for running agents, paired with Agent Server for interfaces to assistants, threads, runs, memory, and scheduled jobs.
@@ -38,6 +41,10 @@ updated: 2026-04-27
 [[vectors]] - 1D arrays: embeddings, hidden states, dot products.
 [[matrices]] - 2D arrays: NN weights, attention mechanisms.
 
+## Benchmarks
+[[tau2-bench]] - Agent benchmark; Deep Agents profiles show 10-20pt gain.
+[[terminal-bench-2.0]] - Terminal/coding agent eval; harness engineering lifts gpt-5.2-codex 52.8%→66.5%.
+
 ## Wiki Concepts
 [[agentic-memory-types]] - Taxonomy and definitions of agentic memory architectures.
 [[agent-memory-architecture]] - Comprehensive synthesis of agent memory types as harness architecture elements.
@@ -48,10 +55,13 @@ updated: 2026-04-27
 [[genai-search-chat-agent]] - Context-aware search solution.
 [[harness-engineering]] - The practice of optimizing the system surrounding an LLM to achieve performance gains.
 [[hermes-agent-memory]] - Architecture of Hermes Agent persistent memory.
+[[how-ai-actually-remembers]] - Siddharth (@Pseudo_Sid26) thread: KV cache as root of agent memory loss (2026-04-29).
 [[knowledge-graph-optimization]] - Techniques for optimizing knowledge retrieval.
 [[living-in-the-singularity]] - Conceptual overview of agent-driven futures.
 [[memory-design-axes]] - Theoretical framework for evaluating LLM memory systems.
 [[memory-in-llms]] - Overarching concepts in LLM memory capabilities.
+[[kv-cache]] - Transformer KV cache: (K,V) pairs per token for efficient generation (Siddharth, 2026-04-29).
+[[token-level-memory]] - Token granularity memory via attention scores in KV cache (2026-04-29).
 [[oci-ai-accelerator-packs]] - Pre-assembled enterprise AI solution stacks.
 [[oci-generative-ai-service]] - OCI's Enterprise AI platform with agents, MCP tools, guardrails, and vector stores.
 [[raw-derived-tradeoff]] - Theoretical analysis of data processing strategies.
@@ -72,6 +82,7 @@ updated: 2026-04-27
 [[portable-agent-memory]] - Model-agnostic memory layers persisting across harnesses/models (e.g., [[codejunkie99-brain]]).
 [[self-healing-agent-harness]] - IntuitiveML production system: Unified eval/QA loop (grade → triage → fix → verify; 99% AI code, 3-8x/day ships).
 [[the-harness-is-the-backend]] - [[mike-piccolo]]: Harnesses must merge into backends to handle stochastic multi-agent debugging (2026-04-28).
+[[smfs-supermemory-filesystem]] - Supermemory Filesystem: Agent-native FS blending RAG+FS semantics (Dhravya Shah, 2026-04-29).
 [[codejunkie99-brain]] - Git-backed Rust memory stack for portable agent "brains" (Avid @Av1dlive).
 
 ## Oracle AI Agents & Frameworks
@@ -100,6 +111,6 @@ updated: 2026-04-27
 [[nous-research]] - AI research organization.
 [[zed]] - Code editor integration surface.
 [[paperclip]] - Open-source orchestration for zero-human companies.
-[[aparna-dhinakaran]] - Ramp co-founder; agent harness context mgmt insights (2026-04-26).
+[[aparna-dhinakaran]] - Ramp co-founder; agent harness context mgmt insights (2026-04-26/29).
 [[ashpreet-bedi]] - Twitter contributor (@ashpreetbedi); ingested link post (ID 2048817143974613089, 2026-04-27).
 [[intuitiveml]] - AI agent platform (Peter Pang @intuitiveml): Self-healing harness enables 99% AI-written prod code.

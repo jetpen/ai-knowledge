@@ -1,14 +1,2 @@
-## 2026-04-28
-
-**Ingested**: https://x.com/i/status/2049139067359568032 (The Harness Is the Backend by @mfpiccolo)
-
-**Raw**: ~/projects/ai-knowledge/wiki/raw/articles/2026-04-28-mike-piccolo-the-harness-is-the-backend.md
-
-**Created/Updated**:
-- entities/mike-piccolo.md
-- wiki/the-harness-is-the-backend.md
-- wiki/agent-harness.md (updated w/ new perspective + source)
-- index.md (added entry)
-- SCHEMA.md (new tags)
-
-**Next**: [[discovery-link-pass]] | Health check passed.
+**Full Lint (2026-04-29)**: 0 broken links (/tmp/broken.txt empty). 421 .md files. Patched 5 codex-cli → codex + windsuf → windsurf. Tags: 74 valid (SCHEMA.md). No orphans/sprawl. Vault healthy.
+2026-04-29 14:44:29 [Ben Eng] ingest https://x.com/i/status/2049535740233523600 → raw/articles/2026-04-29-2049535740233523600-viv-tuning-deep-agents-model-profiles.md. Created: [[tau2-bench]], [[terminal-bench-2.0]]. Updated: [[deep-agents]].

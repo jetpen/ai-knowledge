@@ -82,7 +82,7 @@ When new information conflicts with existing content:
 # Auto-added missing tags from lint pass
 - Discovered: linear-algebra, vectors, matrices, tensors, ai-fundamentals, mathematics, adk-2.0, hybrid-graph, google-cloud-next-26, agent-skill-design-patterns, tool-wrapper, generator-pattern, reviewer-pattern, inversion-pattern, pipeline-pattern, multi-agent-orchestration, context-management, agent-harnesses, pi-mono, claude-code, letta, alyx, arize, session-pruning, file-reads, sub-agents, large-file-context-management, subagent-context-management, ashpreet-bedi, twitter-post, stochastic-agents, backend-integration, agentic-infrastructure
 
-- Discovered: coding-agents, compute-and-sandboxing, e2b, daytona, browserbase, composeio, honcho, memori, llm-programming, prompt-optimization, agent-skill, dspy-agent, codejunkie99-brain, portable-agent-memory, memory-lock-in, memory-stack, agent-memory-stack, self-healing-agent-harness, intuitiveml, agent-harness-loop
+- Discovered: coding-agents, compute-and-sandboxing, e2b, daytona, browserbase, composeio, honcho, memori, llm-programming, prompt-optimization, agent-skill, dspy-agent, codejunkie99-brain, portable-agent-memory, memory-lock-in, memory-stack, agent-memory-stack, self-healing-agent-harness, intuitiveml, agent-harness-loop, model-profiles, agent-benchmark, tau2-bench, terminal-bench-2.0
 
 - concepts: Synthesized concepts folder from raw sources
   - type: concept

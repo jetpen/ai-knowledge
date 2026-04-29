@@ -1,7 +1,7 @@
 ---
 title: Agent Harness
 created: 2026-04-12
-updated: 2026-04-28
+updated: 2026-04-29
 type: concept
 tags: ["framework", "agents", "harness", "concept", "deepagents"]
 sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md"]
@@ -30,6 +30,18 @@ LangChain defines `deepagents` specifically as an "agent harness." It implements
 - **[[procedural-memory]]**: Loading persistent context from local files (e.g., `AGENTS.md`) into the harness state.
 
 ## Perspectives on Harness Architecture
+
+### Aparna Dhinakaran: Bottom-Up from Coding Agents (2026-04-29)
+Per [[aparna-dhinakaran]] X post: Harnesses **not** frameworks like [[langgraph]]/LangChain (human-configured abstractions). Instead, bottom-up architectures from production coding agents:
+
+- **Examples**: Cursor, [[claude-code]], Windsurf, Codex, Arize [[alyx-agent]].
+- **Converged patterns**: Tool-calling while loop, history compression (context manager), permission/safety layers.
+- **Core**: Abstractions from these real-world solutions; general-purpose out-of-box for wide problems.
+
+Critiques retrofitting older frameworks as "harnesses."
+
+sources: [...existing..., "raw/articles/2046980769747533830-aparna-dhinakaran-what-is-agent-harness.md"]
+
 
 ### Critique: Agent Harness Is Not Enough
 Per [[li-jeffrey]] / [[hola-os]]: Harnesses excel at tasks but fail roles without [[environment-engineering]]. Use [[harness-swap-test]] to validate.

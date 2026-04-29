@@ -44,5 +44,10 @@ Built on [[langchain]] and uses the [[langgraph]] runtime for execution.
 - Permissions
 - Sandboxes
 
+## Recent Updates (2026-04-29)
+- **Harness Profiles**: Model-specific profiles for OpenAI, Anthropic, Google. Adjusts prompts, tools, middleware. 10-20pt jump on [[tau2-bench]] subset. Addresses model-specific prompting guides (e.g., [[Codex Prompting Guide]], [[Claude prompting guidance]]). Improves Terminal-Bench 2.0 scores (e.g., gpt-5.2-codex 52.8% → 66.5%).
+
+See: [[harness-engineering]]
+
 ## Inspirations & Mentions
 This project was primarily inspired by Claude Code and builds upon the core building blocks of [[langchain]] and the [[langgraph]] runtime. It aims to simplify the creation of advanced agents.
