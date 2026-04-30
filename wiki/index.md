@@ -46,6 +46,7 @@ updated: 2026-04-29
 [[terminal-bench-2.0]] - Terminal/coding agent eval; harness engineering lifts gpt-5.2-codex 52.8%→66.5%.
 
 ## Wiki Concepts
+[[agent-primitives]] - Durable building blocks (protocols, memory, sandboxing; Rohit 2026).
 [[agentic-memory-types]] - Taxonomy and definitions of agentic memory architectures.
 [[agent-memory-architecture]] - Comprehensive synthesis of agent memory types as harness architecture elements.
 [[agentic-production-infrastructure]] - Engineering stack to move agents from demo to production.
