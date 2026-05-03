@@ -16,3 +16,8 @@
 ## [2026-05-03] obsidian-sync | Post-index update
 - Synced: index.md updates + sub-sections (457 pages).
 - Git: Staged/committed/pushed.
+
+## [2026-05-03] revert-move | type:summary → wiki/ (3 files)
+- Moved back: concepts/smfs-supermemory-filesystem.md, linear-algebra-roadmap-ai-ml.md, how-ai-actually-remembers.md → wiki/
+- Git commit/push + ob sync.
+- No broken links (0 [[concepts/]] refs).
