@@ -21,4 +21,4 @@ Like OpenAPI spec for agent-to-agent.
 
 In [[entities/adk-2.0]]: auto-generated from agent definition.
 
-See: [[wiki/a2a-mcp-integration-patterns#agent-card-discovery]]
+See: [[a2a-mcp-integration-patterns#agent-card-discovery]]

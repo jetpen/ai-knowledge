@@ -10,7 +10,7 @@ author: auto
 
 # DSPy
 
-DSPy (Declarative Self-improving Python) is an open-source Python framework for programming—not prompting—LLMs. It replaces brittle prompt engineering with declarative code: signatures define I/O, modules implement strategies (e.g., [[wiki/dspy-signature]], [[dspy-module]], [[dspy-optimizers]], [[chain-of-thought]], [[react]]), and optimizers (e.g., BootstrapFewShot, MIPROv2) automatically tune prompts/demos using metrics and examples.
+DSPy (Declarative Self-improving Python) is an open-source Python framework for programming—not prompting—LLMs. It replaces brittle prompt engineering with declarative code: signatures define I/O, modules implement strategies (e.g., [[dspy-signature]], [[dspy-module]], [[dspy-optimizers]], [[chain-of-thought]], [[react]]), and optimizers (e.g., BootstrapFewShot, MIPROv2) automatically tune prompts/demos using metrics and examples.
 
 ## Key Components
 - **Signatures**: Task blueprints, e.g., `question -> answer: float` or class `ClassifySentiment(sentence: str -> sentiment: str)`.

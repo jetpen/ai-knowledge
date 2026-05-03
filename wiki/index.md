@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 created: 2026-04-14
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # Wiki Index
@@ -23,7 +23,7 @@ updated: 2026-04-29
 [[codex]] - OpenAI coding agent harness: tool loop, context compression, permissions (Aparna Dhinakaran, 2026-04-29).
 [[cursor]] - Coding agent harness: converged architecture from production agents (Aparna, 2026-04-29).
 [[deep-agents]] - Deep Agents: Harness framework w/ model-specific profiles (OpenAI/Anthropic/Google; 10-20pt tau2-bench gain). Built on LangChain/LangGraph.
-[[hermes-agent]] - Hermes Agent is a self-improving platform built by Nous Research, featuring a sophisticated memory architecture.
+[[hermes-agent]] - Hermes Agent is a self-improving platform built by Nous Research, featuring a sophisticated memory architecture (custom [[context-os]] by Tony Simons).
 [[openclaw]] - OpenClaw is a personal AI assistant focused on proactive automation that serves as a predecessor project to Hermes Agent.
 [[symphony]] - Symphony is a long-running automation service designed to orchestrate coding agents for issue management.
 [[windsurf]] - Coding agent harness: tool loop, context compression, permissions (Aparna, 2026-04-29).
@@ -47,6 +47,7 @@ updated: 2026-04-29
 
 ## Wiki Concepts
 [[agent-primitives]] - Durable building blocks (protocols, memory, sandboxing; Rohit 2026).
+[[context-os]] - Tony Simons' "Context OS": layered Hermes Agent infrastructure replacing simplistic memory with 11+ navigable surfaces (identity, facts, procedures, history).
 [[agentic-memory-types]] - Taxonomy and definitions of agentic memory architectures.
 [[agent-memory-architecture]] - Comprehensive synthesis of agent memory types as harness architecture elements.
 [[agentic-production-infrastructure]] - Engineering stack to move agents from demo to production.
@@ -115,3 +116,4 @@ updated: 2026-04-29
 [[aparna-dhinakaran]] - Ramp co-founder; agent harness context mgmt insights (2026-04-26/29).
 [[ashpreet-bedi]] - Twitter contributor (@ashpreetbedi); ingested link post (ID 2048817143974613089, 2026-04-27).
 [[intuitiveml]] - AI agent platform (Peter Pang @intuitiveml): Self-healing harness enables 99% AI-written prod code.
+[[tony-simons]] - Builder (@tonysimons_): Custom Context OS for Hermes Agent; 47-pt memory audit (2026-05-03).

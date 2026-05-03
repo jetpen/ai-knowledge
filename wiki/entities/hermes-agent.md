@@ -1,11 +1,12 @@
 ---
 title: Hermes Agent
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-05-03
 type: entity
-tags: [hermes-agent, memory, llm-arch, cognitive-science]
+tags: [hermes-agent, memory, llm-arch, cognitive-science, agentic-infrastructure]
 sources: 
  - raw/articles/2036417870473863674.md
+ - raw/articles/2026-05-03-tony-simons-forget-about-memory-context-os-hermes-agent.md
 author: auto
 ---
 
@@ -28,7 +29,11 @@ Hermes Agent separates internal knowledge into four distinct persistent stores, 
 - **Consolidation Cycles**: Uses `nudge_interval` to trigger evaluations of information value.
 - **Security**: Atomic writes via `fsync()` and scanning of content to prevent injection or exfiltration.
 
+## Custom Implementations
+- [[context-os]]: Tony Simons' layered "Context OS" (11+ surfaces: SOUL.md identity, facts DB, procedures, session history, compression, routines; v2026.4.30 setup).
+
 ## See Also
 - [[agentic-memory]]
 - [[harness-engineering]]
 - [[agent-interoperability]]
+- [[context-os]]

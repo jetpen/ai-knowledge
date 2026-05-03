@@ -10,7 +10,7 @@ author: auto
 
 # Google Cloud Next '26
 
-Annual Google Cloud conference where [[adk-2.0]] and [[wiki/a2a-mcp-integration-patterns]] were announced.
+Annual Google Cloud conference where [[adk-2.0]] and [[a2a-mcp-integration-patterns]] were announced.
 
 ## Related
 - [[adk-2.0]]

@@ -14,6 +14,6 @@ Official X account for Google Cloud.
 
 Key announcements:
 - [[agent-runtime-google]]: 7-day long-running agents (Cloud Next '26).
-- [[wiki/a2a-mcp-integration-patterns]]: A2A/MCP integration patterns (Cloud Next '26).
+- [[a2a-mcp-integration-patterns]]: A2A/MCP integration patterns (Cloud Next '26).
 - [[agent-runtime-google]]: 7-day long-running agents (Cloud Next '26).
 - Patterns for production: [[long-running-agents]], [[checkpoint-and-resume]], etc.

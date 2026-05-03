@@ -14,4 +14,4 @@ author: auto
 
 Part of [[dspy]] agent extensions for Claude/Codex.
 
-Links: [[wiki/dspy-signature]], [[dspy-module]].
+Links: [[dspy-signature]], [[dspy-module]].

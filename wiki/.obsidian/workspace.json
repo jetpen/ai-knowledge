@@ -11,10 +11,14 @@
             "id": "7e1bce9287441a14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "entities/rohit4verse.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "rohit4verse"
             }
           }
         ]
@@ -179,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "052b3c4134ca4d08",
+  "active": "7e1bce9287441a14",
   "lastOpenFiles": [
+    "Untitled.base",
     "entities/problem.md",
     "entities/build-vs-dont-build-judgment.md",
     "entities/brief.md",
@@ -205,7 +210,6 @@
     "log.md",
     "wiki/a2a-mcp-integration-patterns.md",
     "wiki/linear-algebra-roadmap-ai-ml.md",
-    "wiki/moderation.md",
-    "wiki/harness-engineering.md"
+    "wiki/moderation.md"
   ]
 }
