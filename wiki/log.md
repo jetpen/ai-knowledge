@@ -21,3 +21,8 @@
 - Moved back: concepts/smfs-supermemory-filesystem.md, linear-algebra-roadmap-ai-ml.md, how-ai-actually-remembers.md → wiki/
 - Git commit/push + ob sync.
 - No broken links (0 [[concepts/]] refs).
+
+## [2026-05-03] entities-move | wiki/ → entities/ (5 files)
+- Moved: paperclip.md, genai-search-chat-agent.md, explicit-content-flagging.md, oci-ai-accelerator-packs.md, delivery-route-optimizer.md → entities/
+- wiki/: 3 summaries only.
+- Git commit/push + ob sync. No link breaks.
