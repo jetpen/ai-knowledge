@@ -106,6 +106,9 @@ updated: 2026-05-03
 [[agentic-protocols-comparison]] - MCP/A2A/AG-UI/ANP stack analysis.
 [[a2a-mcp-integration-patterns]] - Cross-protocol patterns.
 
+## Queries
+[[ontology-for-input-validation]] - Proper use of ontology for semantic input validation (classes/properties/tools vocabulary matching).
+
 ## Other
 [[a2ui]] - A generative UI specification for interactive widgets.
 [[ag2]] - Multi-agent conversion framework.

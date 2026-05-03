@@ -26,3 +26,19 @@
 - Moved: paperclip.md, genai-search-chat-agent.md, explicit-content-flagging.md, oci-ai-accelerator-packs.md, delivery-route-optimizer.md → entities/
 - wiki/: 3 summaries only.
 - Git commit/push + ob sync. No link breaks.
+
+## [2026-05-03] obsidian-sync | Post-index v2
+- Synced: index.md full update (457 pages; entities+5, concepts subs).
+- Git: Staged/committed/pushed.
+
+## [2026-05-03] gitignore | Obsidian temps
+- Added: Untitled*.base, *.base, Untitled*, .obsidian/workspace*.json
+- Git commit/push + ob sync.
+- Clean status.
+
+## [2026-05-03] query | Ontology for Input Validation
+- Created: queries/ontology-for-input-validation.md
+- Raw: raw/articles/ontology-input-validation-sources.md
+- Updated: SCHEMA.md (tags), index.md
+- Links: [[ontology-for-agents]], [[mcp]], [[agent-input-design]]
+
