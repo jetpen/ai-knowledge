@@ -7,3 +7,12 @@
 - Raw: raw/articles/2026-05-03-tony-simons-forget-about-memory-context-os-hermes-agent.md
 - Created: entities/tony-simons.md, concepts/context-os.md
 - Updated: entities/hermes-agent.md (added custom impl + source), index.md
+
+## [2026-05-03] refactor | wiki/ → concepts/ (120 files)
+- Moved: wiki/*.md → concepts/*.md (all type:concept).
+- Fixed: 6 [[wiki/ links → [[ (dspy.md x2, google-cloud-next-26.md, agent-card.md, dspy-fundamentals.md, google-cloud-tech.md).
+- Git commit/push + ob sync.
+
+## [2026-05-03] obsidian-sync | Post-index update
+- Synced: index.md updates + sub-sections (457 pages).
+- Git: Staged/committed/pushed.
