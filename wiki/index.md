@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 created: 2026-04-14
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 # Wiki Index
@@ -27,6 +27,7 @@ updated: 2026-05-03
 [[openclaw]] - OpenClaw is a personal AI assistant focused on proactive automation that serves as a predecessor project to Hermes Agent.
 [[symphony]] - Symphony is a long-running automation service designed to orchestrate coding agents for issue management.
 [[windsurf]] - Coding agent harness: tool loop, context compression, permissions (Aparna, 2026-04-29).
+[[elijah-muraoka]] - Twitter (@elijahmuraoka_): Author of [[autonomous-build-manager-doctrine]] prompt (2026-05-04).
 
 [[agent-runtime-google]] - GCP: 7-day stateful agents (Gemini Enterprise, [[long-running-agents]] patterns).
 [[langsmith-deployment-lsd]] - LangSmith Deployment (LSD) is the production runtime for running agents, paired with Agent Server for interfaces to assistants, threads, runs, memory, and scheduled jobs.
@@ -51,6 +52,7 @@ updated: 2026-05-03
 [[agentic-memory-types]] - Taxonomy and definitions of agentic memory architectures.
 [[agent-memory-architecture]] - Comprehensive synthesis of agent memory types as harness architecture elements.
 [[agentic-production-infrastructure]] - Engineering stack to move agents from demo to production.
+[[autonomous-build-manager-doctrine]] - Reusable prompt doctrine for senior-engineer discipline in big agentic tasks (Elijah Muraoka, 2026-05-04).
 [[delivery-route-optimizer]] - AI-driven logistics solution.
 [[explicit-content-flagging]] - AI-based moderation tooling.
 [[agentic-coding-patterns]] - Encyclopedia of 200+ patterns for agentic software engineering (AiPatternBook).

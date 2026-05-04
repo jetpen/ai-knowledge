@@ -42,3 +42,8 @@
 - Updated: SCHEMA.md (tags), index.md
 - Links: [[ontology-for-agents]], [[mcp]], [[agent-input-design]]
 
+## [2026-05-04] ingest | Elijah Muraoka X post (https://x.com/i/status/2051021449561829432)
+- Raw: raw/articles/2026-05-04-elijah-muraoka-reusable-ai-agent-prompt-for-big-tasks.md
+- Created: entities/elijah-muraoka.md, concepts/autonomous-build-manager-doctrine.md
+- Updated: index.md, SCHEMA.md (prompt-engineering)
+
