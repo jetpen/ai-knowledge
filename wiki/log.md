@@ -47,3 +47,7 @@
 - Created: entities/elijah-muraoka.md, concepts/autonomous-build-manager-doctrine.md
 - Updated: index.md, SCHEMA.md (prompt-engineering)
 
+
+## [2026-05-04] full-cycle | Jayanth/Trevin X ingests (5 new: raw/entities/concepts) + lint (0 crit) + patch broken/aliases/discovery (+16 bidir) + index (414 pages)
+- Git: b00999c (ingest/patch), 04116ae (index)
+- Ob: 8 uploads (new pages/mods)
