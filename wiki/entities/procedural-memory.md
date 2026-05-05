@@ -6,7 +6,7 @@ title: Procedural Memory
 ---
 
 1|---
-     2|title: [[procedural-memory|Procedural Memory]]
+     2|title: Procedural Memory
      3|created: 2026-04-12
      4|updated: 2026-04-12
      5|type: concept
@@ -14,7 +14,7 @@ title: Procedural Memory
      7|sources: ["raw/articles/deepagents-api-ref-2026.md", "raw/articles/hermes-agent-readme-2026.md"]
      8|---
      9|
-    10|# [[procedural-memory|Procedural Memory]] (Agent Skills)
+    10|# Procedural Memory (Agent Skills)
     11|
     12|[[procedural-memory|Procedural Memory]] is a type of persistent agent storage dedicated to "how-to" knowledge. It consists of discrete, reusable workflows or "skills" that teach an AI agent how to use its tools to achieve specific outcomes. This is distinct from "Declarative Memory" (which stores facts) or "[[episodic-memory|Episodic Memory]]" (which stores past conversation events).
     13|

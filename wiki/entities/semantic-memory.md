@@ -1,5 +1,5 @@
 ---
-title: [[semantic-memory|Semantic Memory]]
+title: Semantic Memory
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -8,7 +8,7 @@ sources: [raw/articles/practical-guide-to-memory-for-autonomous-llm-agents-nick-
 author: auto
 ---
 
-# [[semantic-memory|Semantic Memory]]
+# Semantic Memory
 
 ## Definition
 Abstracted, distilled knowledge: facts, heuristics, conclusions. Requires curation to avoid junk.
