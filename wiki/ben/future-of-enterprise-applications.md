@@ -17,6 +17,16 @@ First principles thinking
 
 Taste
 
+Commoditized
+Low-cost
+Mass-produced
+Disposable
+
+Natural language becomes the ultimate source code
+
+End users become the ultimate coders of their own integrated systems of applications
 
 As artificial intelligence improves, job roles will take advantage of automation and tooling to increase productivity and reduce the need for human labor.
+
+All engineering becomes software engineerng.
 

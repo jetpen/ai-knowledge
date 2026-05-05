@@ -1,1 +1,20 @@
----\ntitle: Amar SVS\ncreated: 2026-05-05\nupdated: 2026-05-05\ntype: entity\ntags: [person, agentic-infrastructure]\nsources: [raw/articles/2026-05-05-amarsvs-halo-hierarchical-agent-loop-optimization.md]\nauthor: auto\n---\n\n# Amar SVS\n\nTwitter: [@AmarSVS](https://x.com/AmarSVS)\n\nAI researcher on self-improving agent harnesses.\n\n## Contributions\n- **HALO (Hierarchical Agent Loop Optimization)**: Recursive methodology + HALO-Engine (RLM for traces) → SGC 73.7%→89.5% on AppWorld (2026-05-05).\n\nRelated: [[halo-agent-loop-optimization]], [[self-healing-agent-harness]], [[harness-engineering]]
+---
+title: Amar SVS
+created: 2026-05-05
+updated: 2026-05-05
+type: entity
+tags: [person, agentic-infrastructure]
+sources: [raw/articles/2026-05-05-amarsvs-halo-hierarchical-agent-loop-optimization.md]
+author: auto
+---
+
+# Amar SVS
+
+Twitter: [@AmarSVS](https://x.com/AmarSVS)
+
+AI researcher on self-improving agent harnesses.
+
+## Contributions
+- **HALO (Hierarchical Agent Loop Optimization)**: Recursive methodology + HALO-Engine (RLM for traces) → SGC 73.7%→89.5% on AppWorld (2026-05-05).
+
+Related: [[halo-agent-loop-optimization]], [[self-healing-agent-harness]], [[harness-engineering]]
