@@ -47,6 +47,7 @@ updated: 2026-05-04
 [[terminal-bench-2.0]] - Terminal/coding agent eval; harness engineering lifts gpt-5.2-codex 52.8%→66.5%.
 
 ## Wiki Concepts
+[[agent-native-clis]] - Trevin Chow: 10 principles for agent CLIs (Tier 1 table stakes, Tier 2 compounding; Wrangler/HeyGen ex).
 [[agent-primitives]] - Durable building blocks (protocols, memory, sandboxing; Rohit 2026).
 [[context-os]] - Tony Simons' "Context OS": layered Hermes Agent infrastructure replacing simplistic memory with 11+ navigable surfaces (identity, facts, procedures, history).
 [[agentic-memory-types]] - Taxonomy and definitions of agentic memory architectures.
@@ -112,6 +113,8 @@ updated: 2026-05-04
 [[ontology-for-input-validation]] - Proper use of ontology for semantic input validation (classes/properties/tools vocabulary matching).
 
 ## Other
+[[jayanth-sanku]] - Twitter (@JayanthSanku01): KV cache explainer thread (2026-05-03).
+[[trevin-chow]] - AI builder (@trevin): Agent-native CLIs (ex-Microsoft/BigCartel).
 [[a2ui]] - A generative UI specification for interactive widgets.
 [[ag2]] - Multi-agent conversion framework.
 [[linear]] - Issue tracker for software teams.
