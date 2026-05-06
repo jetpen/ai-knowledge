@@ -1,5 +1,6 @@
-## [2026-05-05] ingest | Philipp Schmid X post (https://x.com/_philschmid/status/2051674663965606052)
-- Raw: raw/twitter/philipp-schmid-agent-team-post-2026-05-05.md
-- Created: entities/philipp-schmid.md
-- Updated: concepts/agent-teams.md, index.md
-- Health: No new broken/orphans. Links normalized (bidir [[philipp-schmid]] ↔ [[agent-teams]]).
+## [2026-05-05] ingest | Rico X post/article (https://x.com/i/status/2051621781363188219)
+- Raw: raw/twitter/rico-agent-native-product-design-2026-05-05.md
+- Created: entities/rico.md, concepts/agent-native-product-design.md
+- Bidirectional links: [[rico]] ↔ [[agent-native-product-design]]; to [[cursor]], [[claude]]
+- Updated: index.md
+- Health: New pages compliant; no conflicts.
