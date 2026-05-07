@@ -4,9 +4,9 @@ type: concept
 author: auto
 title: Procedural Memory
 created: 2026-04-12
-updated: 2026-04-12
-tags: ["memory", "concept", "agents", "skills", "hermes"]
-sources: ["raw/articles/deepagents-api-ref-2026.md", "raw/articles/hermes-agent-readme-2026.md"]
+
+tags: [memory, concept, agents, skills, hermes]
+sources: [raw/articles/deepagents-api-ref-2026.md, raw/articles/hermes-agent-readme-2026.md]
 ---
 
 # Procedural Memory (Agent Skills)
