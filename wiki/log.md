@@ -3,4 +3,16 @@
 - Created: entities/rico.md, concepts/agent-native-product-design.md
 - Bidirectional links: [[rico]] ↔ [[agent-native-product-design]]; to [[cursor]], [[claude]]
 - Updated: index.md
-- Health: New pages compliant; no conflicts.
+- Health: New pages compliant; no conflicts.## [2026-05-05] ingest | Steven Batman X article (https://x.com/i/status/2050592861842751532)
+- Raw: raw/twitter/steven-batman-19-agent-memory-systems-2026-05-02.md
+- Created: entities/steven-batman.md, concepts/agent-memory-paradigms.md
+- Bidirectional: [[steven-batman]] ↔ [[agent-memory-paradigms]]; to [[agent-memory-architecture]], [[llm-wiki]]
+- Health: Compliant, no conflicts.
+
+## [2026-05-07] ingest | Oracle AI Agent Memory Blog (https://blogs.oracle.com/database/introducing-oracle-ai-agent-memory-a-unified-memory-core-for-enterprise-ai-systems)
+- Raw: raw/articles/oracle-ai-agent-memory-sdk-2026-03-23.md
+- Created: entities/oracle-ai-agent-memory-sdk.md, entities/rhicheek-patra.md, entities/sanjay-goil.md
+- Updated: entities/oracle-cloud-infrastructure.md, comparisons/oracle-ai-agent-frameworks.md
+- Bidirectional: [[oracle-ai-agent-memory-sdk]] ↔ [[oracle-cloud-infrastructure]], [[oracle-ai-agent-frameworks]]; authors ↔ SDK
+- Updated: index.md
+- Health: Compliant, no conflicts; links normalized.

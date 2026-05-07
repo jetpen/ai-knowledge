@@ -30,3 +30,4 @@ As artificial intelligence improves, job roles will take advantage of automation
 
 All engineering becomes software engineerng.
 
+https://x.com/i/status/2052052899115749692
