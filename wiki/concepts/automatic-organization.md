@@ -26,4 +26,6 @@ In the "Agentic Web" era, automatic organization allows for scale. It moves away
 ## Related Concepts
 - **[[agent-collaboration-network]]**: The broader infrastructure that hosts organized groups.
 - **[[multi-agent-systems]]**: The architectural paradigm that is automated by this process.
-- **[[meta-protocol-layer]]**: The technical layer where the "automatic negotiation" occurs.
+[[meta-protocol-layer]]: The technical layer where the "automatic negotiation" occurs.
+
+Related: [[agent-collaboration-network]] | [[isolated-workspace]] | [[subagent-spawning]]
