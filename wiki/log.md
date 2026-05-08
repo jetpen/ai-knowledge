@@ -15,4 +15,4 @@
 - Updated: entities/oracle-cloud-infrastructure.md, comparisons/oracle-ai-agent-frameworks.md
 - Bidirectional: [[oracle-ai-agent-memory-sdk]] ↔ [[oracle-cloud-infrastructure]], [[oracle-ai-agent-frameworks]]; authors ↔ SDK
 - Updated: index.md
-- Health: Compliant, no conflicts; links normalized.
+- Health: Compliant, no conflicts; links normalized.\n\n## [2026-05-07] ingest | Amit Shekhar X post on LoRA (https://x.com/i/status/2052344905004171507)\n- Raw: raw/twitter/amit-shekhar-lora-low-rank-adaptation-llms-2026-05-07.md\n- Created: entities/amit-shekhar.md, concepts/lora-low-rank-adaptation.md\n- Bidirectional links: [[amit-shekhar]] ↔ [[lora-low-rank-adaptation]]; to [[fine-tuning]]\n- Updated: index.md\n- Health: New pages compliant; no broken links or conflicts detected.\n    19|

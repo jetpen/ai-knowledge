@@ -1,7 +1,7 @@
 ---
 source_url: https://x.com/i/status/2051621781363188219
 ingested: 2026-05-05
-sha256: d08876423b029816b82e4c3b8c6ab3c6822a234046c4ea6e82f291d91e295411
+sha256: e5f83ea627759da04d2e1244998b15f3cda450418f90e182f999a3c8d9cba475
 ---
 
 rico (@_heyrico) X Article: A Guide to Agent-Native Product Design

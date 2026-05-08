@@ -1,7 +1,7 @@
 ---
 source_url: https://x.com/i/status/2050592861842751532
 ingested: 2026-05-05
-sha256: 0000000000000000000000000000000000000000000000000000000000000000  # PLACEHOLDER
+sha256: e8cb39b33bdfd6a186371615640fa7fc40e76725869c157bd150b89c8ff94488
 ---
 
 Steven (Batman) Batchelor-Manning (@S_BatMan) X Article: What 19 agent-memory systems all agree on (negative consensus)

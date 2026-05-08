@@ -28,6 +28,14 @@ End users become the ultimate coders of their own integrated systems of applicat
 
 As artificial intelligence improves, job roles will take advantage of automation and tooling to increase productivity and reduce the need for human labor.
 
-All engineering becomes software engineerng.
+All engineering becomes software engineering.
 
+AI job apocalypse:
 https://x.com/i/status/2052052899115749692
+
+Team alignment: 
+https://x.com/i/status/2052497467883581677
+
+
+
+

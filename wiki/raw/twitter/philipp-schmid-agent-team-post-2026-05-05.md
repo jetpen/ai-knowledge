@@ -1,7 +1,7 @@
 ---
 source_url: https://x.com/_philschmid/status/2051674663965606052
 ingested: 2026-05-05
-sha256: b735b8b543bb6c08b99ee700660de300190c5f352be9e13626a053eda43fec76
+sha256: 3aa0ab56197dd8759f69a3d197422f03d2129b5995fddfacc93ffc8b04b4e95c
 ---
 
 Philipp Schmid (@_philschmid) Twitter Post on Agent Teams
