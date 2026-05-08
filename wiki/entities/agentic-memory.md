@@ -41,5 +41,5 @@ title: Agentic Memory
     34|## See Also
     35|- [[memory-design-axes]]
     36|- [[hermes-agent]]
-    37|- [[llm-architecture]]
+    37|- [[llm-architecture]] | [[ag-ui]] | [[model-context-protocol]] | [[agent-communication-protocol]]
     38|

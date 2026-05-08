@@ -23,4 +23,4 @@ LoRA (Low-Rank Adaptation) enables efficient fine-tuning of LLMs by freezing ori
 - **Problems Solved:** Full FT requires updating billions of params (high VRAM/Storage/Time/Cost).  
 - **Real-World:** Domain adaptation, instruction tuning, etc.  
 
-[[amit-shekhar]] | [[fine-tuning]] | [[large-language-models]]
+[[amit-shekhar]] | [[fine-tuning]] | [[large-language-models]] | [[llm-architecture]] | [[sub-agents]] | [[llm]]

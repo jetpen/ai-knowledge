@@ -41,4 +41,4 @@ Open-source agents thrive through the use of open protocols that prevent fragmen
 ## Related Concepts
 - **[[digital-employee]]**: The role often fulfilled by persistent open-source agents.
 - **[[proactive-automation]]**: A key feature often implemented first in open-source environments.
-- **[[agentic-workspace]]**: The private stage where open-source agents perform their work.
+- **[[agentic-workspace]] | [[open-source-agent-protocols]] | [[agent-harness-design-principles]] | [[production-agent-runtime]]**: The private stage where open-source agents perform their work.

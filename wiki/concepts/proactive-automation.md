@@ -42,4 +42,4 @@ Self-improving agents like **[[hermes-agent]]** use their **[[agent-learning-loo
 ## Related Concepts
 - **[[digital-employee]]**: The role identity of a proactive agent.
 - **[[long-running-automation-service]]**: The architectural host for proactive behavior.
-- **[[automated-workflows]]**: The complex tasks executed proactively.
+- **[[automated-workflows]] | [[long-running-automation-service]] | [[agent-cron-scheduler]] | [[open-source-agent]]**: The complex tasks executed proactively.

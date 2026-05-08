@@ -32,4 +32,4 @@ Sits below harnesses (e.g., [[dspy]], [[hermes-agent]]), above raw compute. Brid
 - [[agentic-memory-types]] - Memory classifications.
 - [[harness-engineering]] - Optimization practices.
 - [[working-memory]] - Ephemeral context risks.
-- [[oracle-cloud-infrastructure]] - Hosting platforms.
+- [[oracle-cloud-infrastructure]] - Hosting platforms. | [[portable-agent-memory]] | [[deep-agents]] | [[harness-engineering]]
