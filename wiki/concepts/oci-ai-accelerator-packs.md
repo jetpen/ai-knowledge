@@ -24,3 +24,4 @@ These packs combine [[oci-ai-services]], compute, storage, and curated open-sour
 - **Low-touch Deployment**: Simplifies infrastructure management by automating the full stack.
 - **Flexibility**: Offers month-to-month access to help enterprises demonstrate value without long-term commitments.
 - **Ecosystem Integration**: Built upon the trusted foundation of [[oracle-cloud-infrastructure]].
+Related: [[ai-accelerator-packs]] | [[oci-ai-agent-hub]] | [[oracle-cloud-infrastructure]]

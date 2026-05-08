@@ -13,3 +13,4 @@ Synthesis from sources ['raw/articles/agent2agent-protocol-readme-2026.md']: Thi
 
 ## Source Context
 This entry is compiled from the following ingested material: raw/articles/agent2agent-protocol-readme-2026.md.
+Related: [[agent-communication]] | [[credential-inclusion]] | [[standardized-restful-api]]

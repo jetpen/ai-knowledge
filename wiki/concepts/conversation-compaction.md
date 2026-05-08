@@ -31,3 +31,4 @@ Within the **[[deep-agents-sdk]]**, compaction is handled via specialized middle
 ## Related Concepts
 - **[[durable-execution]]**: Ensures that the compacted state is persisted across interruptions.
 - **[[procedural-memory]]**: Complements compaction by storing specific learned skills outside the active chat context.
+Related: [[agent-harness]] | [[context-management-in-agent-harnesses]] | [[agent-memory-paradigms]]

@@ -19,3 +19,4 @@ Require [[environment-engineering]] beyond [[agent-harness]] for coherence, lear
 From [[li-jeffrey]] / [[hola-os]]: Environment sustains roles; harness executes tasks.
 
 Related: [[production-agent-runtime]], [[durable-execution]].
+Related: [[long-running-agents]] | [[deep-agents-deploy]] | [[the-future-of-agents]]
