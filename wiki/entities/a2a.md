@@ -18,3 +18,5 @@ A2A (Agent-to-Agent) is an emerging communication paradigm for orchestrating mul
 
 ## Source Context
 - Research reconnaissance phase (April 2026).
+
+See also: [[agent2agent-protocol]]
