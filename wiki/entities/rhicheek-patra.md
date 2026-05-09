@@ -16,4 +16,4 @@ Senior Director, Oracle AI Database.
 - Expertise: ML (graph learning), privacy/security, recommenders.
 - Publications: NAACL, ICML, VLDB, ICDE.
 
-Co-author: [[oracle-ai-agent-memory-sdk]]
+Co-author: [[oracle-ai-agent-memory-sdk]], [[oracle-cloud-infrastructure]]

@@ -17,4 +17,4 @@ AI/ML educator explaining core concepts like [[kv-cache]] in transformers.
 ## Contributions
 - Detailed thread on KV cache mechanics, trade-offs, and optimizations (2026-05-03).
 
-Related: [[kv-cache]], [[attention-mechanism]]
+Related: [[kv-cache]], [[attention-mechanism]], [[agent-memory-dimensions]]
