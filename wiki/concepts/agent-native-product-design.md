@@ -22,4 +22,4 @@ Per [[rico]]: Agents handle production; designer strategizes/dispatches/reviews/
 ## New Loop (5h vs 5d)
 - Strategy file → Brief (spec) → Dispatch (Cursor/Claude) → PR review → Ship URL.
 
-Related: [[cursor]], [[claude]], [[product-design-artifacts]], [[planning-execution-flip]]
+Related: [[cursor]], [[claude]], [[product-design-artifacts]], [[planning-execution-flip]] , [[trevin-chow]]

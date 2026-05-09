@@ -17,4 +17,4 @@ AI researcher on self-improving agent harnesses.
 ## Contributions
 - **HALO (Hierarchical Agent Loop Optimization)**: Recursive methodology + HALO-Engine (RLM for traces) → SGC 73.7%→89.5% on AppWorld (2026-05-05).
 
-Related: [[agent-native-product-design]], [[halo-agent-loop-optimization]], [[self-healing-agent-harness]], [[harness-engineering]]
+Related: [[agent-native-product-design]], [[halo-agent-loop-optimization]], [[self-healing-agent-harness]], [[harness-engineering]] , [[agent-harness]]
