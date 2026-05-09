@@ -16,7 +16,12 @@ Twitter: [@elijahmuraoka_](https://x.com/elijahmuraoka_)
 - Author of the [[autonomous-build-manager-doctrine]], a reusable prompt enforcing senior engineer discipline for AI agents on big tasks (Claude Code, Codex, Cursor, OpenClaw). Posted May 3, 2026.  
 
 ## Related  
+- [[agent-primitives]]
 - [[claude-code]]  
+- [[agent-primitives]]
 - [[codex]]  
+- [[agent-primitives]]
 - [[hermes-agent]]  
+- [[agent-primitives]]
 - [[agent-harness]]  
+- [[agent-primitives]]
