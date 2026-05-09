@@ -1,7 +1,7 @@
 ---
 title: Deep Agents
 created: 2026-04-19
-updated: 2026-04-20
+updated: 2026-05-08
 type: entity
 tags: [framework, deep-agents, langchain, agent-runtime, production]
 sources: [raw/articles/deepagents-overview-2026.md, raw/articles/deepagents-api-ref-2026.md, raw/articles/2026-04-20-sydney-runkle-deep-agents-runtime.md]
@@ -45,6 +45,10 @@ Built on [[langchain]] and uses the [[langgraph]] runtime for execution.
 - Sandboxes
 
 ## Recent Updates (2026-04-29)
+
+## Related
+- [[queries/agent-memory-architecture]] – Memory architecture in deep agents runtime
+- [[concepts/agent-harness]] – Deep Agents as agent harness example
 - **Harness Profiles**: Model-specific profiles for OpenAI, Anthropic, Google. Adjusts prompts, tools, middleware. 10-20pt jump on [[tau2-bench]] subset. Addresses model-specific prompting guides (e.g., [[Codex Prompting Guide]], [[Claude prompting guidance]]). Improves Terminal-Bench 2.0 scores (e.g., gpt-5.2-codex 52.8% → 66.5%).
 
 See: [[harness-engineering]]

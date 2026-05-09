@@ -1,7 +1,7 @@
 ---
 title: Orchestrator State Machine
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-08
 type: concept
 tags: ["orchestration", "state", "concept", "symphony", "reliability"]
 sources: ["raw/articles/symphony-service-spec-2026.md"]
@@ -44,5 +44,9 @@ The state machine supports **[[durable-execution]]** patterns by:
 
 ## Related Concepts
 - **[[symphony]]**: The primary orchestration implementation using this pattern.
-- ****Agent Runner****: The component that executes the state machine's "Run" commands.
+- **Agent Runner**: The component that executes the state machine's "Run" commands.
 - **[[durable-execution]]**: The design philosophy ensuring state survives interruptions.
+
+## Related
+- [[entities/agent-registry]] – Agent registry for orchestration discovery
+- [[entities/google-cloud-tech]] – Google Cloud Tech orchestration patterns

@@ -30,3 +30,7 @@
 - Linked: concepts/harness-engineering.md ↔ concepts/agent-harness.md, queries/agent-memory-architecture.md
 - Updated: dates; Related sections
 - Health: 3 orphans resolved; total ~377
+
+## [2026-05-08] discovery-link | Batch 3+4 redo (10 pairs: protocols ↔ harness/reg; deep-agents/orchestrator ↔ arch/harness/reg)
+- Updated dates/Related sections
+- Health: ~10 orphans resolved
