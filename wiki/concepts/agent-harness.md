@@ -56,4 +56,6 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 - [[subagent-spawning]]: A core functional capability provided by the harness.
 - [[agentic-workspace]]: The environment managed and secured by the harness.
 
-## Related\n- [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns\n- [[concepts/harness-engineering]] – Engineering practices for agent harnesses
+## Related
+- [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns
+- [[concepts/harness-engineering]] – Engineering practices for agent harnesses
