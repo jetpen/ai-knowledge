@@ -23,6 +23,6 @@ Methodology for **recursively self-improving agent harnesses** via **HALO-Engine
 
 **Insights:** Aggregate traces reveal tool/arg/hallucination issues; diagnostics > fixes.
 
-Relates: [[self-healing-agent-harness]], [[harness-engineering]], [[agent-harness]], [[amar-svs]]
+Relates: [[self-healing-agent-harness]], [[harness-engineering]], [[agent-harness]], [[amar-svs]] , [[agent-harness-loop]]
 
 **OS:** Repo w/ AppWorld demo/CLI. Hosted: Catalyst.
