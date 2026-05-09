@@ -40,3 +40,9 @@
 |- Fixed malformed lines (e.g., '- updated:', '\\\\n-')
 |- Core categories preserved; no page tags changed
 |- Git committed
+
+## [2026-05-09] discovery-link | Batch-10 retry (10 pairs)
+|- Targets: oracle-cloud-infra ↔ sdk/authors; agent-memory-dimensions ↔ steven-batman/paradigms; trevin-chow ↔ agent-native-product-design; fine-tuning ↔ lora/amit; etc.
+|- 12 patches (bidir links in Related/Relationships; dates 2026-05-09)
+|- Orphans resolved: ~10 (now 1+ inbound)
+|- Git committed
