@@ -1,7 +1,7 @@
 ---
 title: Agent Memory Dimensions
 created: 2026-04-19
-updated: 2026-05-08
+updated: 2026-05-09
 type: concept
 tags: [agentic-memory, ai-agents, llm-arch, memory]
 sources:
@@ -89,6 +89,7 @@ In the context of Ben's AI/ML research wiki (`~/wiki`):
 Maintenance workflows (health check, discovery link pass, synthesis) are themselves procedural memory artifacts that manage the semantic and episodic stores.
 
 ## References
+- [[steven-batman]] (19 agent-memory systems survey → [[agent-memory-paradigms]])
 
 1. Lawson, N. (2026, April 17). *A Practical Guide to Memory for Autonomous LLM Agents*. Towards Data Science. https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/
 2. Zhang, Y. et al. (2026). *Memory for Autonomous LLM Agents: Mechanisms, Evaluation, and Emerging Frontiers*. arXiv:2603.07670.

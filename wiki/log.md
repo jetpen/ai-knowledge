@@ -32,5 +32,11 @@
 - Health: 3 orphans resolved; total ~377
 
 ## [2026-05-08] discovery-link | Batch 3+4 redo (10 pairs: protocols ↔ harness/reg; deep-agents/orchestrator ↔ arch/harness/reg)
-- Updated dates/Related sections
-- Health: ~10 orphans resolved
+|- Updated dates/Related sections
+|- Health: ~10 orphans resolved
+
+## [2026-05-09] schema-sync | Tag taxonomy consolidated
+|- Deduped 200+ Discovered tags → 85 unique (alpha-sorted)
+|- Fixed malformed lines (e.g., '- updated:', '\\\\n-')
+|- Core categories preserved; no page tags changed
+|- Git committed

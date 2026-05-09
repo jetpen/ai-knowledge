@@ -1,6 +1,6 @@
 ---
 title: Oracle Cloud Infrastructure
-created: 2026-04-15
+updated: 2026-05-09
 type: entity
 ---
 # Oracle Cloud Infrastructure (OCI)
@@ -9,4 +9,4 @@ type: entity
 
 Key converged database: [[oracle-ai-database]], powering unified agent memory.
 
-Relates to: [[oracle-ai-agent-frameworks]]
+Relates to: [[oracle-ai-agent-frameworks]], [[rhicheek-patra]], [[sanjay-goil]]
