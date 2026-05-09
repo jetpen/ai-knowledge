@@ -41,8 +41,11 @@
 |- Core categories preserved; no page tags changed
 |- Git committed
 
-## [2026-05-09] discovery-link | Batch-10 retry (10 pairs)
-|- Targets: oracle-cloud-infra ↔ sdk/authors; agent-memory-dimensions ↔ steven-batman/paradigms; trevin-chow ↔ agent-native-product-design; fine-tuning ↔ lora/amit; etc.
-|- 12 patches (bidir links in Related/Relationships; dates 2026-05-09)
-|- Orphans resolved: ~10 (now 1+ inbound)
-|- Git committed
+## [2026-05-09] discovery-link | Batch-10 retry v3 (5 explicit outbound to orphans)
+|- jayanth-sanku.md + [[agent-memory-dimensions]]
+|- elijah-muraoka.md + [[agent-primitives]]
+|- philipp-schmid.md + [[sub-agents-vs-agent-teams]]
+|- amar-svs.md (spacing fix)
+|- rhicheek-patra.md + [[oracle-cloud-infrastructure]]
+|- Git status non-empty pre-commit; 5 M files committed
+|- Orphans -5 (~355)
