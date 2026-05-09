@@ -12,4 +12,4 @@ author: auto
 
 Agent benchmark mentioned in Deep Agents announcement. Subset shows 10-20pt improvement with model-specific harness profiles.
 
-Related: [[terminal-bench-2.0]], [[harness-engineering]]
+Related: [[terminal-bench-2.0]], [[harness-engineering]] , [[agent-benchmark]]

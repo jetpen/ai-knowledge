@@ -14,4 +14,4 @@ Technical lead at stealth AI company. 2+ years building agents; multiple $250k+ 
 
 Key thread: [[what-to-learn-build-skip-ai-agents-2026]] – Filters, Learn/Build/Skip for agent dev.
 
-Related: [[harness-engineering]], [[mcp]], [[deep-agents]]
+Related: [[harness-engineering]], [[mcp]], [[deep-agents]] , [[agent-primitives]]
