@@ -1,7 +1,7 @@
 ---
 title: \"[[dark-software-factory-memory|Dark Software Factory (DSF) Memory Classifications]]\"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-08
 type: concept
 tags: ['dark-software-factory', 'sdlc', 'memory-classification', 'specifications', 'agentic-workflows', 'templates', 'ledgers', 'state']
 sources: ['ben/dark-software-factory.md', 'raw/articles/dark-software-factory-2026.md', 'wiki/dark-software-factory.md']
@@ -120,4 +120,4 @@ Each phase lists key memory docs, bounded by discipline, skills, and scope. Deri
 - **Progress Tracking**: Ledgers use tables: `| Task | Status | Evidence | Assignee |`.
 - **Health**: Ensure wikilinks to phases/disciplines; validate schema compliance.
 
-[[dark-software-factory]] | [[sdlc-automation]] | [[agentic-workflows]]
+[[dark-software-factory]] | [[sdlc-automation]] | [[agentic-workflows]]\n\n## Related\n- [[concepts/agent-memory-dimensions]] – Orthogonal memory dimensions for agentic workflows like DSF

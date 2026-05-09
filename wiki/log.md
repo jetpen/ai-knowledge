@@ -23,3 +23,10 @@
 - Linked: entities/kv-cache.md ↔ queries/agent-memory-architecture.md
 - Updated: dates; Related sections added
 - Health: 3 orphans resolved (largest: 87/42/34 lines); total orphans now ~378
+
+## [2026-05-08] discovery-link | Batch 2 (6 bidirectional pairs, content kw >=2)
+- Linked: queries/dark-software-factory-memory.md ↔ concepts/agent-memory-dimensions.md
+- Linked: concepts/dark-software-factory.md ↔ entities/adk-2.0.md
+- Linked: concepts/harness-engineering.md ↔ concepts/agent-harness.md, queries/agent-memory-architecture.md
+- Updated: dates; Related sections
+- Health: 3 orphans resolved; total ~377

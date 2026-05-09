@@ -1,7 +1,7 @@
 ---
 title: Harness Engineering
 created: 2026-04-14
-updated: 2026-04-22
+updated: 2026-05-08
 type: concept
 tags: [harness-engineering, agentic-dev, llm-arch, software-development, agents, ai-infrastructure]
 sources: 

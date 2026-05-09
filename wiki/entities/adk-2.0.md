@@ -28,8 +28,7 @@ Introduces 5 multi-agent orchestration patterns extending prior skill patterns (
 - Extends agent skill design patterns.
 - Alternative/competitor to [[symphony]], [[hermes-agent]], [[langgraph]], [[crewai]].
 
-## Related
-- [[concepts/agent-harness]] – Agent harness as infrastructure layer
+## Related\n- [[concepts/agent-harness]] – Agent harness as infrastructure layer\n- [[concepts/dark-software-factory]] – Dark Software Factory SDLC automation
 
 ## Sources
 See raw source for full post and diagrams.

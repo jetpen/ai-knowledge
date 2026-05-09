@@ -1,7 +1,7 @@
 ---
 title: [[dark-software-factory|Dark Software Factory]]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-08
 type: concept
 tags: ["sdlc", "automation", "agents", "agentic-workflows", "devops"]
 sources: ["raw/articles/dark-software-factory-2026.md"]
@@ -77,7 +77,4 @@ Requirements → Architecture → Tests → Implement → Verify (tests pass)
 - [[mcp]]: Model Context Protocol for agent-tool integration.
 - [[a2a]]: Agent-to-agent communication standards.
 
-## Benefits & Risks
-
-**Benefits**: 10x velocity, consistency, auditability, reduced toil.
-**Risks**: Hallucinations, incomplete specs → bad outcomes; requires rigorous traceability + gates.
+## Benefits & Risks\n\n**Benefits**: 10x velocity, consistency, auditability, reduced toil.\n**Risks**: Hallucinations, incomplete specs → bad outcomes; requires rigorous traceability + gates.\n\n## Related\n- [[entities/adk-2.0]] – Google ADK 2.0 orchestration patterns for agent factories
