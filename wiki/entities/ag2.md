@@ -21,3 +21,6 @@ A multi-agent conversation framework, formerly known as AutoGen, designed for bu
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

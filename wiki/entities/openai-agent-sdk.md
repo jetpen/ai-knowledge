@@ -21,3 +21,6 @@ The official SDK or conceptual framework from OpenAI for building agents, often 
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

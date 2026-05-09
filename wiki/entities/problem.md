@@ -22,3 +22,5 @@ Problem pattern frames the core user pain agents solve, guiding scope. Articulat
 
 ## Related
 [[customer]] [[value-proposition]] [[product-market-fit]] [[user-story]] [[build-vs-dont-build-judgment]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

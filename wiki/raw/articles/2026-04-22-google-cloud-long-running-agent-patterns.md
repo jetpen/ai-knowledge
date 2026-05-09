@@ -83,3 +83,6 @@ Event-driven (Pub/Sub, BigQuery). Policies externalized via Gateway.
 Coordinator delegates to specialists; independent updates via containers.
 
 Get started: https://cloud.google.com/gemini-enterprise/agents
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

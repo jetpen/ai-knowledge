@@ -1138,3 +1138,5 @@ software through a closed-loop, test-governed, merge-request-mediated process. O
 reliably, additional SDLC stages can be added incrementally, such as broader architecture review,
 security policy enforcement, release automation, observability setup, and eventually production
 operations and upgrade workflows.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

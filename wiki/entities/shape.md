@@ -22,3 +22,5 @@ Shape defines high-level agent architecture blueprint: layers (perception, reaso
 
 ## Related
 [[architecture]] [[abstraction]] [[decomposition]] [[component]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

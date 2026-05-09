@@ -17,3 +17,6 @@ Senior Director, Oracle AI Database.
 - Publications: NAACL, ICML, VLDB, ICDE.
 
 Co-author: [[oracle-ai-agent-memory-sdk]], [[oracle-cloud-infrastructure]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

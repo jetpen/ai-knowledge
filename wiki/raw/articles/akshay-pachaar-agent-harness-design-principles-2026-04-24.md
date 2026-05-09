@@ -33,3 +33,5 @@ I'm also building a minimal agent harness from scratch... Open-sourcing it soon.
 ![Article Cover](https://pbs.twimg.com/media/HFOWvmAaIAAzGHg?format=jpg&amp;name=orig)
 
 Stats: 6 replies, 38 reposts, 247 likes, 330 bookmarks, 21611 views
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

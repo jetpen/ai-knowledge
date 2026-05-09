@@ -25,3 +25,5 @@ Choose sub-agents for clean delegation and parallelism. Use agent teams for task
 - [[sub-agents]]
 - [[agent-teams]]
 - [[multi-agent-systems]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

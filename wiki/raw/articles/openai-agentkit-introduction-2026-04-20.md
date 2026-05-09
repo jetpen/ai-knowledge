@@ -7,3 +7,5 @@ author: OpenAI
 
 Note: Automated fetch blocked by Cloudflare bot protection. Page returns challenge screen. Manual visit required for full content.
 Abstract: OpenAI announcement introducing AgentKit (inferred from URL). Placeholder for synthesis.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -59,3 +59,6 @@ sources:
 - **Self-Healing Agent Harness**: Production system for AI-generated code (99% of prod code), ships 3-8x/day.
 - **Agent Harness**: Unified eval + QA loop (grade → triage → fix → verify → gate).
 - **IntuitiveML**: @intuitiveml (Peter Pang).
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

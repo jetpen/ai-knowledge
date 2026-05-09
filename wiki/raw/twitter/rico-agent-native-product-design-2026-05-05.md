@@ -28,3 +28,6 @@ Engagement:
 Media:
 - Header image: Minimalist beige bust statue pedestal.
 - Infographic: Balance scale "20% vs 80% planning".
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

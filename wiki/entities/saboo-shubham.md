@@ -11,3 +11,6 @@ author: auto
 # Shubham Saboo (@Saboo_Shubham_)
 
 Google Cloud. Co-author of A2A/MCP integration patterns post.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

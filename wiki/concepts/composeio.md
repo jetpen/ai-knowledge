@@ -18,3 +18,6 @@ Composeio acts as the "npm for agents," providing 100+ managed integrations (Saa
 
 ## Related
 [[agent-stack]] [[mcp]] [[deep-agents]] [[e2b]] [[browserbase]] [[agentic-workspace]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

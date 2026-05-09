@@ -17,3 +17,6 @@ Durable
 Meaningful
 
 Human or agent consumable
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

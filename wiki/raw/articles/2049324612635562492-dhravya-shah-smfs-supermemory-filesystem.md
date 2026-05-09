@@ -29,3 +29,5 @@ TLDR: Mountable filesystem (SMFS.ai, https://github.com/supermemoryai/smfs) blen
 Relates to [[agentic-search]], [[rag-limitations]], [[filesystem-for-agents]].
 
 *(Images: Architecture diagrams)*
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

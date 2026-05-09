@@ -40,3 +40,5 @@ The problem is simple and brutal:
 For [[agents]] this is a real daily problem. Every tool call output, every retrieved doc, every round of reasoning, every past turn in the conversation, they all eat from this budget. When it fills, something gets cut. 
 
 The question is just what???
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

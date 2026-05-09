@@ -13,3 +13,6 @@ author: auto
 Coding agent harness. Converged architecture (tool loop, context compression, permissions) per [[aparna-dhinakaran]].
 
 Related: [[agent-harness]], [[windsurf]], [[claude-code]], [[codex]], [[alyx-agent]].
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

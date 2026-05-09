@@ -57,3 +57,5 @@ Learn how to:
 - Matrices: Weights in neural nets
 - Eigenstuff: PCA, stability analysis
 - SVD: Compression, recommendations
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

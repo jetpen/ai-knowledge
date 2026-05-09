@@ -31,3 +31,6 @@ Symphony is a long-running automation service that continuously reads work from 
 ## External Links
 - Repository: https://github.com/openai/symphony
 - Specification: https://github.com/openai/symphony/blob/main/SPEC.md
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -37,3 +37,6 @@ The harness retries on its own schedule, the queue retries on its own conditions
 With every additional agent the probabilities widen and at the most basic level are agents^2 * services. Put another way, 1 agent and 5 backend systems is 5 stochastic paths to debug. 4 agents and 5 backend systems are 80 stochastic paths to debug.
 
 There is no good way to make agents more deterministic, much of their basic functionality is intended to give varied answers for similar and even identical inputs. They’re not stochastic by chance, they’re stochastic by intention because they make computers useful in a brand new way. The billion dollar question is how to handle agents properly by creating the correct harnesses in the correct contexts.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

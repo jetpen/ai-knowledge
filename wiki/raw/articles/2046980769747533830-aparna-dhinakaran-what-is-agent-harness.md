@@ -35,3 +35,6 @@ X post by Aparna Dhinakaran (Verified, Ramp co-founder, Arize): 14 replies, 106 
 
 ## Synthesis
 Aparna defines harness as emergent architecture from production coding agents (not top-down frameworks). Emphasizes convergence across Cursor/Claude Code/Windsurf/Codex/Alyx. Contrasts with human-centric frameworks like LangGraph.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

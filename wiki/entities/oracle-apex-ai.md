@@ -16,3 +16,5 @@ Low-code platform embedding conversational AI, NL reports/queries, OCI GenAI int
 - APEX apps with AI.
 
 Related: [[oracle-apex]].
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

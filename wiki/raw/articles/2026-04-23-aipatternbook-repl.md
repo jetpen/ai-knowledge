@@ -40,3 +40,5 @@ An online encyclopedia/book dedicated to design patterns for **agentic coding** 
 - **Comprehensive Coverage**: ~200+ patterns across product, design, data, computation – highly relevant to [[agent-harness]], [[multi-agent-systems]], [[production-agent-infrastructure]].
 
 **Next**: Synthesize core patterns into [[entities/agentic-coding-patterns.md]] and cross-link overlaps (e.g., [[task-decomposition]], [[data-model]], [[architecture]]).
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

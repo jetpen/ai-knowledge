@@ -13,3 +13,6 @@ A personal AI assistant for any OS and any platform.
     - `apps/`: Core application logic.
     - `docs/`: Repository documentation.
     - `plugins/`: Capability extensions.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

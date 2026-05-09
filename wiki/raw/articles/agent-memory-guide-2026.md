@@ -21,3 +21,6 @@ The article explores the limitations of current LLM context windows (leading to 
 - **Cognee**: Open-source unified memory framework.
 - **Memory Types**: Episodic (events), Semantic (facts), Procedural (skills).
 - **Architecture**: Retrieval-Augmented Generation (RAG) + Knowledge Graphs.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

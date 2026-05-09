@@ -31,3 +31,6 @@ As of 2026, the agentic ecosystem is transitioning from ad-hoc, monolithic tools
 - [[agent-communication-protocol]]
 - [[model-context-protocol]]
 - [[AG-UI]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

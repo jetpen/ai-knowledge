@@ -12,3 +12,6 @@ Cognee is an open-source framework designed to implement unified memory architec
 
 ## Links
 - [Agent Memory Architecture](agent-memory.md)
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

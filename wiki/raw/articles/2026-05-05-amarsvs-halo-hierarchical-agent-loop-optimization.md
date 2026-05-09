@@ -43,3 +43,5 @@ SGC: 73.7% → **89.5%** (+15.8%).
 **OS:** HALO repo (AppWorld/HALO-Engine/CLI). Hosted: Catalyst soon.
 
 **Comments:** recursive-mode.dev (@trydotworks), Eventloom (@corelumen), etc.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

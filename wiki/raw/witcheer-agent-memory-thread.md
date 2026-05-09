@@ -27,3 +27,6 @@ The thread categorizes 450+ "agent-memory" and 460+ "context-management" GitHub 
 - Camp 1 is best for factual lookup.
 - Camp 2 scales better for multi-session, multi-project continuity.
 - The industry terminology is still emerging; "memory" is often conflated with "context."
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

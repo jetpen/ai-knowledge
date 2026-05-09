@@ -17,3 +17,6 @@ type: raw
 - https://arxiv.org/abs/2512.01289 : "OntoMetric: Ontology-Driven LLM Framework"
 
 *Extracted 2026-05-03 for [[ontology-for-input-validation]].*
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -20,3 +20,6 @@ Our vision is to define how agents connect with each other, building an open, se
 ## Get Started
 - Website: https://agent-network-protocol.com/
 - GitHub: https://github.com/agent-network-protocol/AgentNetworkProtocol
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

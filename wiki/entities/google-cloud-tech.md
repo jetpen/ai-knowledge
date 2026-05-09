@@ -17,3 +17,6 @@ Key announcements:
 - [[a2a-mcp-integration-patterns]]: A2A/MCP integration patterns (Cloud Next '26).
 - [[agent-runtime-google]]: 7-day long-running agents (Cloud Next '26).
 - Patterns for production: [[long-running-agents]], [[checkpoint-and-resume]], etc.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

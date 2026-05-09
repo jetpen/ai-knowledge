@@ -36,3 +36,6 @@ In **[[deep-agents]]**, the middleware is decoupled from the actual storage laye
 - **[[agentic-workspace]]**: The logical environment the middleware manages.
 - ****Sandboxes****: The restricted execution context where the middleware's `execute` tool runs.
 - **[[context-engineering]]**: The practice of using the filesystem to manage large amounts of project information.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

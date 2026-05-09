@@ -44,3 +44,6 @@ AI agents: Focus on **durable primitives** over ephemeral frameworks/benchmarks.
 **Taste > Stack**: Ship fast, iterate on primitives. Non-coders win via agents.
 
 ![Thread image](https://pbs.twimg.com/media/GUsGf7aXkAA0GqG?format=jpg&name=small)
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

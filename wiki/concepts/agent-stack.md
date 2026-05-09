@@ -30,3 +30,6 @@ The infrastructure for the "Agentic Web" is currently being assembled. It is a m
 - **[[Symphony]]**: A primary implementation of the Orchestration Layer.
 - **[[digital-employee]]**: The ultimate role fulfilled by agents running on this stack.
 - **[[agentic-workspace]]**: The environment where the compute layer interacts with the task.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

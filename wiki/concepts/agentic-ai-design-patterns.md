@@ -25,3 +25,6 @@ Agentic design patterns are reusable architectural templates for creating predic
 - Define clear exit conditions.
 - Establish contracts for tool invocation.
 - Ground reasoning in observability.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

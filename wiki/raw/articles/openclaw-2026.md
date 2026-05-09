@@ -16,3 +16,6 @@ OpenClaw is a key ancestor/predecessor project to Hermes Agent; Hermes includes 
 
 ## Links
 - Website: https://openclaw.ai/
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

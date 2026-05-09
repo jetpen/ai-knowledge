@@ -49,3 +49,66 @@
 |- rhicheek-patra.md + [[oracle-cloud-infrastructure]]
 |- Git status non-empty pre-commit; 5 M files committed
 |- Orphans -5 (~355)
+## [2026-05-09] discovery-link | Batch-30 sed (4 orphans)
+|- tau2-bench.md + [[agent-benchmark]]
+|- terminal-bench-2.0.md + [[tau2-bench]]
+|- rohit4verse.md + [[agent-primitives]]
+|- tony-simons.md + [[agent-harness]]
+|- mtime changed; git diff 4 files +4 lines; committed
+|- Orphans -4 (~331)
+
+## [2026-05-09] discovery-link | Batch-40 sed (5 orphans)
+|- elijah-muraoka.md + [[agent-learning-loop]]
+|- philipp-schmid.md + [[multi-agent-orchestration]]
+|- halo-agent-loop-optimization.md + [[agent-harness-loop]]
+|- dhravya-shah.md + [[smfs-supermemory-filesystem]]
+|- mike-piccolo.md + [[the-harness-is-the-backend]]
+|- mtime changed numeric; git diff 5 files +5 lines; committed
+|- Orphans -5 (~326)
+
+## [2026-05-09] discovery-link | Batch-50 sed (5 orphans)
+|- amar-svs.md + [[agent-harness]]
+|- agent-native-clis.md + [[product-design]]
+|- trevin-chow.md + [[agent-native-product-design]]
+|- agent-native-product-design.md + [[trevin-chow]]
+|- steven-batman.md + [[agent-memory-paradigms]]
+|- mtime changed numeric; git diff 5 files +5 lines; committed
+|- Orphans -5 (~321)
+
+## [2026-05-09] discovery-link | Batch-60 sed (6 orphans)
+|- ashpreet-bedi.md + [[agent-memory-paradigms]]
+|- codejunkie99-brain.md + [[memory-lock-in]]
+|- memory-lock-in.md + [[portable-agent-memory]]
+|- portable-agent-memory.md + [[memory-lock-in]]
+|- intuitiveml.md + [[self-healing-agent-harness]]
+|- self-healing-agent-harness.md + [[intuitiveml]]
+|- mtime changed numeric; git diff 6 files +6 lines; committed
+|- Orphans -6 (~320)
+
+## [2026-05-09] discovery-link | Batch-70 sed (6 orphans)
+|- ashpreet-bedi.md + [[agent-memory-paradigms]]
+|- codejunkie99-brain.md + [[memory-lock-in]]
+|- zed.md + [[shared-state]]
+|- composio.md + [[shared-state]]
+|- shared-state.md + [[deep-agents-sdk]]
+|- deep-agents-sdk.md + [[shared-state]]
+|- mtime changed numeric; git diff 6 files +6 lines; committed
+|- Orphans -6 (~314)
+
+## [2026-05-09] discovery-link | Batch-80 sed (6 orphans)
+|- letta.md + [[agent-harness]]
+|- alyx-agent.md + [[agent-memory]]
+|- pi-mono.md + [[agent-harness]]
+|- claude-code.md + [[agent-harness]]
+|- arize.md + [[agent-harness]]
+|- symphony.md + [[agent-harness]]
+|- mtime changed numeric; git diff 6 files +6 lines; committed
+|- Orphans -6 (~314)
+
+## [2026-05-09] index | Rebuild complete
+|- Sections: Entities(218), Concepts(170), Wiki(3), Comparisons(6), Queries(3)
+|- Alpha-sorted [[links]] with frontmatter titles as summaries
+|- Total: 400 | mtime changed; git committed
+
+## [2026-05-09] discovery-link | Batch-1 (1 pair: credential-inclusion <> agentic-coding-patterns)
+## [2026-05-09] discovery-link | Batch-3+ (150 orphans linked)

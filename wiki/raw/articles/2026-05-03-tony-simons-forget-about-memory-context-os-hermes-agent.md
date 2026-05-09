@@ -35,3 +35,5 @@ At ~/.hermes/SOUL.md sits the operating instructions for Hermes itself. This isn
 It's around 15KB of markdown that says: be direct, be opinionated, be high-agency, delegate aggressively, verify claims before trusting them, push back when I am being vague, and don't write like a LinkedIn influencer.
 
 [Note: Full thread content truncated in scrape; images present but not extracted. Core thread discusses 11+ layers of Hermes memory/context OS: SOUL.md (identity), facts DB, procedures, session history, etc.]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -24,3 +24,5 @@ Agents generate briefs from user queries. Benefits: Alignment, focus. Example: "
 
 ## Related
 [[application]] [[requirement]] [[acceptance-criteria]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

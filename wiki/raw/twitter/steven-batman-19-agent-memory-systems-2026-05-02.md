@@ -30,3 +30,6 @@ Core Q: Durable, agent-friendly memory > context window?
 Engagement: 2 replies, 2 reposts, 26 likes, 76 bookmarks.
 
 Media: Profile (Batman mask); text-only article.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

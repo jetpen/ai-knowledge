@@ -22,3 +22,6 @@ Hand off a task, get a polished deliverable. Spend less time finding, formatting
 
 ## Links
 - Website: https://claude.com/product/cowork
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

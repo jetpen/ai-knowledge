@@ -16,3 +16,6 @@ A framework for building agentic AI applications with integrated support for wor
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

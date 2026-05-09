@@ -26,3 +26,6 @@ The `deepagents` repository contains:
 - Website: https://docs.langchain.com/oss/python/deepagents/overview
 - PyPI: https://pypi.org/project/deepagents/
 - GitHub: https://github.com/langchain-ai/deepagents
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

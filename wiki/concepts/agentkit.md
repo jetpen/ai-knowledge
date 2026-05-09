@@ -18,3 +18,6 @@ AgentKit empowers developers to construct autonomous agents leveraging OpenAI mo
 
 ## Related
 [[openai]] [[deep-agents-sdk]] [[langgraph]] [[crewai]] [[agent-harness]] [[ag-ui]] [[a2a]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

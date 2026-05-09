@@ -21,3 +21,6 @@ CopilotKit is a developer-focused platform that provides infrastructure for buil
 
 ## Source Context
 - Research reconnaissance phase (April 2026).
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

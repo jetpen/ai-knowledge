@@ -55,3 +55,6 @@ Long-term memory is what the agent carries across conversations. This can includ
 Long-term memory is what the Agent Server's built-in [store](https://docs.langchain.com/oss/python/langgraph/persistence#memory-store) provides.
 
 [Note: Content truncated in snapshot; full article covers multi-tenancy, observability, etc.]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

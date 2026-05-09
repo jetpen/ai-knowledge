@@ -21,3 +21,6 @@ The post argues that **agent harnesses**—not standalone memory plugins—are t
 - **[[Agent Harnesses]]**: Examples include `[[claude-code]]`, `[[deep-agents-cli]]`, `[[openclaw]]`, `[[codex]]`, `[[letta-code]]`.
 - **[[agent-harness-architecture]]**: The evolution from simple RAG chains to complex loop-based orchestration.
 - Reference to Sarah Wooders: "Memory isn't a plugin, it's the harness."
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -16,3 +16,6 @@ A framework for building, testing, and deploying intelligent AI agents with buil
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

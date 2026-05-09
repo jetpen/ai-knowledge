@@ -22,3 +22,6 @@
 
 ## Acknowledgements
 Primarily inspired by Claude Code.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

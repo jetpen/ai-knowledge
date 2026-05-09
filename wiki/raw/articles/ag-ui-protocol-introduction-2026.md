@@ -135,3 +135,6 @@ Want to contribute? Check out our Contributing Guide to learn how you can help i
 Here’s how to get help or provide feedback:
 - For bug reports and feature requests related to the AG-UI specification, SDKs, or documentation (open source), please create a GitHub issue
 - For discussions or Q&A about AG-UI, please join the Discord community
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -21,3 +21,6 @@ A generative UI specification allowing agents to propose interactive UI widgets 
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

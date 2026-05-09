@@ -17,3 +17,6 @@ The article outlines a systematic approach to selecting and applying agentic AI 
 The foundational agentic pattern.
 - **Structure**: Continuous feedback loop of `Thought` -> `Action` -> `Observation`.
 - **Value**: Externalizes reasoning, grounds decisions in real-world feedback, improves debuggability.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

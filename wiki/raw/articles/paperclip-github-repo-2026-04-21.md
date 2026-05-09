@@ -38,3 +38,6 @@ Open-source orchestration platform aimed at enabling "zero-human companies" via 
 
 ## Relevance
 Fits agentic frameworks ecosystem ([[symphony]], [[hermes-agent]], [[deep-agents]]). Potential MCP/ANP integration given skills and orchestration focus.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

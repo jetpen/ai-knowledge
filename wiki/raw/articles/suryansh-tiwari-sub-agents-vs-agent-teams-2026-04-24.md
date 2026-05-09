@@ -81,3 +81,5 @@ Sub-agents and agent teams are fundamentally different.
 - Interactive
 - Context-sharing
 - Peer-to-peer
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

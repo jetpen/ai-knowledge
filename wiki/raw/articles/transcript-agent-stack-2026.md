@@ -133,3 +133,5 @@ There is no excuse for lack of stack literacy. And part of the reason this matte
 And so, we need to have better stack literacy. And that's why this video is important. So, share it with someone who doesn't understand the agent stack because I guarantee you there are a lot of people who are walking around with a lot of LinkedIn buzzwords in their heads and they don't understand the agent stack. And that's going to lead to a lot of suffering and pain. Frankly, for a lot of IC engineering teams, they're going to be asked to build stuff that doesn't make any sense.
 
 Best of luck with that. Cheers..
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

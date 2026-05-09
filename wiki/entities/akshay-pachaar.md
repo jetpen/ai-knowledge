@@ -17,3 +17,5 @@ Key contribution: [[agent-harness-design-principles]] – Highlights counterintu
 Building/open-sourcing a minimal agent harness.
 
 Related: [[agent-harness]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -52,3 +52,5 @@ Aligns with new OpenAI Agents SDK evolution.
 **Links**:
 - https://openai.com/index/the-next-evolution-of-the-agents-sdk/
 - https://github.com/holaboss-ai/holaOS
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

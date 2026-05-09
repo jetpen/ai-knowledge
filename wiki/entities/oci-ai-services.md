@@ -22,3 +22,6 @@ Core generative AI and machine learning services on [[oracle-cloud-infrastructur
 Sources:
 - [[oci-ai-accelerator-packs]]
 
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

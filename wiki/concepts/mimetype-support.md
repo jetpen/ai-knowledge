@@ -13,3 +13,5 @@ Synthesis from sources ['raw/articles/agent-communication-protocol-intro-2026.md
 
 ## Source Context
 This entry is compiled from the following ingested material: raw/articles/agent-communication-protocol-intro-2026.md.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -11,3 +11,6 @@ Author focused on AI application, harnessing, and prompt engineering. Known for 
 
 Reference to [[daniel-miessler]]'s application of [[bitter-lesson]] to engineering: Leverage compute/scaling over human-designed features/knowledge. Prioritize data+models over hand-crafted rules.
 
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

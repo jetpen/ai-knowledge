@@ -49,3 +49,6 @@ Updated: 2026-04-17
 ### Other
 - What's new: [releasenotes](releasenotes/services/generative-ai/)
 - Product page: [Oracle GenAI LLMs](https://www.oracle.com/artificial-intelligence/generative-ai/large-language-models/)
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

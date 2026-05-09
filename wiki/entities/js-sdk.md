@@ -13,3 +13,5 @@ Standard software development kit for integrating with the specified protocol or
 
 ## Source Context
 This entry is compiled from the following ingested material: raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

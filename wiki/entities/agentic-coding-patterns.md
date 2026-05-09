@@ -38,4 +38,4 @@ Encyclopedia at [[https://aipatternbook.com/repl|AiPatternBook REPL]] catalogs ~
 [[algorithm]] | [[algorithmic-complexity]] | [[api]]
 
 ## Relevance
-Overlaps [[agent-harness-engineering]], [[deep-agents-sdk]], [[production-agent-runtime]]. Self-updating via AI ("How This Book Writes Itself").
+Overlaps [[agent-harness-engineering]], [[deep-agents-sdk]], [[production-agent-runtime]], [[credential-inclusion]]. Self-updating via AI ("How This Book Writes Itself").

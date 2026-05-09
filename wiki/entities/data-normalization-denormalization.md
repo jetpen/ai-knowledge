@@ -21,3 +21,6 @@ author: auto
 
 ## Related
 [[database]] [[crud]] [[consistency]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

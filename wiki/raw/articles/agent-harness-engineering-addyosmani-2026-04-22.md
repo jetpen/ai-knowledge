@@ -29,3 +29,5 @@ Agent = Model + Harness. Harness engineering: Treat scaffolding (prompts/tools/c
 Frameworks like Claude/Codex SDKs provide loop/tools; customize config.
 
 Refs: Viv Trivedy (Anatomy), Anthropic (long-running), Simon Willison (loops).
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

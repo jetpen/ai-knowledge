@@ -42,3 +42,6 @@ Multiplies reach 10x; agentic optimization hits hockey-stick growth.
 [[go-to-market]] [[monetization]] [[product-market-fit]] [[value-proposition]] [[revenue-model]] [[agentic-coding-patterns]]
 
 [[agentic-coding-patterns]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

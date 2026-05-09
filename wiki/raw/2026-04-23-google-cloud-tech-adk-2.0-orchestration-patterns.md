@@ -37,3 +37,5 @@ Here's a concrete example: a loan application processing agent. Some steps must 
 - pattern2.jpg - pattern6.jpg: Subsequent patterns (to be analyzed)
 
 **Note:** Full thread/images captured via browser snapshot on 2026-04-23. Post likely part of thread with more patterns detailed in images.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

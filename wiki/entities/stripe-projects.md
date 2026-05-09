@@ -21,3 +21,6 @@ Examples: Agent builds e-comm checkout, deploys to Project for live testing.
 
 ## Related
 [[agentic-infra]] [[webhooks]] [[monetization]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

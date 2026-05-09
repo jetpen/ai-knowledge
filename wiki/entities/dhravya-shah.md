@@ -15,3 +15,5 @@ Founder/contributor @supermemoryai. Author of SMFS thread.
 X: https://x.com/DhravyaShah
 
 Contributions: [[smfs]].
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

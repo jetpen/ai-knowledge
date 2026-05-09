@@ -24,3 +24,6 @@ Context: OpenAI Codex memories → Chronicle.
 - Need for portable solutions: [[portable-agent-memory]], [[codejunkie99-brain]].
 
 Related: [[agent-memory-dimensions]], [[agentic-memory]]. , [[portable-agent-memory]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

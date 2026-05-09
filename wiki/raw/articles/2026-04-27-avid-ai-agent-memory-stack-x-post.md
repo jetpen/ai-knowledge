@@ -45,3 +45,6 @@ A store that's the same in Claude Code or Cursor. An index that survives a sessi
 - **Portable Memory Layer**: Persistent, model-agnostic memory for AI agents.
 - **codejunkie99/brain**: GitHub repo for agent memory stack.
 - **Memory Lock-in**: Discussion by Harrison Chase (@hwchase17).
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

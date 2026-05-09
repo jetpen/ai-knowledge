@@ -16,3 +16,6 @@ The open-source code repository for the [[openclaw]] project, containing core ap
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

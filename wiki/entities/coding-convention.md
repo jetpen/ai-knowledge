@@ -24,3 +24,5 @@ Agents enforce via linters. Benefits: Readability, collaboration. Links to [[nam
 
 ## Related
 [[naming]] [[ubiquitous-language]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

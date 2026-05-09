@@ -11,3 +11,6 @@
 2.  **Create [[harness-engineering]]**: Finalize and register the entity/concept.
 3.  **Create [[agentic-memory]]**: Consolidate types and theory.
 4.  **Create [[production-infrastructure-for-agents]]**: Finalize and register the concept.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -38,3 +38,5 @@ Sections:
 2-13: Framework visuals (R.E.S.T pillars, horse metaphor, agent stacks, etc.) – e.g., layered harness components, reliability flows.
 
 Related: [[environment-engineering]] ([[li-jeffrey]] critique), [[agent-harness]].
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

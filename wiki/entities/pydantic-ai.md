@@ -16,3 +16,6 @@ A framework for building robust, type-safe AI agent applications, leveraging Pyd
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

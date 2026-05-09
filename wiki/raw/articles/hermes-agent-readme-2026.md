@@ -20,3 +20,6 @@ Hermes is an AI agent with a built-in learning loop—it creates and improves sk
 ## Documentation
 - Website: https://hermes-agent.nousresearch.com/docs/
 - GitHub: https://github.com/NousResearch/hermes-agent
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

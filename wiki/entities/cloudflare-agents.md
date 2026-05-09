@@ -16,3 +16,6 @@ Serverless AI agent infrastructure providing low-latency execution and tools for
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

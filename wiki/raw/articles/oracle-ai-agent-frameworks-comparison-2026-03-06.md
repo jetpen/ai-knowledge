@@ -51,3 +51,5 @@ Oracle offers multiple AI agent frameworks layered by stack: business, integrati
 | Oracle APEX AI | Low-code apps | App-embedded chat | Declarative |
 
 Source captured March 2026. Full text via snapshots.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

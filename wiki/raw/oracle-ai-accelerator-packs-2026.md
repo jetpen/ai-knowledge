@@ -19,3 +19,6 @@ Oracle Cloud Infrastructure (OCI) AI Accelerator Packs are ready-to-use, full-st
 - Shortens path from launch to outcome.
 - Reduces complexity of platform assembly.
 - Provides a trusted, integrated ecosystem on OCI.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

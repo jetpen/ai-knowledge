@@ -93,3 +93,6 @@ It looks like a task manager — but under the hood it has org charts, budgets, 
 [... full content truncated for brevity in this response, but include all from curl output ...]
 
 Note: Full markdown from raw.githubusercontent.com/paperclipai/paperclip/master/README.md as of 2026-04-21.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -155,3 +155,5 @@ These patterns are not limited to coding agents. Arize's own Alyx assistant, bui
 50 years of computing taught us that the best memory management is the kind the program never thinks about. Registers, cache lines, page tables, swap. Each layer managed by the system, each invisible to the layer above. The program just runs.
 
 Agent harnesses are moving in the same direction. The goal is not to show the model everything. It is to give it the right working set at the right time and allow it to dynamically make decisions to manage its own context.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

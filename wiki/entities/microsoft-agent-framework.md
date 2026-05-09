@@ -21,3 +21,6 @@ A set of tools and libraries provided by Microsoft for building, deploying, and 
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

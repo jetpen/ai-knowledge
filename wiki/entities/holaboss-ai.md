@@ -14,3 +14,5 @@ Organization behind [[hola-os]], an open-source project for long-horizon, contin
 - Focus: [[environment-engineering]], durable state, [[long-horizon-agents]].
 
 Related: [[li-jeffrey]], [[hola-os]].
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

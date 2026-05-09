@@ -66,3 +66,6 @@ Built primarily for asynchronous communication to handle long-running agent task
 - Example Agents: Explore reference agent implementations
 - REST API: View the complete OpenAPI specification
 - Python SDK: Tools for building and consuming ACP agents
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

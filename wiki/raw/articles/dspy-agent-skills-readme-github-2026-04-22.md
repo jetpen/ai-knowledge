@@ -31,3 +31,5 @@ Production-grade DSPy 3.2.x skills for coding agents. Pack of 5 spec-compliant s
 - 03-invoice-extraction: 0.83 → 0.93 F1
 
 Grounded in DSPy.ai/docs, validated 80+ tests. MIT license.
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

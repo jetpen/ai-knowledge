@@ -13,3 +13,5 @@ author: auto
 Eval leaderboard for terminal/coding agents. Example: gpt-5.2-codex improved from 52.8% to 66.5% (Top 30 → Top 5) via harness engineering. Claude Code harness ranks last among Opus 4.6 submissions.
 
 Related: [[tau2-bench]], [[harness-engineering]], [[deep-agents]] , [[tau2-bench]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

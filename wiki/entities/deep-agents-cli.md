@@ -16,3 +16,6 @@ A terminal-based coding agent interface built on the Deep Agents SDK, designed f
 
 ## Related
 - [[agentic-protocols]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

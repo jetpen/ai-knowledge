@@ -15,3 +15,5 @@ AI observability platform. Builder of [[alyx]] agent.
 Key patterns from Alyx align with [[openclaw]], [[claude-code]], etc.: tool result caps, head+tail truncation, pre-compaction state flush.
 
 [[context-management-in-agent-harnesses]] | [[aparna-dhinakaran]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

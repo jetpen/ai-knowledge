@@ -711,3 +711,6 @@ MIT — see [LICENSE](LICENSE).
 [license-link]: https://github.com/milla-jovovich/mempalace/blob/main/LICENSE
 [discord-shield]: https://img.shields.io/badge/discord-join-5865F2?style=flat-square&labelColor=0a0e14&logo=discord&logoColor=5865F2
 [discord-link]: https://discord.com/invite/ycTQQCu6kn
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

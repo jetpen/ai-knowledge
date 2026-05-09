@@ -23,3 +23,6 @@ The AI landscape is rapidly developing diverse protocols to standardize [[agent-
 - **ANP** focuses on a massive, decentralized scale using [[w3c-did]] for identity.
 - **AG-UI**, **MCP**, and **A2A** are focused on specialized layers of the agent stack (User, Tools, Coordinator).
 
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

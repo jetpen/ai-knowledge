@@ -23,3 +23,6 @@ Until today, deepagents shipped with a single set of prompts, tools, and middlew
 **Results:** 10-20pt improvement on tau2-bench subset.
 
 ![Image from post](https://pbs.twimg.com/media/GUs0o0WXAAA1Z1C?format=jpg&amp;name=small)
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -21,3 +21,6 @@ Abstract representation of domain data ([[domain-model]]). Maps real-world entit
 
 ## Related
 [[domain-model]] [[entity]] [[value-object]] [[schema-serialization]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

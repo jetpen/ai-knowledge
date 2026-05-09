@@ -21,3 +21,6 @@ In-memory formats for efficient agent computation (arrays, trees, graphs, tensor
 
 ## Related
 [[data-model]] [[state]] [[algorithm]]
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

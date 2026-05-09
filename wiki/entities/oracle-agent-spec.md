@@ -16,3 +16,6 @@ Within the AG-UI framework, such specifications are crucial for enabling agents 
 
 ## Status
 The AG-UI documentation indicates this is a "Supported" specification with available "Docs". This implies it is a recognized part of the AG-UI integration landscape.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

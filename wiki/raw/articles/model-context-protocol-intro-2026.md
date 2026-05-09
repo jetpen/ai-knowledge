@@ -24,3 +24,6 @@ MCP is an open protocol supported across a wide range of clients and servers. AI
 
 ## Learn more
 Understand concepts: Learn the core concepts and architecture of MCP
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

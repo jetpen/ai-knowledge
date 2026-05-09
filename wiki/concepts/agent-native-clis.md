@@ -33,3 +33,5 @@ CLIs designed for AI agents: non-interactive, structured JSON, bounded output, a
 Relates: [[agent-harness]], [[mcp]], [[cloudflare-cli]]
 
 See: [[trevin-chow]]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

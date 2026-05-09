@@ -23,3 +23,6 @@ Agentic infrastructure refers to the backend engineering required to move AI age
 - [[harness-engineering]] - Techniques for optimizing the systems surrounding the LLM to improve performance.
 - [[agentic-memory]] - Managing persistent storage and context for autonomous agents.
 - [[llm-architecture]] - The underlying structure and design choices of AI-driven systems.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

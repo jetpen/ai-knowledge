@@ -34,3 +34,5 @@ Don't break the agent. Agents are good at figuring things out, but when these ar
 10. **Two-way I/O** – Deliver artifacts (files/webhooks), agent feedback.
 
 [Includes code screenshots for each principle. Links: tchow.com/posts/agent-native-clis]
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -87,3 +87,6 @@ A **reusable prompt** for AI agents (e.g., Claude Code, Codex, Cursor, OpenClaw 
 
 ### Kickoff
 > Confirm you've read this doctrine in your status log. Restate the task in 3 bullets. Write your origin/motivation/dream-state... Then start at Step 2. You don't need permission to begin.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

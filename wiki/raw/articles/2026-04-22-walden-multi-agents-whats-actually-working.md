@@ -59,3 +59,5 @@ The final key part to making this system work really well is the communication b
 [... truncated for brevity; full content captured in raw ...]
 
 [1] Coincidentally, Anthropic came out the next day with a related blogpost about building a multi-agent research system. Both blogposts touched on similar challenges with context engineering and came to similar conclusions about the first area of applicability being in readonly agents
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

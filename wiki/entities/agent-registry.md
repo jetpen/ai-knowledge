@@ -15,3 +15,6 @@ Central registry for discovering agents across organization.
 Amplifies [[entities/agent-card]]: find capabilities without URLs.
 
 Service mesh for agent ecosystem.
+
+## Relationships
+- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
