@@ -1,7 +1,7 @@
 ---
 title: Agent Memory Architecture
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-05-08
 type: query
 tags: [agent-memory, agent-harness, architecture, agentic-memory-types, hermes-agent, openclaw]
 sources:
@@ -63,6 +63,10 @@ Harnesses like **Hermes Agent**, **OpenClaw**, **Deep Agents**, and **Symphony**
 - **Raw-Derived Tradeoff**: Verbatim (lossless) vs. summarized (lossy).
 - **POMDP Framing**: Memory as belief state over partial observability.
 - **Lock-in**: Own your harness to own your memory.
+
+## Related
+
+- [[concepts/agent-memory-dimensions]] – Orthogonal dimensions of agent memory (persistence/content/storage)
 
 ## See Also
 - [[agent-memory-dimensions]]

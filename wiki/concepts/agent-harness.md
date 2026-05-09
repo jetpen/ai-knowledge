@@ -1,7 +1,7 @@
 ---
 title: Agent Harness
 created: 2026-04-12
-updated: 2026-04-29
+updated: 2026-05-08
 type: concept
 tags: ["framework", "agents", "harness", "concept", "deepagents"]
 sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md"]
@@ -53,5 +53,8 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 - **Deep Agents**: Examples of an "agent harness." According to current research ([[harness-engineering]]), its utility lies in its modular middleware and progressive disclosure model.
 - **Deep Agents SDK**: Provides the infrastructure layer for production agents ([[agentic-production-infrastructure]]), including state management and reliable tool execution.
 
-- **[[subagent-spawning]]**: A core functional capability provided by the harness.
-- **[[agentic-workspace]]**: The environment managed and secured by the harness.
+- [[subagent-spawning]]: A core functional capability provided by the harness.
+- [[agentic-workspace]]: The environment managed and secured by the harness.
+
+## Related
+- [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns

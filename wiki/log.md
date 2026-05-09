@@ -16,3 +16,10 @@
 - Bidirectional: [[oracle-ai-agent-memory-sdk]] ↔ [[oracle-cloud-infrastructure]], [[oracle-ai-agent-frameworks]]; authors ↔ SDK
 - Updated: index.md
 - Health: Compliant, no conflicts; links normalized.\n\n## [2026-05-07] ingest | Amit Shekhar X post on LoRA (https://x.com/i/status/2052344905004171507)\n- Raw: raw/twitter/amit-shekhar-lora-low-rank-adaptation-llms-2026-05-07.md\n- Created: entities/amit-shekhar.md, concepts/lora-low-rank-adaptation.md\n- Bidirectional links: [[amit-shekhar]] ↔ [[lora-low-rank-adaptation]]; to [[fine-tuning]]\n- Updated: index.md\n- Health: New pages compliant; no broken links or conflicts detected.\n    19|
+
+## [2026-05-08] discovery-link | Batch 1 (3 bidirectional pairs)
+- Linked: concepts/agent-memory-dimensions.md ↔ queries/agent-memory-architecture.md
+- Linked: concepts/agent-harness.md ↔ entities/adk-2.0.md
+- Linked: entities/kv-cache.md ↔ queries/agent-memory-architecture.md
+- Updated: dates; Related sections added
+- Health: 3 orphans resolved (largest: 87/42/34 lines); total orphans now ~378

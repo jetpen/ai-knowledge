@@ -1,7 +1,7 @@
 ---
 title: KV Cache
 created: 2026-04-29
-updated: 2026-05-04
+updated: 2026-05-08
 type: entity
 tags: [architecture, transformer, inference, optimization, memory, kv-cache, token-level-memory]
 sources: [raw/articles/2049175615195242821-siddharth-how-ai-actually-remembers.md, raw/articles/2026-05-04-jayanth-sanku01-kv-cache-in-llms.md]
@@ -40,6 +40,9 @@ Without KV cache, generating a sequence of length n requires O(n²) recomputatio
 - Linear growth: O(context_length) memory per layer/head.
 - At 128k tokens: GBs VRAM.
 - Eviction needed for long contexts/agents.
+
+## Related
+- [[queries/agent-memory-architecture]] – KV cache as volatile parametric working memory in agent architectures
 
 Relates to [[token-level-memory]], [[attention-mechanism]], [[working-memory]], [[jayanth-sanku]].
 

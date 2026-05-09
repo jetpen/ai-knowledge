@@ -1,7 +1,7 @@
 ---
 title: ADK 2.0 (Agent Development Kit)
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-05-08
 type: entity
 tags: [framework, google-adk, multi-agent-systems, agent, orchestration]
 sources: [raw/2026-04-23-google-cloud-tech-adk-2.0-orchestration-patterns.md]
@@ -27,6 +27,9 @@ Introduces 5 multi-agent orchestration patterns extending prior skill patterns (
 ## Relationships
 - Extends agent skill design patterns.
 - Alternative/competitor to [[symphony]], [[hermes-agent]], [[langgraph]], [[crewai]].
+
+## Related
+- [[concepts/agent-harness]] – Agent harness as infrastructure layer
 
 ## Sources
 See raw source for full post and diagrams.

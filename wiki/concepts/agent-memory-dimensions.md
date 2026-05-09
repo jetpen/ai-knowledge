@@ -1,7 +1,7 @@
 ---
 title: Agent Memory Dimensions
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-08
 type: concept
 tags: [agentic-memory, ai-agents, llm-arch, memory]
 sources:
@@ -96,13 +96,16 @@ Maintenance workflows (health check, discovery link pass, synthesis) are themsel
 4. CrewAI. *Memory Concepts*. https://docs.crewai.com/concepts/#memory
 5. Wikipedia contributors. (2026). *Cognitive architecture*. Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Cognitive_architecture
 
+## Related
+
+- [[queries/agent-memory-architecture]] – Agent Memory Architecture in agent harnesses
+
 ## See Also
 
 - [[working-memory]]
 - [[episodic-memory]]
 - [[semantic-memory]]
 - [[procedural-memory]]
-- [[queries/agent-memory-architecture]]
 - [[write-manage-read-loop]]
 - [[agent-skills-standard]]
 - [[agent-learning-loop]]
