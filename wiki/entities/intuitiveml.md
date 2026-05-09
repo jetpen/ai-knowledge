@@ -17,4 +17,4 @@ AI agent platform (Peter Pang @intuitiveml).
 - Ships to prod 3-8x/day via [[self-healing-agent-harness]].
 - No QA team/staging; uses agent-based eval/QA loop.
 
-Related: [[agent-harness]], [[harness-engineering]].
+Related: [[agent-harness]], [[harness-engineering]]. , [[self-healing-agent-harness]]

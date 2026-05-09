@@ -23,4 +23,4 @@ Context: OpenAI Codex memories → Chronicle.
 - Rush to proprietary memory (OpenAI, etc.).
 - Need for portable solutions: [[portable-agent-memory]], [[codejunkie99-brain]].
 
-Related: [[agent-memory-dimensions]], [[agentic-memory]].
+Related: [[agent-memory-dimensions]], [[agentic-memory]]. , [[portable-agent-memory]]
