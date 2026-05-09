@@ -35,4 +35,4 @@ Symphony is a long-running automation service (draft spec v1) designed to orches
 - [[claude-cowork]]
 - [[OpenClaw]]
 
-Related: [[deep-agents]], [[agent-harness]], [[model-context-protocol]]
+Related: [[deep-agents]], [[agent-harness]], [[model-context-protocol]] , [[agent-harness]]
