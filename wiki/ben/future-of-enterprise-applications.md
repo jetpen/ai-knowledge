@@ -70,3 +70,5 @@ Am I living according to my own agency? Or am I subordinating myself to my AI ag
 - Systems of intelligence - one reality, many lenses, understands work across tools
 - Systems of record - separate tools for separate function
 https://x.com/i/status/2053173547393331318
+
+https://x.com/i/status/2052791197585035463
