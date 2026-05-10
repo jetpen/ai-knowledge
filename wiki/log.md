@@ -112,3 +112,5 @@
 
 ## [2026-05-09] discovery-link | Batch-1 (1 pair: credential-inclusion <> agentic-coding-patterns)
 ## [2026-05-09] discovery-link | Batch-3+ (150 orphans linked)
+## [2026-05-09] index | Rebuild automatic
+- Total: 485 | mtime changed

@@ -63,3 +63,10 @@ Am I living according to my own agency? Or am I subordinating myself to my AI ag
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+## The Enterprise
+
+- The Business - job roles, organizations, operating model, culture, values, strategy, policies, processes
+- Systems of outcome - applying intelligence to achieve business goals
+- Systems of intelligence - one reality, many lenses, understands work across tools
+- Systems of record - separate tools for separate function
+https://x.com/i/status/2053173547393331318
