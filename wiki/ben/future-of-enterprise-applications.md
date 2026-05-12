@@ -83,3 +83,8 @@ https://x.com/i/status/2052791197585035463
 Self-improvement such that first time discovery is done by inference through trial and error until success is achieved. From there, future repetition of the skill is optimized through the generation of code. Non-deterministic execution at the slow speed of inference evolves to high performance deterministic execution through procedural code.
 
 When the intent is achieved by inference, each run benefits from the intelligence of the model. Over time, as models improve the intent may be achieved using better strategies and tool use. Locking in the implementation as procedural code foregoes such strategy-level improvement.
+
+
+Bolt-on AI versus designed for native agentic execution
+
+delegated execution authority

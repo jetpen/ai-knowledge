@@ -53,3 +53,21 @@ In AI/ML analytics, the ontology functions as a semantic translation layer betwe
 | Knowledge base                                       | RDF (Resource Description Framework) | This turns retrieval from: `similar text search` into `semantic knowledge retrieval`.                                                                                                             | RDF triple store queried via SPARQL over ontological classes/relationships; integrated with retrieval subsystem/knowledge layer.                                                                        |
 | Data lake / data warehouse for analytics             | SQL schema mapping                   | Bridge business concepts to data schema via ontology for semantic EDA, as in analytics binding.                                                                                                   | database queries<br><br>database schema mapped via ontology bindings.                                                                                                                                   |
 | Data set preparation for model training              | Feature schemas                      | Align data prep pipelines with ontology for consistent features, supporting model training consistency.                                                                                           | Data pipelines validating against ontology-derived schemas; feature store integration with ontological properties.                                                                                      |
+## Ontology Formats
+
+| Format          | Main Purpose             | Strength                |
+| --------------- | ------------------------ | ----------------------- |
+| RDF             | Generic graph data model | Interoperability        |
+| RDFS            | Basic schemas            | Simplicity              |
+| OWL             | Logical reasoning        | Rich semantics          |
+| SKOS            | Taxonomies/vocabularies  | Controlled vocabularies |
+| SHACL           | Validation               | Data quality            |
+| SPARQL          | Querying                 | Graph search            |
+| JSON-LD         | Web-friendly RDF         | API/web integration     |
+| Turtle          | Human-readable RDF       | Authoring               |
+| RDF/XML         | XML RDF exchange         | Legacy enterprise       |
+| OBO             | Biomedical ontologies    | Domain specialization   |
+| Topic Maps      | Knowledge navigation     | Topic-centric modeling  |
+| Common Logic    | Formal logic reasoning   | Expressiveness          |
+| Property Graphs | Operational graphs       | Performance             |
+| Schema.org      | Structured web metadata  | SEO/search              |

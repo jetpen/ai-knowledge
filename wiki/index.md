@@ -59,6 +59,9 @@ updated: 2026-05-09
 [[entities/mastra.md]] - Mastra
 [[entities/claude-code.md]] - Claude Code
 [[entities/requirement.md]] - Requirement
+[[entities/agent-client-protocol.md]] - Agent Client Protocol
+[[entities/agent-payments-protocol.md]] - Agent Payments Protocol
+[[entities/universal-commerce-protocol.md]] - Universal Commerce Protocol
 [[entities/user.md]] - User
 [[entities/coupling.md]] - Coupling
 [[entities/abstraction.md]] - Abstraction
