@@ -36,6 +36,8 @@ https://x.com/i/status/2052052899115749692
 Team alignment: 
 https://x.com/i/status/2052497467883581677
 
+https://natesnewsletter.substack.com/p/2026-sneak-peek-the-first-job-by-9ac
+
 The next biggest moat in AI:
 https://x.com/i/status/2052870394093408558
 
@@ -69,6 +71,15 @@ Am I living according to my own agency? Or am I subordinating myself to my AI ag
 - Systems of outcome - applying intelligence to achieve business goals
 - Systems of intelligence - one reality, many lenses, understands work across tools
 - Systems of record - separate tools for separate function
+The agency of the future will manage loops and retire task delivery as the main product.
 https://x.com/i/status/2053173547393331318
 
+[Nate B Jones](https://natesnewsletter.substack.com/): Job-by-Job Guide to AI Evolution
 https://x.com/i/status/2052791197585035463
+
+[@ericosiu](https://x.com/ericosiu)System of outcomes
+https://x.com/i/status/2052791197585035463
+
+Self-improvement such that first time discovery is done by inference through trial and error until success is achieved. From there, future repetition of the skill is optimized through the generation of code. Non-deterministic execution at the slow speed of inference evolves to high performance deterministic execution through procedural code.
+
+When the intent is achieved by inference, each run benefits from the intelligence of the model. Over time, as models improve the intent may be achieved using better strategies and tool use. Locking in the implementation as procedural code foregoes such strategy-level improvement.
