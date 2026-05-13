@@ -77,4 +77,10 @@ Requirements → Architecture → Tests → Implement → Verify (tests pass)
 - [[mcp]]: Model Context Protocol for agent-tool integration.
 - [[a2a]]: Agent-to-agent communication standards.
 
-## Benefits & Risks\n\n**Benefits**: 10x velocity, consistency, auditability, reduced toil.\n**Risks**: Hallucinations, incomplete specs → bad outcomes; requires rigorous traceability + gates.\n\n## Related\n- [[entities/adk-2.0]] – Google ADK 2.0 orchestration patterns for agent factories
+## Benefits & Risks
+
+**Benefits**: 10x velocity, consistency, auditability, reduced toil.
+**Risks**: Hallucinations, incomplete specs → bad outcomes; requires rigorous traceability + gates.
+
+## Related
+- [[entities/adk-2.0]] – Google ADK 2.0 orchestration patterns for agent factories

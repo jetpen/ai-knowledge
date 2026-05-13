@@ -120,4 +120,7 @@ Each phase lists key memory docs, bounded by discipline, skills, and scope. Deri
 - **Progress Tracking**: Ledgers use tables: `| Task | Status | Evidence | Assignee |`.
 - **Health**: Ensure wikilinks to phases/disciplines; validate schema compliance.
 
-[[dark-software-factory]] | [[sdlc-automation]] | [[agentic-workflows]]\n\n## Related\n- [[concepts/agent-memory-dimensions]] – Orthogonal memory dimensions for agentic workflows like DSF
+[[dark-software-factory]] | [[sdlc-automation]] | [[agentic-workflows]]
+
+## Related
+- [[concepts/agent-memory-dimensions]] – Orthogonal memory dimensions for agentic workflows like DSF

@@ -64,7 +64,10 @@ Harnesses like **Hermes Agent**, **OpenClaw**, **Deep Agents**, and **Symphony**
 - **POMDP Framing**: Memory as belief state over partial observability.
 - **Lock-in**: Own your harness to own your memory.
 
-## Related\n\n- [[concepts/agent-memory-dimensions]] – Orthogonal dimensions of agent memory (persistence/content/storage)\n- [[concepts/harness-engineering]] – Harness engineering integrating memory architectures
+## Related
+
+- [[concepts/agent-memory-dimensions]] – Orthogonal dimensions of agent memory (persistence/content/storage)
+- [[concepts/harness-engineering]] – Harness engineering integrating memory architectures
 
 ## See Also
 - [[agent-memory-dimensions]]

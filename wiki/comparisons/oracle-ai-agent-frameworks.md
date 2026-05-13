@@ -20,7 +20,9 @@ Layered stack: business (high speed), integration, data, platform (high flexibil
 | [[database-agent-factory]] | Data | DB queries | Beyond DB |
 | [[oci-ai-agent-hub]] | Platform | Custom multi-agent | Quick results |
 | [[oci-generative-ai-agents]] | Platform | RAG Q&A | Actions/real-time |
-| [[oracle-apex-ai]] | App | Low-code apps | N/A |\n| [[oracle-ai-agent-memory-sdk]] | Platform | Unified agent memory (CY2026) | Stateless agents |\n
+| [[oracle-apex-ai]] | App | Low-code apps | N/A |
+| [[oracle-ai-agent-memory-sdk]] | Platform | Unified agent memory (CY2026) | Stateless agents |
+
 Updated [[oci-generative-ai-service]] with RAG agents note. Added [[oracle-ai-agent-memory-sdk]] (CY2026 memory layer).
 
 Source: RedThunder.Blog, Mar 2026.
