@@ -3,7 +3,6 @@ updated: 2026-04-25
 type: concept
 title: DSPy Signature
 created: 2026-04-22
-type: concept
 tags: [dspy, llm-framework]
 sources: [raw/articles/what-is-dspy-educative-blog-2026-04-22.md, raw/articles/dspy-agent-skills-readme-github-2026-04-22.md]
 author: auto

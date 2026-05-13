@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["concept", "improvements", "reliability", "streaming"]
 sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
---- 
+---
 
 # Streaming Reliability
 

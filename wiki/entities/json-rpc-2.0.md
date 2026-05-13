@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: entity
 tags: ["communication-standard", "entity", "json-rpc", "protocol"]
 sources: ['raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md']
---- 
+---
 
 # Json Rpc 2.0
 

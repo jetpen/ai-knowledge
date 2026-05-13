@@ -1,14 +1,19 @@
 ---
-title: Agent-Native CLIs
+title: Agent-Native CLI
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [agentic-infrastructure, cli, mcp, optimization]
-sources: [raw/articles/2026-05-04-trevin-chow-10-principles-agent-native-clis.md]
+tags:
+  - agentic-infrastructure
+  - cli
+  - mcp
+  - optimization
+sources:
+  - raw/articles/2026-05-04-trevin-chow-10-principles-agent-native-clis.md
 author: auto
 ---
 
-# Agent-Native CLIs
+# Agent-Native CLI
 
 CLIs designed for AI agents: non-interactive, structured JSON, bounded output, async-aware, with persistent identity and two-way I/O.
 

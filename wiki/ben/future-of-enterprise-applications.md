@@ -22,6 +22,13 @@ Low-cost
 Mass-produced
 Disposable
 
+AI has no life experience
+https://x.com/i/status/2039064805827330362
+
+Agent cannot decide what to work on. Has no value system to decide what would be good to accomplish. No self-chosen purpose.
+
+Agents have no sensory perception. No real time connection to reality.
+
 Natural language becomes the ultimate source code
 
 End users become the ultimate coders of their own integrated systems of applications
@@ -76,13 +83,13 @@ https://x.com/i/status/2053173547393331318
 
 [Nate B Jones](https://natesnewsletter.substack.com/): Job-by-Job Guide to AI Evolution
 https://x.com/i/status/2052791197585035463
-
 [@ericosiu](https://x.com/ericosiu)System of outcomes
 https://x.com/i/status/2052791197585035463
 
 Self-improvement such that first time discovery is done by inference through trial and error until success is achieved. From there, future repetition of the skill is optimized through the generation of code. Non-deterministic execution at the slow speed of inference evolves to high performance deterministic execution through procedural code.
 
 When the intent is achieved by inference, each run benefits from the intelligence of the model. Over time, as models improve the intent may be achieved using better strategies and tool use. Locking in the implementation as procedural code foregoes such strategy-level improvement.
+
 
 
 Bolt-on AI versus designed for native agentic execution

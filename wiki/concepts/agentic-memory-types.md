@@ -1,6 +1,6 @@
 ---
 title: Agentic Memory Types
-tags: [memory, [[agentic-memory]]
+tags: [memory, agentic-memory]
 ---
 
 # Agentic Memory Types

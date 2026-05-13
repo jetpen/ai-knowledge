@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["async-first", "asynchronous", "communication", "concept"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Async First Communication
 

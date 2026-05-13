@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["agent-capabilities", "concept", "discovery", "metadata"]
 sources: ['raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md']
---- 
+---
 
 # Agent Cards
 

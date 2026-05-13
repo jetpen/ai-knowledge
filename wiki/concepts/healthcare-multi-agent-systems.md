@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["concept", "domain-specific", "healthcare", "multi-agent", "systems"]
 sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
---- 
+---
 
 # Healthcare Multi Agent Systems
 

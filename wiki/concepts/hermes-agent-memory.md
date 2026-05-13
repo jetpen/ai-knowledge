@@ -1,6 +1,6 @@
 ---
 title: Hermes Agent Memory Architecture
-tags: [[hermes-agent]], memory, llm-arch]
+tags: [hermes-agent, memory, llm-arch]
 ---
 
 # Hermes Agent Memory Architecture

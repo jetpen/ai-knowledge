@@ -379,7 +379,7 @@ updated: 2026-05-09
 [[concepts/long-running-agents.md]] - Long-Running Agents
 [[concepts/fleet-orchestration.md]] - Fleet Orchestration
 [[concepts/agentic-production-infrastructure.md]] - Agentic Production Infrastructure
-[[concepts/agent-native-clis.md]] - Agent-Native CLIs
+[[agent-native-cli]] - Agent-Native CLIs
 [[concepts/ai-models.md]] - AI Models
 [[concepts/harness-swap-test.md]] - Harness-Swap Test
 [[concepts/smart-friend.md]] - Smart Friend

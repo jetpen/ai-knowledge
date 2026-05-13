@@ -10,7 +10,7 @@ author: hermes-agent
 
 # AgentKit
 
-## Overview/Sources
+## Overview
 OpenAI's AgentKit: lightweight framework for building production-grade AI agents with tool integration, memory, and orchestration primitives.
 
 ## Description

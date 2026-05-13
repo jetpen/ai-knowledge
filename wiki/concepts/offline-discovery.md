@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["concept", "discovery", "offline", "scale-to-zero"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Offline Discovery
 

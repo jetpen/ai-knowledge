@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["concept", "data-integration", "protocol", "tools"]
 sources: ['raw/articles/model-context-protocol-intro-2026.md']
---- 
+---
 
 # Data Source Integration
 

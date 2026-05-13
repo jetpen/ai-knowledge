@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["collaboration", "concept", "long-running", "tasks"]
 sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
---- 
+---
 
 # Long Running Task Collaboration
 

@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["communication", "concept", "json-rpc", "standardized"]
 sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
---- 
+---
 
 # Json Rpc Communication
 

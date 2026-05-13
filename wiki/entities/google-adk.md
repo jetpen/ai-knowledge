@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: entity
 tags: ["ai-framework", "entity", "framework", "google-adk"]
 sources: ['raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md']
---- 
+---
 
 # [[google]] Adk
 

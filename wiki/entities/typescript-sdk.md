@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: entity
 tags: ["development-tool", "entity", "sdk", "typescript"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Typescript Sdk
 

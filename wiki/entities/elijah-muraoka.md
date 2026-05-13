@@ -1,4 +1,4 @@
----  
+---
 title: Elijah Muraoka  
 created: 2026-05-04  
 updated: 2026-05-04  
@@ -6,7 +6,7 @@ type: entity
 tags: [person, agentic-dev, ai-agents]  
 sources: [raw/articles/2026-05-04-elijah-muraoka-reusable-ai-agent-prompt-for-big-tasks.md]  
 author: auto  
----  
+---
 
 # Elijah Muraoka  
 

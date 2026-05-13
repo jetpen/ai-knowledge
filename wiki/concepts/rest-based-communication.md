@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["communication", "concept", "http", "rest-based"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Rest Based Communication
 

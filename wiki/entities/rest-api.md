@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: entity
 tags: ["api", "communication-protocol", "entity", "rest"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Rest Api
 

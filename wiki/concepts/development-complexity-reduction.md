@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["concept", "development", "efficiency", "protocol"]
 sources: ['raw/articles/model-context-protocol-intro-2026.md']
---- 
+---
 
 # Development Complexity Reduction
 

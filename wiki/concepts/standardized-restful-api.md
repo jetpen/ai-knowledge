@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["api", "communication", "concept", "rest", "standardized"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Standardized Restful Api
 

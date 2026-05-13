@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["collaboration", "concept", "inter-company", "partnerships"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
---- 
+---
 
 # Inter Company Partnerships
 

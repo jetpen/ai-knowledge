@@ -1,5 +1,5 @@
 ---
-title: [[dark-software-factory|Dark Software Factory]]
+title: Dark Software Factory
 created: 2026-04-19
 updated: 2026-05-08
 type: concept
@@ -7,7 +7,7 @@ tags: ["sdlc", "automation", "agents", "agentic-workflows", "devops"]
 sources: ["raw/articles/dark-software-factory-2026.md"]
 ---
 
-# [[dark-software-factory|Dark Software Factory]]
+# Dark Software Factory
 
 A fully automated, AI-agent driven **Software Development Life Cycle (SDLC)** with minimal human intervention ("dark factory"). Every stage is spec-driven, observable, traceable, and executable by cooperating AI agents following structured workflows, policies, and evidence chains.
 

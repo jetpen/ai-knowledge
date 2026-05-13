@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["ai-integration", "concept", "protocol", "standard"]
 sources: ['raw/articles/model-context-protocol-intro-2026.md']
---- 
+---
 
 # Standard For Connecting Ai Applications
 

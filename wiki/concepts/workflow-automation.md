@@ -5,7 +5,7 @@ updated: 2026-04-11
 type: concept
 tags: ["automation", "concept", "protocol", "workflow"]
 sources: ['raw/articles/model-context-protocol-intro-2026.md']
---- 
+---
 
 # Workflow Automation
 
