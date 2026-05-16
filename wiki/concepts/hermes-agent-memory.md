@@ -17,7 +17,7 @@ Hermes Agent organizes knowledge into a cognitive science-inspired taxonomy, tre
 * **Bounded Curation**: Minimal character budgets force the agent to rank, prioritize, and curate only the essential persistent facts.
 * **Frozen Snapshot**: Disk-resident memory is cached at session start to preserve prompt-cache stability, minimizing per-turn token costs.
 * **Security Scanning**: Automated validation of writes for malicious patterns.
-* **Deterministic Routing**: A rigid decision tree (`_build_system_prompt()`) determines whether new info is declarative, procedural, or ephemeral task-state.
+* **Deterministic Routing**: A rigid decision tree (`_build_system_prompt()`) determines whether new info agent2agentis declarative, procedural, or ephemeral task-state.
 
 ## References
 * [[harness-engineering]]
