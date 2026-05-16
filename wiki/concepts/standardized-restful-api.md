@@ -9,7 +9,7 @@ sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
 
 # Standardized Restful Api
 
-An open specification designed to reduce fragmentation in the AI ai-[[ai-ecosystem]] by defining universal communication or identity schemas.
+An open specification designed to reduce fragmentation in the [[ai-ecosystem]] by defining universal communication or identity schemas.
 
 ## Source Context
 This entry is compiled from the following ingested material: raw/articles/agent-communication-protocol-intro-2026.md.

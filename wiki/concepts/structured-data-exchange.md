@@ -9,7 +9,7 @@ sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
 
 # Structured Data Exchange
 
-Synthesis from sources ['raw/articles/agent2agent-protocol-readme-2026.md']: This page describes a technical component, organization, or protocol fundamental to the AI/ML agentic ai-[[ai-ecosystem]]. It facilitates standardized patterns for interoperability, discovery, or execution.
+Synthesis from sources ['raw/articles/agent2agent-protocol-readme-2026.md']: This page describes a technical component, organization, or protocol fundamental to the AI/ML agentic [[ai-ecosystem]]. It facilitates standardized patterns for interoperability, discovery, or execution.
 
 ## Relationships
 - Associated with: [[mcp]], [[agentic-infrastructure]], [[ai-ecosystem]]
