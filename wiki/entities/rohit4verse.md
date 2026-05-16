@@ -3,8 +3,12 @@ title: Rohit (@rohit4verse)
 created: 2026-04-29
 updated: 2026-04-29
 type: person
-tags: [ai-agents, agent-primitives, person]
-sources: ["/home/ben/projects/ai-knowledge/wiki/raw/articles/2026-04-29-2049548305408131349-rohit-what-to-learn-build-skip-ai-agents-2026.md"]
+tags:
+  - ai-agents
+  - agent-primitives
+  - person
+sources:
+  - /home/ben/projects/ai-knowledge/wiki/raw/articles/2026-04-29-2049548305408131349-rohit-what-to-learn-build-skip-ai-agents-2026.md
 author: auto
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entities/rohit4verse.md",
+                "file": "concepts/credential-inclusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rohit4verse"
+              "title": "credential-inclusion"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "7e1bce9287441a14",
   "lastOpenFiles": [
+    "concepts/dark-software-factory.md",
+    "entities/adk-2.0.md",
+    "entities/rohit4verse.md",
+    "entities/agent-hooks.md",
     "Untitled.base",
     "entities/problem.md",
     "entities/build-vs-dont-build-judgment.md",
@@ -207,9 +211,6 @@
     "entities/ramakrishna.md",
     "entities/ubiquitous-language.md",
     "raw/mempalace-readme-2026.md",
-    "log.md",
-    "wiki/a2a-mcp-integration-patterns.md",
-    "wiki/linear-algebra-roadmap-ai-ml.md",
-    "wiki/moderation.md"
+    "log.md"
   ]
 }
