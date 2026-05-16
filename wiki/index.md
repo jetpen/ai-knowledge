@@ -7,7 +7,7 @@ updated: 2026-05-16
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-16 | Total pages: 490
+> Last updated: 2026-05-16 | Total pages: 491
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -155,6 +155,7 @@ updated: 2026-05-16
 [[entities/oci-ai-accelerator-pack.md]] - OCI AI Accelerator Pack
 [[entities/oci-ai-agent-hub.md]] - OCI AI Agent Hub
 [[entities/oci-ai-services.md]] - OCI AI Services
+[[entities/oci-generative-ai-agents.md]] - OCI Generative AI Agents
 [[entities/oci-generative-ai-service.md]] - OCI Generative AI Service
 [[entities/oic-ai-agent.md]] - OIC AI Agent (Oracle Integration Cloud)
 [[entities/ontology-for-agents.md]] - Ontology for Agents
