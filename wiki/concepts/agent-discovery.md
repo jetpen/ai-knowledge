@@ -9,7 +9,20 @@ sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
 
 # Agent Discovery
 
-Synthesis from sources ['raw/articles/agent2agent-protocol-readme-2026.md']: This page describes a technical component, organization, or protocol fundamental to the AI/ML agentic [[ai-ecosystem]]. It facilitates standardized patterns for interoperability, discovery, or execution.
+Agent discovery is a critical mechanism within the [[ai-ecosystem]] that allows AI agents to identify, locate, and understand the capabilities of other agents in a distributed, multi-agent environment. It enables agents to move beyond static, hard-coded connections by dynamically locating specialized partners to collaborate on complex tasks.
 
+## The Role of A2A in Discovery
+The Agent2Agent (A2A) protocol introduces a standardized approach to agent discovery through the use of "Agent Cards." These metadata-rich artifacts provide essential information to facilitate discovery:
+
+- **Capability Exposure:** Agents advertise what functions or services they can perform without exposing their internal memory, proprietary logic, or tool implementations.
+- **Connection Details:** Cards provide the necessary technical information to establish secure communication, typically via JSON-RPC 2.0 over HTTP(S).
+- **Standardization:** By providing a common discovery format, A2A breaks down silos between different agent frameworks (e.g., ADK, LangGraph, BeeAI), allowing for rich, cross-framework interoperability.
+
+## Future Directions
+Ongoing work in A2A aims to further mature the discovery process:
+- **Enhanced Authorization:** Formalizing the inclusion of authorization schemes and credentials directly into `AgentCard` metadata.
+- **Dynamic Skill Querying:** Exploring `QuerySkill()` methods to allow agents to dynamically negotiate skills that were not initially anticipated.
+
+---
 ## Source Context
-This entry is compiled from the following ingested material: raw/articles/agent2agent-protocol-readme-2026.md.
+This entry is synthesized from: [raw/articles/agent2agent-protocol-readme-2026.md](../raw/articles/agent2agent-protocol-readme-2026.md).
