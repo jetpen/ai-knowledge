@@ -12,7 +12,7 @@ sources:
 
 # Anthropic
 
-Anthropic is an AI safety and research company that develops the Claude family of LLMs, recognized for high reasoning capability and strict alignment protocols.
+Anthropic is an AI safety and research company that develops the Claude family of LLMs, recognized for high reasoning capability and strict alignment protocols. See [[risks-and-benefits]] for analysis of AGI-related white-collar displacement risks projected by its leadership.
 
 ## Key Features
 - Interoperability across diverse LLM systems.

@@ -396,3 +396,5 @@ updated: 2026-05-16
 [[queries/agent-memory-architecture.md]] - Agent Memory Architecture
 [[queries/dark-software-factory-memory.md]] - \"[[dark-software-factory-memory|Dark Software Factory (DSF) Memory Classifications]]\"
 [[queries/ontology-for-input-validation.md]] - Ontology for Input Validation
+
+[[risks-and-benefits.md]] - Risks and Benefits of Ubiquitous Human-Level AI (AGI)
