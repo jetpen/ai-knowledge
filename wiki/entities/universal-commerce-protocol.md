@@ -16,7 +16,7 @@ The Universal Commerce Protocol (UCP) is an open-standard, industry-driven frame
 * **Agentic Commerce:** Native support for agent-driven purchasing.
 * **Merchant Sovereignty:** Merchants remain the "Merchant of Record" and maintain business rule control.
 * **Interoperability:** Built on standard web patterns (REST, JSON-RPC, OAuth 2.0).
-* **Cross-Protocol Integration:** Compatible with Agent Payments Protocol (AP2), Agent-to-Agent (A2A), and the Model Context Protocol (MCP).
+* **Cross-Protocol Integration:** Compatible with Agent Payments Protocol (AP2), Agent-to-Agent (A2A), the Model Context Protocol (MCP), and [[x402]] (HTTP-Native Payments).
 
 ## Key Components
 1. **Checkout:** Supports dynamic pricing, complex cart management, and tax calculation via Native or Embedded Checkout modalities.

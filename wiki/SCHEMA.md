@@ -83,3 +83,4 @@ When new information conflicts with existing content:
 - concepts: Synthesized concepts folder from raw sources
   - type: concept
   - tags: [concepts]
+  - Discovery tags added: ai-engineering-loop, evaluation, evals, llm-as-a-judge, manual-evaluation, code-based-evaluation, langfuse

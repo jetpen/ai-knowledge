@@ -26,13 +26,14 @@ The Agent Payments Protocol (AP2) is an open-source, interoperable standard desi
 * **Auditability:** Complete cryptographic audit trails for high-risk agent transactions.
 
 ## Ecosystem Integration
-AP2 serves as the security and payment layer when utilized alongside:
-- [[Universal Commerce Protocol]] (UCP)
-- [[Model Context Protocol]] (MCP)
-- [[Agent-to-Agent]] (A2A)
-
-## External Links
-- [Official Site](https://ap2-protocol.org/)
+29|AP2 serves as the security and payment layer when utilized alongside:
+30|- [[Universal Commerce Protocol]] (UCP)
+31|- [[Model Context Protocol]] (MCP)
+32|- [[Agent-to-Agent]] (A2A)
+33|- [[x402]]
+34|
+35|## External Links
+36|- [Official Site](https://ap2-protocol.org/)
 - [GitHub Repository](https://github.com/google-agentic-commerce/AP2)
 - [Documentation](https://ap2-protocol.org/ap2/specification/)
 

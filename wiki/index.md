@@ -1,13 +1,13 @@
 ---
 title: Wiki Index
 created: 2026-05-07
-updated: 2026-05-16
+updated: 2026-05-19
 ---
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-16 | Total pages: 491
+> Last updated: 2026-05-19 | Total pages: 491
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -22,6 +22,7 @@ updated: 2026-05-16
 [[entities/agent-hooks.md]] - Agent Hooks
 [[entities/agent-payments-protocol.md]] - Agent Payments Protocol
 [[entities/agent-registry.md]] - Agent Registry
+[[entities/x402.md]] - x402 (HTTP-Native Payments)
 [[entities/agent-runtime-google.md]] - Agent Runtime (Google Cloud)
 [[entities/agentic-coding-patterns.md]] - Agentic Coding Patterns
 [[entities/aggregate.md]] - Aggregate
@@ -298,6 +299,7 @@ updated: 2026-05-16
 [[concepts/enterprise-ready-protocols.md]] - enterprise-ready protocols
 [[concepts/environment-engineering.md]] - Environment Engineering
 [[concepts/episodic-memory.md]] - Episodic Memory
+[[concepts/evaluation.md]] - Evaluation Methods (evals, LLM-as-a-judge)
 [[concepts/explicit-content-flagging.md]] - Explicit Content Flagging
 [[concepts/feature-store.md]] - Feature Store
 [[concepts/filesystem-middleware.md]] - Filesystem Middleware
