@@ -218,6 +218,7 @@ updated: 2026-05-20
 [[entities/value-proposition.md]] - Value Proposition
 [[entities/w3c-did.md]] - W3C DID
 [[entities/walden.md]] - Walden
+[[entities/ag-ui.md]] - AG-UI
 [[entities/wayflow.md]] - WayFlow
 [[entities/windsurf.md]] - Windsurf
 [[entities/zed.md]] - Zed
