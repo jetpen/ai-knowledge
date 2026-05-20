@@ -388,6 +388,7 @@ updated: 2026-05-20
 
 ## Comparisons
 <!-- Alphabetical within section -->
+[[comparisons/agent-user-interfaces.md]] - Agentic User Interface Protocols (AG-UI vs A2UI)
 [[comparisons/agent2agent-protocol-vs-model-context-protocol.md]] - Agent2Agent Protocol vs Model Context Protocol
 [[comparisons/agentic-protocols-comparison.md]] - Agentic Protocols Comparison
 [[comparisons/agentic-protocols-expansion-comparison.md]] - Agentic Protocols Expansion Comparison
