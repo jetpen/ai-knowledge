@@ -1,13 +1,13 @@
 ---
 title: Wiki Index
 created: 2026-05-07
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-19 | Total pages: 491
+> Last updated: 2026-05-20 | Total pages: 492
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -218,6 +218,7 @@ updated: 2026-05-19
 [[entities/value-proposition.md]] - Value Proposition
 [[entities/w3c-did.md]] - W3C DID
 [[entities/walden.md]] - Walden
+[[entities/wayflow.md]] - WayFlow
 [[entities/windsurf.md]] - Windsurf
 [[entities/zed.md]] - Zed
 [[entities/zero-to-one.md]] - Zero To One
@@ -396,7 +397,7 @@ updated: 2026-05-19
 ## Queries
 <!-- Alphabetical within section -->
 [[queries/agent-memory-architecture.md]] - Agent Memory Architecture
-[[queries/dark-software-factory-memory.md]] - \"[[dark-software-factory-memory|Dark Software Factory (DSF) Memory Classifications]]\"
+[[queries/dark-software-factory-memory.md]] - "[[dark-software-factory-memory|Dark Software Factory (DSF) Memory Classifications]]"
 [[queries/ontology-for-input-validation.md]] - Ontology for Input Validation
 
 [[risks-and-benefits.md]] - Risks and Benefits of Ubiquitous Human-Level AI (AGI)
