@@ -7,7 +7,7 @@ tags: ["api", "communication-protocol", "entity", "rest"]
 sources: ['raw/articles/agent-communication-protocol-intro-2026.md']
 ---
 
-# Rest Api
+# REST API
 
 The **REST API** (Representational State Transfer Application Programming Interface) within the agentic [[ai-ecosystem]] serves as a foundational component for standardized communication. It provides an architectural style for interaction between agents and services, emphasizing scalability and decoupled design.
 
