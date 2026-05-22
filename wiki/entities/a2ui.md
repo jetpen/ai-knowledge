@@ -12,7 +12,7 @@ sources:
   - raw/articles/agent-user-interaction-protocol-protocol-introduction-2026.md
 ---
 
-# A2Ui
+# A2UI
 
 A generative UI specification allowing agents to propose interactive UI widgets to a frontend application, which then mounts them securely.
 

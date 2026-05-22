@@ -1,24 +1,40 @@
 ---
-title: Spec-Driven Development
-created: 2026-04-23
-updated: 2026-04-23
-type: pattern
-tags: [agentic-coding-patterns, spec-driven-development]
-sources: ['raw/articles/2026-04-23-aipatternbook-repl.md']
-author: hermes
+title: Spec-Driven Development (SDD)
+type: entity
+tags:
+  - spec-driven-development
+  - AI-coding
+  - software-engineering
+  - agentic-workflows
+sources:
+  - https://x.com/i/status/2057523186766377470
+author: auto
+created: 2026-05-22
+updated: 2026-05-22
 ---
 
-# Spec-Driven Development
+# Spec-Driven Development (SDD)
 
-## Context
-**Intent, Scope, and Decision-Making** (AiPatternBook TOC Section 3): ...
+## Overview
+Spec-Driven Development (SDD) has transitioned into a default architecture for AI-assisted coding over the last 12-18 months. It involves defining structured specifications before enabling AI agents to generate code, addressing the "productivity paradox" in AI-assisted development.
 
-## Source Context
-> 3. **Intent, Scope...**  
->    - ... Specification, Spec-Driven Development, ...
+## Core Significance
+- **Structure**: Shifts AI coding from "vibe coding" (unstructured generation) to disciplined workflows.
+- **Academic Context**: Supported by multiple academic studies (e.g., Sabry Farrag's 67-source systematic review) highlighting individual gains versus system-level damage in unconstrained AI coding.
+- **Industry Adoption**: Adopted by Thoughtworks (Tech Radar Vol. 32), Martin Fowler, GitHub (Spec Kit), Amazon (Kiro), and Tessl.
+- **Critique**: Bryan Finster argues that SDD is essentially Behavior-Driven Development (BDD) with updated branding, emphasizing that the novelty lies in the *context* (structural necessity due to high AI code-generation volume) rather than the *concept*.
 
-## Agentic Application
-Spec-Driven Development codes from formal specs first (OpenAPI/JSON Schema), generates tests/stubs. For agents: spec tool interfaces, gen Pydantic models. Ensures compliance. Agents validate against specs. (78 words)
+## Industry Ecosystem
+- **Tools**:
+    - **GitHub Spec Kit**: MIT-licensed toolkit for SDD.
+    - **Amazon Kiro**: Agentic requirement/design-to-task tool.
+    - **Tessl**: Positions specs as the new source code.
+- **Evidence**:
+    - GitHub (2025): 46% of code output is AI-generated.
+    - Stack Overflow (2025): 84% of developers using/planning to use AI tools.
 
-## Related
-[[specification]] [[acceptance-criteria]] [[design-doc]] [[requirement]]
+## Relationships
+- **Parent Concept**: [[software-engineering]]
+- **Related Concept**: [[behavior-driven-development]]
+- **Related Concept**: [[agentic-coding-agents]]
+- **Related Concept**: [[the-productivity-paradox]]

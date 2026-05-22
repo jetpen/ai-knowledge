@@ -7,7 +7,7 @@ updated: 2026-05-20
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-20 | Total pages: 492
+|> Last updated: 2026-05-20 | Total pages: 493
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -198,6 +198,7 @@ updated: 2026-05-20
 [[entities/stripe-projects.md]] - Stripe Projects
 [[entities/supermemory.md]] - supermemory
 [[entities/symphony.md]] - Symphony
+[[entities/spec-driven-development.md]] - Spec-Driven Development (SDD)
 [[entities/task-decomposition.md]] - Task Decomposition
 [[entities/taste.md]] - Taste
 [[entities/tau2-bench.md]] - Tau2-Bench
