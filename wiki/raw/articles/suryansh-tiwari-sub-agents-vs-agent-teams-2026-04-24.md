@@ -1,9 +1,9 @@
 ---
-title: Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything
-author: Suryansh Tiwari (@Suryanshti777)
-created: 2026-04-24
-source: https://x.com/i/status/2047694444787577236
+title: "Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything"
+author: "Suryansh Tiwari (@Suryanshti777)"
+date: 2026-04-24
 tags: [multi-agent-systems, sub-agents, agent-teams, claude, agents]
+sources: [https://x.com/i/status/2047694444787577236]
 ---
 
 # Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything
@@ -81,5 +81,6 @@ Sub-agents and agent teams are fundamentally different.
 - Interactive
 - Context-sharing
 - Peer-to-peer
+
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

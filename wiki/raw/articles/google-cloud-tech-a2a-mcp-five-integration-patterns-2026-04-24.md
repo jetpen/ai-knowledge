@@ -1,9 +1,9 @@
 ---
-title: How A2A and MCP Work Together: Five Integration Patterns for Building Multi-Agent Systems
-author: Google Cloud Tech (@GoogleCloudTech), by @addyosmani and @Saboo_Shubham_
+title: "How A2A and MCP Work Together: Five Integration Patterns for Building Multi-Agent Systems"
+author: "Google Cloud Tech (@GoogleCloudTech), by @addyosmani and @Saboo_Shubham_"
 date: 2026-04-24
-source: https://x.com/i/status/2047567704807346675
 tags: [a2a, mcp, multi-agent-systems, google-cloud, integration-patterns, agent-development-kit]
+sources: [https://x.com/i/status/2047567704807346675]
 ---
 
 # Raw Capture: Google Cloud Tech X Post (Article)

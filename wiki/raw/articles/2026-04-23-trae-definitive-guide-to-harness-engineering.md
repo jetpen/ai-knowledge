@@ -3,7 +3,11 @@ title: The Definitive Guide to Harness Engineering
 author: TRAE (@Trae_ai)
 date: 2026-04-23
 source: https://x.com/i/status/2047145274200768969
-tags: [harness-engineering, trae-ai, r.e.s.t-framework, agent-harness, mitchell-hashimoto]
+tags:
+  - harness-engineering
+  - trae-ai
+  - agent-harness
+  - mitchell-hashimoto
 ---
 
 # The Definitive Guide to Harness Engineering

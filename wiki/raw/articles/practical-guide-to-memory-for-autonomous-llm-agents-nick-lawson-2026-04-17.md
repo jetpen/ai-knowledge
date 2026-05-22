@@ -1,10 +1,9 @@
 ---
-title: A Practical Guide to Memory for Autonomous LLM Agents
-author: Nick Lawson
-published: 2026-04-17
-source: https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents
-summary: Architectures, pitfalls, and patterns that work. Discusses a survey paper on agent memory (arxiv:2603.07670), emphasizing memory over model choice, POMDP framing, write-manage-read loop, and four temporal scopes: working memory (context window), episodic (experiences), semantic (facts/heuristics), procedural (skills). Practical examples from OpenClaw, AWS AgentCore, Claude Code.
+title: "A Practical Guide to Memory for Autonomous LLM Agents"
+author: "Nick Lawson"
+date: 2026-04-17
 tags: [agentic-memory, ai-agents, openclaw, agentcore]
+sources: [https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents]
 ---
 
 # Raw Article Content Summary

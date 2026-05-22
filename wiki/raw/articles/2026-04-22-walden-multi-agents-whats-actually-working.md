@@ -1,25 +1,24 @@
 ---
-title: Multi-Agents: What's Actually Working
-author: Walden (@walden_yan)
+title: "Multi-Agents: What's Actually Working"
+author: "Walden (@walden_yan)"
 date: 2026-04-22
-source: https://x.com/i/status/2047054401341370639
-type: x-article
 tags: [multi-agent, agents, cognition, context-engineering, devin]
+sources: [https://x.com/i/status/2047054401341370639]
 ---
 
 # Multi-Agents: What's Actually Working
 
-**Posted by:** Walden (@walden_yan)  
-**Date:** Apr 22, 2026  
-**Engagement:** 5 replies, 41 reposts, 253 likes, 679 bookmarks, 72.6K views  
+**Posted by:** Walden (@walden_yan)
+**Date:** Apr 22, 2026
+**Engagement:** 5 replies, 41 reposts, 253 likes, 679 bookmarks, 72.6K views
 
-10 months ago, I wrote ["Don't Build Multi-Agents"](https://cognition.ai/blog/dont-build-multi-agents), arguing that most people shouldn't try to build multi-agent systems [1]. Parallel agents make implicit choices about style, edge cases, and code patterns. At the time, these decisions often conflicted with each other, leading to fragile products. 
+10 months ago, I wrote ["Don't Build Multi-Agents"](https://cognition.ai/blog/dont-build-multi-agents), arguing that most people shouldn't try to build multi-agent systems [1]. Parallel agents make implicit choices about style, edge cases, and code patterns. At the time, these decisions often conflicted with each other, leading to fragile products.
 
 A lot has changed since then. At Cognition, we've begun to deploy multi-agent systems that actually work in practice. Our original observations still hold today for parallel-writer swarms: most of the sexy ideas in that space still don’t see meaningful adoption. But we've found a narrower class of patterns that do: setups where multiple agents contribute intelligence to a task while writes stay single-threaded. In this post, I'll summarize what we've learned building them.
 
 ## A Refresher on Context Engineering
 
-In the last post, we encouraged readers to reframe agent-building from “prompt engineering” to “context engineering”. Prompt engineering encourages gimmicky techniques like “you’re a senior software engineer” or “think for longer.” Context engineering is more durable and focuses on giving the right context to models while assuming the models become more capable over time. 
+In the last post, we encouraged readers to reframe agent-building from “prompt engineering” to “context engineering”. Prompt engineering encourages gimmicky techniques like “you’re a senior software engineer” or “think for longer.” Context engineering is more durable and focuses on giving the right context to models while assuming the models become more capable over time.
 
 For many reasons, context engineering can get very challenging in a multi-agent setup. In the past, we recommended the following principles:
 
@@ -32,9 +31,9 @@ Though many things have changed in the last few months, the need for thoughtful 
 
 To start, models have become way more naturally “agentic.” They intuitively understand tool use, their own context limits, and how to distill their context for collaborators (human or otherwise). As a result, usage of agents has grown … a shit ton. Even when we look at Devin usage in our largest enterprises segment, the segment that has traditionally been cautious toward adopting new technologies, we see an explosion over the last 6 months (~8x).
 
-This explosion of usage has led to both a push and a pull to multi-agents. On the push side of things, the increased capabilities have led users to naturally experiment with many more multi-agent setups. When you are using so many agents, you naturally start to become bottlenecked on everything around those agents: the management, planning, and reviewing. For instance, some have created scripts for Devins to manage other Devins. Many have also leaned into having their coding agents iterate back and forth with their review agents. 
+This explosion of usage has led to both a push and a pull to multi-agents. On the push side of things, the increased capabilities have led users to naturally experiment with many more multi-agent setups. When you are using so many agents, you naturally start to become bottlenecked on everything around those agents: the management, planning, and reviewing. For instance, some have created scripts for Devins to manage other Devins. Many have also leaned into having their coding agents iterate back and forth with their review agents.
 
-On the pull side of things, the explosion of agent usage has resulted in an explosion of costs. With a new [Mythos class](https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf) of even larger & more capable models on the horizon, the natural question of how one can achieve frontier capabilities at a lower cost arises. And multi-agent systems may be a natural answer. 
+On the pull side of things, the explosion of agent usage has resulted in an explosion of costs. With a new [Mythos class](https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf) of even larger & more capable models on the horizon, the natural question of how one can achieve frontier capabilities at a lower cost arises. And multi-agent systems may be a natural answer.
 
 There's also been a wave of sensational demos of throwing tons of agents at large engineering projects. Notable examples include [building a web browser](https://cursor.com/blog/scaling-agents) (200k LOC), [building a C compiler](https://www.anthropic.com/engineering/building-c-compiler) (100k LOC), and [optimizing an LLM training script](https://github.com/karpathy/autoresearch) (10k+ iterations). These are exciting but they all share a property most real software doesn't: a simple, verifiable success criterion. Real software requires a system that scales human taste and decision-making, which is the context in which we set out to explore multi-agent systems.
 
