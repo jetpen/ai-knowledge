@@ -6,7 +6,7 @@ title: Agentic Memory
 created: 2026-04-14
 tags: [memory, agentic-memory, llm-arch, context-window, long-term-memory]
 sources: 
- - raw/articles/2037499938574110770.md
+ - raw/articles/2026-04-13-ramakrishna-agentic-memory-detailed-breakdown.md
  - raw/articles/2043020014035570784.md
 ---
 

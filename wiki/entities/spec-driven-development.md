@@ -26,9 +26,10 @@ Spec-Driven Development (SDD) has transitioned into a default architecture for A
 
 ## Industry Ecosystem
 - **Tools**:
-    - **GitHub Spec Kit**: MIT-licensed toolkit for SDD.
-    - **Amazon Kiro**: Agentic requirement/design-to-task tool.
-    - **Tessl**: Positions specs as the new source code.
+    - **[GitHub Spec Kit](https://github.com/github/spec-kit)**: MIT-licensed toolkit for SDD.
+    - **[Amazon Kiro](https://github.com/kirodotdev/Kiro)**: Agentic requirement/design-to-task tool.
+    - **[Tessl](https://docs.tessl.io/use/spec-driven-development-with-tessl)**: Positions specs as the new source code.
+    - **[OpenSpec](https://github.com/Fission-AI/OpenSpec)**: Framework for spec-driven development for AI coding assistants.
 - **Evidence**:
     - GitHub (2025): 46% of code output is AI-generated.
     - Stack Overflow (2025): 84% of developers using/planning to use AI tools.

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [agentic-dev, infra, production, engineering]
-sources: [raw/articles/2032782212303598066.md]
+sources: [raw/articles/2026-04-13-ashutosh-maheshwari-80-percent-agentic-work-is-not-ai.md]
 author: auto
 ---
 

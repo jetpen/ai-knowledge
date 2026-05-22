@@ -4,7 +4,7 @@ created: 2026-04-22
 updated: 2026-04-22
 type: concept
 tags: [agentic-dev, infra, production, engineering, infrastructure, state-management, data-engineering]
-sources: [raw/articles/2032782212303598066.md]
+sources: [raw/articles/2026-04-13-ashutosh-maheshwari-80-percent-agentic-work-is-not-ai.md]
 author: auto
 ---
 
@@ -38,4 +38,4 @@ Agent prototypes build in days; production infrastructure demands quarters of en
 - [[production-agent-runtime]] - Durable runtime layer.
 - [[hermes-agent-memory]] - Memory architectures.
 - [[llm-architecture]] - Broader LLM infra patterns.
-- [[raw/articles/2032782212303598066.md]]
+- [[raw/articles/2026-04-13-ashutosh-maheshwari-80-percent-agentic-work-is-not-ai.md]]

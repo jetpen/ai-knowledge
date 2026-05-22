@@ -5,7 +5,7 @@ updated: 2026-05-08
 type: concept
 tags: [harness-engineering, agentic-dev, llm-arch, software-development, agents, ai-infrastructure]
 sources: 
-  - raw/articles/2037200578842157462.md
+  - raw/articles/2026-04-13-nav-toor-harness-engineering.md
   - raw/articles/agent-harness-engineering-addyosmani-2026-04-22.md
   - raw/articles/2026-04-22-alphasignal-ai-harness-engineering.md
 author: auto

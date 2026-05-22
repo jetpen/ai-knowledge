@@ -4,7 +4,7 @@ created: 2026-04-29
 updated: 2026-04-29
 type: entity
 tags: [filesystem, agentic-search, rag-hybrid, smfs, supermemoryai]
-sources: [raw/articles/2049324612635562492-dhravya-shah-smfs-supermemory-filesystem.md]
+sources: [raw/articles/2026-04-29-dhravya-shah-smfs-supermemory-filesystem.md]
 author: auto
 ---
 

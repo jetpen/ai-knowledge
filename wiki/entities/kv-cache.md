@@ -4,7 +4,7 @@ created: 2026-04-29
 updated: 2026-05-08
 type: entity
 tags: [architecture, transformer, inference, optimization, memory, kv-cache, token-level-memory]
-sources: [raw/articles/2049175615195242821-siddharth-how-ai-actually-remembers.md, raw/articles/2026-05-04-jayanth-sanku01-kv-cache-in-llms.md]
+sources: [raw/articles/2026-04-29-siddharth-how-ai-actually-remembers.md, raw/articles/2026-05-04-jayanth-sanku01-kv-cache-in-llms.md]
 author: auto
 ---
 

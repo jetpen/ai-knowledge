@@ -5,7 +5,7 @@ updated: 2026-05-03
 type: entity
 tags: [hermes-agent, memory, llm-arch, cognitive-science, agentic-infrastructure]
 sources: 
- - raw/articles/2036417870473863674.md
+ - raw/articles/2026-04-13-sid-hermes-agent-memory-architecture.md
  - raw/articles/2026-05-03-tony-simons-forget-about-memory-context-os-hermes-agent.md
 author: auto
 ---

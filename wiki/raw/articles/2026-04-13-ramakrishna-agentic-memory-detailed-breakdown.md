@@ -37,7 +37,7 @@ Ramakrishna defines Agentic Memory as a system that enables LLMs to evolve from 
 * [[memory-design-axes]]
 * [[llm-architectureitecture]]
 ---
-* [[2043020014035570784]] (Comparison on memory challenges)
+* [[raw/articles/2026-04-13-chrys-bader-unsolved-long-term-memory-llms.md]] (Comparison on memory challenges)
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
