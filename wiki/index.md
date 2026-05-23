@@ -7,7 +7,7 @@ updated: 2026-05-20
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-05-20 | Total pages: 493
+|> Last updated: 2026-05-20 | Total pages: 494
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -389,7 +389,8 @@ updated: 2026-05-20
 
 ## Comparisons
 <!-- Alphabetical within section -->
-[[comparisons/agent-user-interfaces.md]] - Agentic User Interface Protocols (AG-UI vs A2UI)
+[[comparisons/agentic-user-interfaces.md]] - Agentic User Interface Protocols (AG-UI vs A2UI)
+[[comparisons/spec-driven-development-approaches.md]] - Spec-Driven Development Approaches
 [[comparisons/agent2agent-protocol-vs-model-context-protocol.md]] - Agent2Agent Protocol vs Model Context Protocol
 [[comparisons/agentic-protocols-comparison.md]] - Agentic Protocols Comparison
 [[comparisons/agentic-protocols-expansion-comparison.md]] - Agentic Protocols Expansion Comparison
