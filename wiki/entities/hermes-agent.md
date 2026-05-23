@@ -7,6 +7,7 @@ tags: [hermes-agent, memory, llm-arch, cognitive-science, agentic-infrastructure
 sources: 
  - raw/articles/2026-04-13-sid-hermes-agent-memory-architecture.md
  - raw/articles/2026-05-03-tony-simons-forget-about-memory-context-os-hermes-agent.md
+ - raw/2026-05-23-kevin-simback-hermes-memory-systems.md
 author: auto
 ---
 
@@ -21,6 +22,7 @@ Hermes Agent separates internal knowledge into four distinct persistent stores, 
 2. **[[procedural-memory|Procedural Memory]]**: `SKILL.md` (unbounded), containing procedures created autonomously after multi-step tasks.
 3. **[[episodic-memory|Episodic Memory]]**: A SQLite + FTS5 based log of events, retrieved on-demand.
 4. **Identity**: Assembled from `SOUL.md` and other personality presets.
+5. **[[memory-providers]]**: Pluggable external systems (e.g., OpenViking, Honcho, Mem0) expanding bounded core storage.
 
 ## Memory Management Principles
 - **Routing Logic**: A deterministic decision tree determines storage destination for facts, procedures, and environment data.
