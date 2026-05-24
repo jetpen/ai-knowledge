@@ -16,9 +16,12 @@ A memory backend designed to move away from static RAG towards evolving state.
 * **Temporal Awareness**: Automatically deprecates expired/outdated facts (e.g., changes in user location).
 * **Scope**: Multi-modal (PDFs, images, videos, code).
 
-## Strengths
-* Treats facts as evolving, stateful objects rather than static entries.
-* Strong performance on benchmark frameworks (MemoryBench).
+## SMFS (Supermemory Filesystem)
+- **Concept**: A mountable filesystem for agents combining semantic (RAG-like) search with standard POSIX ops (`ls`, `cat`, `grep`).
+- **Functionality**:
+    - **Semantic Grep**: Performs vector DB queries into files, returning actionable file paths and line numbers.
+    - **Agent Utility**: Enables agents to work with complex data types (PDFs, transcripts, code) directly within existing tools.
+- **Resources**: [GitHub](https://github.com/supermemoryai/smfs), [Site](https://smfs.ai)
 
-## Limitations
-* Operates behind the scenes; interaction with memory is abstracted away.
+## Related
+[[supermemory-filesystem]], [[dhravya-shah]], [[agentic-filesystem]]

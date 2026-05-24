@@ -110,7 +110,7 @@ updated: 2026-05-20
 [[entities/holaboss-ai.md]] - Holaboss AI
 [[entities/honcho.md]] - Honcho
 [[entities/https.md]] - HTTPS
-[[entities/ibm-research.md]] - IBM Research
+[[entities/ibm.md]] - IBM
 [[entities/idempotency.md]] - Idempotency
 [[entities/interface.md]] - Interface
 [[entities/intertwine.md]] - Intertwine
@@ -185,8 +185,8 @@ updated: 2026-05-20
 [[entities/sse.md]] - SSE
 [[entities/state.md]] - State
 [[entities/steven-batman.md]] - Steven (Batman) Batchelor-Manning
-[[entities/stripe-projects.md]] - Stripe Projects
 [[entities/supermemory.md]] - supermemory
+[[entities/stripe.md]] - Stripe
 [[entities/symphony.md]] - Symphony
 [[entities/spec-driven-development.md]] - Spec-Driven Development (SDD)
 [[entities/task-decomposition.md]] - Task Decomposition

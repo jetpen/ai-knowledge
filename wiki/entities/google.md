@@ -24,4 +24,4 @@ Google is a key entity in the current AI/ML agentic research ecosystem, primaril
   - [[google-cloud-next-26]]: Significant event identifying key advancements in agentic orchestration, announced A2A/MCP integration patterns.
 
 ## Context in Agentic Research
-Google's role spans from providing low-level infrastructure to higher-level abstractions like the [[google-adk]]. It is frequently compared alongside other major entities like [[openai]] and [[ibm-research]] within the context of evolving agent frameworks.
+Google's role spans from providing low-level infrastructure to higher-level abstractions like the [[google-adk]]. It is frequently compared alongside other major entities like [[openai]] and [[ibm]] within the context of evolving agent frameworks.
