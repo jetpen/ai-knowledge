@@ -1,4 +1,4 @@
-
+---
 title: The Future of Enterprise Applications
 author: Ben Eng
 ---
