@@ -7,7 +7,7 @@ updated: 2026-05-20
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-05-20 | Total pages: 494
+> Last updated: 2026-05-24 | Total pages: 495
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -219,8 +219,10 @@ updated: 2026-05-20
 [[entities/value-proposition.md]] - Value Proposition
 [[entities/w3c-did.md]] - W3C DID
 [[entities/walden.md]] - Walden
+[[entities/ami-labs.md]] - AMI Labs
 [[entities/ag-ui.md]] - AG-UI
 [[entities/wayflow.md]] - WayFlow
+[[entities/world-models-and-jepa.md]] - World Models and JEPA
 [[entities/windsurf.md]] - Windsurf
 [[entities/zed.md]] - Zed
 [[entities/zero-to-one.md]] - Zero To One
