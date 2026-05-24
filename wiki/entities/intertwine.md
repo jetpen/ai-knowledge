@@ -21,5 +21,4 @@ Intertwine is an open-source organization/collective (Bryan Young et al.) author
   - Targets: [[claude-code]], [[codex-cli]], agentskills.io.
 
 ## See Also
-- [[dspy-agent-skills]]
 - [[dspy]]

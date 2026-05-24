@@ -34,8 +34,14 @@ Spec-Driven Development (SDD) has transitioned into a default architecture for A
     - GitHub (2025): 46% of code output is AI-generated.
     - Stack Overflow (2025): 84% of developers using/planning to use AI tools.
 
+## Specification
+- **Intent, Scope, and Decision-Making**: Defines exact agent inputs/outputs/behaviors (e.g., JSON schemas, flow diagrams). 
+- Agents parse specs for self-configuration to reduce ambiguity.
+- Basis for implementation and rigorous testing.
+
 ## Relationships
 - **Parent Concept**: [[software-engineering]]
 - **Related Concept**: [[behavior-driven-development]]
 - **Related Concept**: [[agentic-coding-agents]]
 - **Related Concept**: [[the-productivity-paradox]]
+- [[requirement]] [[acceptance-criteria]] [[architecture-decision-record]]

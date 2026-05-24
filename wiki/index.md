@@ -80,7 +80,6 @@ updated: 2026-05-20
 [[entities/customer.md]] - Customer
 [[entities/daniel-miessler.md]] - Daniel Miessler
 [[entities/data-model.md]] - Data Model
-[[entities/data-normalization-denormalization.md]] - Data Normalization / Denormalization
 [[entities/data-structure.md]] - Data Structure
 [[entities/database-agent-factory.md]] - Database Agent Factory
 [[entities/database.md]] - Database
@@ -96,12 +95,6 @@ updated: 2026-05-20
 [[entities/dhravya-shah.md]] - Dhravya Shah
 [[entities/differentiation.md]] - Differentiation
 [[entities/distribution.md]] - Distribution
-[[entities/dspy-agent-skills.md]] - DSPy Agent Skills
-[[entities/dspy-advanced-workflow.md]] - DSPy Advanced Workflow Skill
-[[entities/dspy-evaluation-harness.md]] - DSPy Evaluation Harness Skill
-[[entities/dspy-fundamentals.md]] - DSPy Fundamentals Skill
-[[entities/dspy-gepa-optimizer.md]] - DSPy GEPA Optimizer Skill
-[[entities/dspy-rlm-module.md]] - DSPy RLM Module Skill
 [[entities/dspy.md]] - DSPy
 [[entities/dry-dont-repeat-yourself.md]] - Dry Dont Repeat Yourself
 [[entities/e2b.md]] - E2B
@@ -111,9 +104,6 @@ updated: 2026-05-20
 [[entities/go-sdk.md]] - Go SDK
 [[entities/go-to-market.md]] - Go To Market
 [[entities/google-adk.md]] - Google ADK
-[[entities/google-agent-development-kit.md]] - Google Agent Development Kit (ADK)
-[[entities/google-cloud-next-26.md]] - Google Cloud Next 26
-[[entities/google-cloud-tech.md]] - Google Cloud Tech
 [[entities/google.md]] - Google
 [[entities/hermes-agent.md]] - Hermes Agent
 [[entities/hola-os.md]] - holaOS
@@ -191,7 +181,7 @@ updated: 2026-05-20
 [[entities/shubham-saboo.md]] - Shubham Saboo
 [[entities/smfs.md]] - SMFS (Supermemory Filesystem)
 [[entities/source-of-truth.md]] - Source of Truth
-[[entities/specification.md]] - Specification
+[[entities/spec-driven-development.md]] - Spec-Driven Development (SDD)
 [[entities/sse.md]] - SSE
 [[entities/state.md]] - State
 [[entities/steven-batman.md]] - Steven (Batman) Batchelor-Manning
@@ -203,7 +193,7 @@ updated: 2026-05-20
 [[entities/taste.md]] - Taste
 [[entities/tau2-bench.md]] - Tau2-Bench
 [[entities/tensorflow.md]] - TensorFlow
-[[entities/terminal-bench-2.0.md]] - Terminal-Bench 2.0
+[[entities/terminal-bench.md]] - Terminal-Bench
 [[entities/tony-simons.md]] - Tony Simons
 [[entities/tradeoff.md]] - Tradeoff
 [[entities/trae-ai.md]] - TRAE AI

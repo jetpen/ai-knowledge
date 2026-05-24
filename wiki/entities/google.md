@@ -18,7 +18,10 @@ Google is a key entity in the current AI/ML agentic research ecosystem, primaril
 
 ## Key Contributions
 - [[google-adk]]: A primary development kit and framework supported by Google for building agentic applications.
-- **Protocol Standardization**: Actively involved in the broader agent landscape, influencing standardization efforts that interface with the current agentic ecosystem (e.g., contributing to interoperability discussions).
+- **Protocol Standardization**: Actively involved in the broader agent landscape, influencing standardization efforts that interface with the current agentic ecosystem.
+- **Cloud Infrastructure & Research**: 
+  - [[google-cloud-tech]]: Official channel for infrastructure updates, covering patterns like [[long-running-agents]], [[checkpoint-and-resume]], and [[agent-runtime-google]].
+  - [[google-cloud-next-26]]: Significant event identifying key advancements in agentic orchestration, announced A2A/MCP integration patterns.
 
 ## Context in Agentic Research
 Google's role spans from providing low-level infrastructure to higher-level abstractions like the [[google-adk]]. It is frequently compared alongside other major entities like [[openai]] and [[ibm-research]] within the context of evolving agent frameworks.

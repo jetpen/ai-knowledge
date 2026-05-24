@@ -22,5 +22,11 @@ Bounded Contexts partition agent domains with unique models/ubiquitous language,
 
 Agents route tasks via context maps. Benefits: Scalability, team autonomy. Example: Separate customer vs ops contexts. Pitfalls: Context mapping overhead. With [[aggregate]]. (105 words)
 
+## Boundary
+- **Definition**: Delineates agent responsibilities and system edges (e.g., anti-corruption layers).
+- **Agent Context**: Enforced via [[contract]]s and adapters. Essential to isolate agent domains and prevent coupling.
+- **When to Use**: Isolating external APIs, separating role boundaries in multi-agent systems, validating tool inputs.
+- **Related**: [[contract]] [[interface]] [[abstraction]]
+
 ## Related
-[[aggregate]] [[ubiquitous-language]] [[domain-model]] [[business-capability]]
+[[aggregate]] [[ubiquitous-language]] [[domain-model]] [[business-capability]] [[boundary]]

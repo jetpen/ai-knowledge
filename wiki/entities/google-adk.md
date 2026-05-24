@@ -18,6 +18,9 @@ The Google ADK simplifies the development of intelligent agents by providing the
 - Facilitate interoperability with agents built on other frameworks (e.g., LangGraph, BeeAI).
 - Integrate into hierarchical multi-agent workflows.
 
+## Key Features
+- Checkpointing, workflows, and ToolContext (e.g., for DocumentProcessor). Supported on [[agent-runtime-google]].
+
 ## Role in the AI Ecosystem
 As organizations shift toward complex, multi-agent systems, the Google ADK ensures that agents can collaborate, discover, and interact securely without exposing proprietary internal logic. It is specifically designed to support the development of A2A-compliant servers, allowing for seamless integration into broader, interconnected AI systems.
 

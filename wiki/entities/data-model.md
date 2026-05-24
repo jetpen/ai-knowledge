@@ -19,8 +19,17 @@ Abstract representation of domain data ([[domain-model]]). Maps real-world entit
 - [[schema-database]]
 - Data-driven agents
 
+## Data Normalization / Denormalization
+- **Normalization**: Reduce redundancy (1NF-5NF). 
+- **Denormalization**: Duplicate data to optimize query performance.
+- **Agent Context**: Balance [[consistency]] vs performance in agent-side data stores.
+- **When to Use**: 
+    - OLTP: Normalize. 
+    - Analytics/agents: Denormalize (e.g., flattened wide tables for RAG).
+
 ## Related
-[[domain-model]] [[entity]] [[value-object]] [[schema-serialization]]
+[[database]] [[crud]] [[consistency]] [[normalization]] [[denormalization]]
+
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

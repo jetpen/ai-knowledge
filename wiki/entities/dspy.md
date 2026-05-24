@@ -1,37 +1,29 @@
 ---
 title: DSPy
-created: 2026-04-22
-updated: 2026-04-22
-type: framework
-tags: [framework, python, llm-programming, prompt-optimization, optimization, generative-ai]
-sources: [raw/articles/what-is-dspy-educative-blog-2026-04-22.md]
+created: 2026-04-11
+updated: 2026-05-24
+type: entity
+tags: [ai-framework, coding-agents, dspy]
+sources: [raw/articles/what-is-dspy-educative-blog-2026-04-22.md, raw/articles/dspy-agent-skills-readme-github-2026-04-22.md]
 author: auto
 ---
 
 # DSPy
+DSPy is a framework for programmatically optimizing LM prompts and weights. It introduces a modular approach to building LM applications by separating the flow of the program from the parameters of the prompts.
 
-DSPy (Declarative Self-improving Python) is an open-source Python framework for programming—not prompting—LLMs. It replaces brittle prompt engineering with declarative code: signatures define I/O, modules implement strategies (e.g., [[dspy-signature]], [[dspy-module]], [[dspy-optimizers]], [[chain-of-thought]], [[react]]), and optimizers (e.g., BootstrapFewShot, MIPROv2) automatically tune prompts/demos using metrics and examples.
+## Core Concepts
+- [[dspy-module]]: Modular building blocks for LM programs (similar to PyTorch modules).
+- [[dspy-signature]]: Declarative definition of input/output spaces (e.g., `question -> answer`).
+- [[dspy-optimizers]]: Algorithms (e.g., BootstrapFewShot, COPRO, MiPRO) that automatically tune prompts and weights.
 
-## Key Components
-- **Signatures**: Task blueprints, e.g., `question -> answer: float` or class `ClassifySentiment(sentence: str -> sentiment: str)`.
-- **Modules**: `dspy.Predict`, `dspy.ChainOfThought`, `dspy.ReAct` (tools).
-- **Pipelines**: Compose modules for RAG, agents.
-- **Optimizers**: Improve via few-shot bootstrapping, instruction tuning, fine-tuning (local models).
+## DSPy Agent Skills (Intertwine)
+A production-grade pack of 5 skills designed for integration with coding agents ( [[claude-code]], [[codex-cli]] ):
+- **[[dspy-fundamentals]]**: Handles core task definitions (signatures, modules, Predict/ChainOfThought).
+- **[[dspy-evaluation-harness]]**: Provides metrics, dev/val splits, and standard `dspy.Evaluate` workflows.
+- **[[dspy-gepa-optimizer]]**: Compiles/optimizes models using GEPA. Proven gains in RAG+QA and Math tasks.
+- **[[dspy-rlm-module]]**: Supports long-context and codebase QA through recursive RLM structures.
+- **[[dspy-advanced-workflow]]**: Orchestrates workflows for end-to-end chaining (BetterTogether).
 
-## Benefits
-- Maintainable Python logic.
-- Model-agnostic adaptation via recompilation.
-- Self-optimizing: outperforms hand-crafted prompts (e.g., +25-65% on GSM8K/HotpotQA).
-
-## Comparisons
-- [[langchain]]: Chains/tools; manual prompts. DSPy optimizes automatically.
-- [[llamaindex]]: RAG focus; DSPy incorporates + optimizes pipelines.
-
-## Usage
-```python
-import dspy
-dspy.ChainOfThought("question -> answer: float")("Two dice sum to two?")
-# 0.0278 (1/36)
-```
-
-See [[wiki/dspy-signature]], [[dspy-optimizers]].
+## Relationships
+- **Ecosystem**: Integrates with [[claude-code]], [[codex-cli]].
+- **Infrastructure Context**: Part of the modern agentic stack for prompt optimization.
