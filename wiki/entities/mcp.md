@@ -21,3 +21,8 @@ MCP (Model Context Protocol) is an open standard designed to enable universal co
 
 ## Source Context
 - Research reconnaissance phase (April 2026).
+
+
+## Related
+- [[agent-interoperability]]
+- [[agent-communication]]

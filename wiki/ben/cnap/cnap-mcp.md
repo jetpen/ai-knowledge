@@ -228,3 +228,8 @@ platform resources.
 - `lifecycle_state` (string): Application instance lifecycle state.
 
 Would it be useful to list the application's vault secret names based on the CNAP naming convention?
+
+
+## Related
+- [[agent-interoperability]]
+- [[agent-communication]]

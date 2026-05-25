@@ -34,3 +34,8 @@ Signatures are the foundation for [[dspy-module|DSPy Modules]]. They enable decl
 
 [[dspy]] [[dspy-module]] [[dspy-optimizers]]
 
+
+
+## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]

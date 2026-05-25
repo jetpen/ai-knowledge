@@ -28,3 +28,8 @@ These protocols are not competitive but layers of a fully integrated agent stack
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]], [[agent-communication-protocol]]
+
+
+## Related
+- [[agent-interoperability]]
+- [[agent-communication]]

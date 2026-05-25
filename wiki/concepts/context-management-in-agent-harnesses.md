@@ -25,3 +25,7 @@ Convergent: caps, offset/limit, compaction, isolation.
 Arize [[alyx-agent]] independently converges.
 
 [[aparna-dhinakaran]]
+
+## Related
+- [[harness-engineering]]
+- [[agentic-infrastructure]]

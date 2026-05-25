@@ -38,3 +38,7 @@ Aparna defines harness as emergent architecture from production coding agents (n
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[harness-engineering]]

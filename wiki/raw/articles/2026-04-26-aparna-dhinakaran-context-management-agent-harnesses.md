@@ -157,3 +157,7 @@ These patterns are not limited to coding agents. Arize's own Alyx assistant, bui
 Agent harnesses are moving in the same direction. The goal is not to show the model everything. It is to give it the right working set at the right time and allow it to dynamically make decisions to manage its own context.
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[harness-engineering]]

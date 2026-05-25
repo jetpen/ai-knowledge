@@ -41,3 +41,7 @@ Hermes Agent uses a memory architecture loosely based on cognitive science taxon
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agent-harness]]

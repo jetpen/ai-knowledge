@@ -27,3 +27,8 @@ DSPy (Declarative Self-improving Python) is a Python framework for building LLM 
 Full article discusses issues with prompting, DSPy benefits (maintainability, self-improvement), code examples, use cases (CoT, extraction, agents).
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]

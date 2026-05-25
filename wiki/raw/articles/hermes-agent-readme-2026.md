@@ -1,3 +1,13 @@
+---
+title: Hermes Agent Readme 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Hermes Agent
 **The self-improving AI agent built by Nous Research.**
 
@@ -23,3 +33,7 @@ Hermes is an AI agent with a built-in learning loop—it creates and improves sk
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agent-harness]]

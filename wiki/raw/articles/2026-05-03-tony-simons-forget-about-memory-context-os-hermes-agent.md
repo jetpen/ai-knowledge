@@ -39,3 +39,7 @@ It's around 15KB of markdown that says: be direct, be opinionated, be high-agenc
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agent-harness]]

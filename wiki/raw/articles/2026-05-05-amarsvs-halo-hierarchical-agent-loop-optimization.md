@@ -1,3 +1,13 @@
+---
+title: 2026 05 05 Amarsvs Halo Hierarchical Agent Loop Optimization
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # HALO: Hierarchical Agent Loop Optimization (@AmarSVS)
 
 **Posted:** Tue, 05 May 2026 01:15:18 GMT

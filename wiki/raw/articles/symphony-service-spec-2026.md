@@ -1,3 +1,13 @@
+---
+title: Symphony Service Spec 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Symphony Service Specification
 
 **Status**: Draft v1 (language-agnostic)

@@ -1,3 +1,13 @@
+---
+title: Deepagents Overview 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Deep Agents Overview
 
 The easiest way to start building agents and applications powered by LLMs—with built-in capabilities for task planning, file systems for context management, subagent-spawning, and long-term memory. 

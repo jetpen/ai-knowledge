@@ -1,3 +1,13 @@
+---
+title: Transcript Agent Stack 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Agentic Infrastructure Stack Transcript
 
 **Original Video:** [Agentic Infrastructure Stack - 2026](https://www.youtube.com/watch?v=7HP1jFJ9W1c)

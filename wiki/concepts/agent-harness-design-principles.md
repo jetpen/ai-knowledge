@@ -42,3 +42,6 @@ Examples: Anthropic, OpenAI, CrewAI, LangChain.
 Akshay building minimal open-source harness.
 
 Related: [[harness-engineering]], [[agent-harness]]
+
+## Related
+- [[agentic-infrastructure]]

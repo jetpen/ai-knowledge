@@ -1,3 +1,13 @@
+---
+title: 2026 05 04 Trevin Chow 10 Principles For Agent Native Clis
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Trevin Chow (@trevin): 10 Principles for Agent-Native CLIs
 
 **Posted:** ~2026-05-04 (18K views)

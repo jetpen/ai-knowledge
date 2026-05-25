@@ -40,3 +40,8 @@ Pub/sub mesh routes events (fraud detection). Observable network.
 ## Resources
 - Samples: https://github.com/google/A2A-MCP-samples
 - https://cloud.google.com/ai/agents
+
+
+## Related
+- [[agent-interoperability]]
+- [[agent-communication]]

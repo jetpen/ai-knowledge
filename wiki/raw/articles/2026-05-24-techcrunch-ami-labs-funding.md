@@ -1,3 +1,13 @@
+---
+title: 2026 05 24 Techcrunch Ami Labs Funding
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # AMI Labs Secures $1.03B for World Model Development
 
 TechCrunch report on AMI Labs, a research venture dedicated to building World Models using JEPA architecture, co-founded by Yann LeCun.

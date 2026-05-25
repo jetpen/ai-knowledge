@@ -54,3 +54,7 @@ Aligns with new OpenAI Agents SDK evolution.
 - https://github.com/holaboss-ai/holaOS
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[harness-engineering]]

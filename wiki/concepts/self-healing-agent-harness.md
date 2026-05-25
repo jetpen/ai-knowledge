@@ -31,3 +31,7 @@ Lessons:
 - Addresses QA in [[production-ai]] (no manual QA/staging).
 
 Exemplar: [[intuitiveml]] (99% AI code).
+
+
+## Related
+- [[agentic-infrastructure]]

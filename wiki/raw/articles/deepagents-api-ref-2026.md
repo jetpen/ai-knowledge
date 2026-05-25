@@ -1,3 +1,13 @@
+---
+title: Deepagents Api Ref 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Deep Agents API Reference
 
 **Description**: Using an LLM to call tools in a loop is the simplest form of an agent. deepagents implements a planning tool, sub agents, file system access, and detailed prompts to create "deep" agents capable of complex tasks.

@@ -1,3 +1,13 @@
+---
+title: 2026 05 04 Elijah Muraoka Reusable Ai Agent Prompt For Big Tasks
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Reusable AI Agent Prompt for Big Tasks
 
 **Source**: https://x.com/elijahmuraoka_/status/2051021449561829432  

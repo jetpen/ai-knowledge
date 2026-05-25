@@ -1,3 +1,13 @@
+---
+title: Agent Memory Guide 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # A First-Principles Guide to Agent Memory
 **Author**: Akshay (@akshay_pachaure)
 **URL**: https://x.com/i/status/2043745099792953508

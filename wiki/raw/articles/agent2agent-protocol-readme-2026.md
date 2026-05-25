@@ -1,3 +1,13 @@
+---
+title: Agent2Agent Protocol Readme 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Agent2Agent (A2A) Protocol
 
 **An open protocol enabling communication and interoperability between opaque agentic applications.**

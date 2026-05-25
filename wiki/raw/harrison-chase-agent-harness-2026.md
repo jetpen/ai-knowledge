@@ -24,3 +24,7 @@ The post argues that **agent harnesses**—not standalone memory plugins—are t
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[harness-engineering]]

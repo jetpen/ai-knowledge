@@ -33,3 +33,8 @@ Production-grade DSPy 3.2.x skills for coding agents. Pack of 5 spec-compliant s
 Grounded in DSPy.ai/docs, validated 80+ tests. MIT license.
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]

@@ -1,3 +1,13 @@
+---
+title: Claude Cowork 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Claude Cowork
 
 **Delegate to Claude, delight in the result.**

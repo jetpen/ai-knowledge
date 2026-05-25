@@ -27,3 +27,8 @@ A production-grade pack of 5 skills designed for integration with coding agents 
 ## Relationships
 - **Ecosystem**: Integrates with [[claude-code]], [[codex-cli]].
 - **Infrastructure Context**: Part of the modern agentic stack for prompt optimization.
+
+
+## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]

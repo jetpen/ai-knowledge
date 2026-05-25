@@ -1,3 +1,13 @@
+---
+title: 2026 04 23 Google Cloud Tech Adk 2.0 Orchestration Patterns
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Google Cloud Tech X Post: From Skills to Systems: 5 Multi-Agent Orchestration Patterns in ADK 2.0
 
 **URL:** https://x.com/i/status/2047367046070161674

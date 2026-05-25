@@ -35,4 +35,6 @@ class RAG(dspy.Module):
 ```
 
 ## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]
 [[dspy-signature]] [[dspy-optimizers]] [[dspy]] – Used in agent skills like [[dspy-fundamentals]], [[dspy-evaluation-harness]].

@@ -38,3 +38,7 @@ AP2 serves as the security and payment layer when utilized alongside:
 - [Documentation](https://ap2-protocol.org/ap2/specification/)
 
 [[Agentic Commerce]] [[MCP]] [[A2A]] [[Protocol]] [[Agent Payments Protocol]] [[Universal Commerce Protocol]]
+
+
+## Related
+- [[agent-commerce]]

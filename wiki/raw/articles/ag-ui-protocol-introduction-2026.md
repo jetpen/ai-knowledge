@@ -1,3 +1,13 @@
+---
+title: Ag Ui Protocol Introduction 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # AG-UI Overview - Agent User Interaction Protocol
 
 The Agent–User Interaction (AG-UI) Protocol

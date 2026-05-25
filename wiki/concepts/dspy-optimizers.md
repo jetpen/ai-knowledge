@@ -34,3 +34,8 @@ Requires dev/train data and a metric (e.g., exact match, F1).
 Automates prompt engineering; baselines improve dramatically (e.g., 75%→100% on RAG QA).
 
 [[dspy-signature]] [[dspy-module]] [[dspy-gepa-optimizer]] [[dspy-evaluation-harness]]
+
+
+## Related
+- [[agentic-coding-patterns]]
+- [[agent-skill]]

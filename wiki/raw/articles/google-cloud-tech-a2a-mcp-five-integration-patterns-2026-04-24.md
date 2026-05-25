@@ -46,3 +46,8 @@ At Cloud Next '26, shipped infrastructure for enterprise-scale integration. Five
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+
+
+## Related
+- [[agent-interoperability]]
+- [[agent-communication]]

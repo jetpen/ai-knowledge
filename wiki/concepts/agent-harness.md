@@ -49,7 +49,8 @@ Per [[li-jeffrey]] / [[hola-os]]: Harnesses excel at tasks but fail roles withou
 ### Harness as the Backend
 Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent loop/tools/memory) from backend (queues/state/HTTP/observability) creates debugging hell in stochastic multi-agent systems (agents² * services paths). Thesis: Harnesses will merge into backends as agentic infrastructure standardizes. [[the-harness-is-the-backend]]
 
-## Related Concepts
+## Related
+- [[agentic-infrastructure]] Concepts
 - **Deep Agents**: Examples of an "agent harness." According to current research ([[harness-engineering]]), its utility lies in its modular middleware and progressive disclosure model.
 - **Deep Agents SDK**: Provides the infrastructure layer for production agents ([[agentic-production-infrastructure]]), including state management and reliable tool execution.
 
@@ -57,5 +58,6 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 - [[agentic-workspace]]: The environment managed and secured by the harness.
 
 ## Related
+- [[agentic-infrastructure]]
 - [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns
 - [[concepts/harness-engineering]] – Engineering practices for agent harnesses

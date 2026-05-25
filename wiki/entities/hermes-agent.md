@@ -39,3 +39,8 @@ Hermes Agent separates internal knowledge into four distinct persistent stores, 
 - [[harness-engineering]]
 - [[agent-interoperability]]
 - [[context-os]]
+
+
+## Related
+- [[agentic-infrastructure]]
+- [[agent-harness]]

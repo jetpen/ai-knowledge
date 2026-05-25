@@ -22,3 +22,8 @@ Hermes Agent organizes knowledge into a cognitive science-inspired taxonomy, tre
 ## References
 * [[harness-engineering]]
 * [[agentic-memory-types]]
+
+
+## Related
+- [[agentic-infrastructure]]
+- [[agent-harness]]

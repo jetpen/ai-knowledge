@@ -1,3 +1,13 @@
+---
+title: Agent Network Protocol 2026
+created: 2026-05-25
+updated: 2026-05-25
+type: entity
+tags: []
+sources: []
+author: auto
+---
+
 # Agent Network Protocol (ANP)
 
 **The HTTP of the Agentic Web Era**
