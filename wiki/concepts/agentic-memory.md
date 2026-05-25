@@ -20,16 +20,29 @@ Agentic Memory enables LLMs to transition from stateless chatbots to agents capa
 - **Context**: Task-specific state (tool outputs, scratchpad).
 - **Learning**: Improving future decisions based on history.
 
-## Memory Components
-1. **In-context Memory**: The LLM's active context window ("working desk"). Limited capacity requires summarization and selective retention.
-2. **External Memory**: Persistent storage (PostgreSQL/Redis for structures, Vector stores for semantic search). Retrieval is often the primary system bottleneck.
+## Memory Types
+1. **In-context Memory**: The "working desk" of the agent. Limited by the context window. Stores active conversation, system prompts, current tools, and working scratchpad.
+2. **External Memory**: Persistent storage outside the model boundary (db, files).
+    *   **Structured**: Key-value or SQL lookups.
+    *   **Vector**: Semantic similarity retrieval.
 3. **[[episodic-memory|Episodic Memory]]**: Recorded events for long-term recall.
 
-## Challenges and Trade-offs
+## Layered Memory Context
+For [[long-running-agents]]:
+- **Memory Bank**: Long-Term Memory (LTM), topic-curated.
+- **Profiles**: Working Memory (WM), low-latency.
+
+Governance and Audit:
+- **Governance**: [[agent-identity]] (IAM), [[agent-registry]] (discovery), [[agent-gateway]] (policy enforcement against PII/drift).
+- **Audit**: Monitor and audit memory writes to track behavioral shifts.
+
+## Memory Challenges and Lock-in
 Long-term conversational memory remains largely unsolved due to severe trade-offs:
 - **Lossy Trade-offs**: "Raw" storage preserves verbatim input but lacks interpretation; "Derived" storage (summaries) is usable but subject to drift over time.
 - **Economic Constraints**: Processing full history is costly and context-length limited.
 - **Evaluation Paradox**: Lack of ground truth for evaluating long-term conversational significance versus simple retrieval.
+- **Memory Lock-in**: As identified by Harrison Chase, memory is becoming the "great competitive moat." Proprietary systems (e.g., OpenAI) encourage vendor lock-in.
+    - **Mitigation**: Need for portable solutions such as [[portable-agent-memory]] and [[codejunkie99-brain]].
 
 ## See Also
 - [[memory-design-axes]]

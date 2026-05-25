@@ -275,7 +275,6 @@ updated: 2026-05-20
 [[concepts/agentic-ai-design-patterns.md]] - Agentic AI Design Patterns
 [[concepts/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack
 [[concepts/agentic-infrastructure.md]] - Agentic Infrastructure
-[[concepts/agentic-memory-types.md]] - Agentic Memory Types
 [[concepts/agentic-memory.md]] - Agentic Memory
 [[concepts/agentic-production-infrastructure.md]] - Agentic Production Infrastructure
 [[concepts/agentic-workspace.md]] - Agentic Workspace
@@ -343,7 +342,7 @@ updated: 2026-05-20
 [[concepts/interaction-modalities.md]] - interaction modalities
 [[concepts/inter-company-partnerships.md]] - inter-company partnerships
 [[concepts/internal-state-protection.md]] - internal state protection
-[[concepts/introduction-to-ontologies.md]] - Introduction to Ontologies
+[[ontologies]] - Introduction to Ontologies
 [[concepts/isolated-workspace.md]] - Isolated Workspace
 [[concepts/json-rpc-communication.md]] - JSON-RPC communication
 [[concepts/knowledge-graph-optimization.md]] - Knowledge Graph Optimization
@@ -357,8 +356,6 @@ updated: 2026-05-20
 [[concepts/matrices.md]] - Matrices
 [[concepts/memory-design-axes.md]] - Memory System Design Axes
 [[concepts/memory-in-llms.md]] - Memory in LLMs
-[[concepts/memory-layered-context.md]] - Memory-Layered Context
-[[concepts/memory-lock-in.md]] - Memory Lock-in
 [[concepts/meta-protocol-layer.md]] - Meta-Protocol Layer
 [[concepts/mimetype-support.md]] - mimetype support
 [[concepts/moderation.md]] - Moderation

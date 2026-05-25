@@ -1,7 +1,10 @@
 ---
-title: Introduction to Ontologies
+title: Ontologies
 date: 2026-04-17
-tags: [artificial-intelligence, knowledge-representation, ontologies]
+tags:
+  - artificial-intelligence
+  - knowledge-representation
+  - ontologies
 ---
 
 # Introduction to Ontologies

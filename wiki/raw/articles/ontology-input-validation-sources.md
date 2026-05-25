@@ -8,7 +8,7 @@ type: raw
 
 ## Wiki
 - [[ontology-for-agents]] (entities/)
-- [[introduction-to-ontologies]] (concepts/)
+- [[ontologies]] (concepts/)
 
 ## Web
 - https://www.intechopen.com/chapters/86741 : "Ontologies as a Tool for Formalizing Data Validation Rules"

@@ -22,7 +22,7 @@ Yes, this is a **proper and well-established use of ontology**. It leverages ont
 - **Agent Use**: Ensures tool calls match available tools on valid ontology instances, e.g., EDA queries map to data platforms without hardcoded schemas.
 - **Extension**: Pre-binding input validator checks `input ∈ ontology.vocabulary` (classes/properties/tools).
 
-See [[introduction-to-ontologies]] for building blocks.
+See [[ontologies]] for building blocks.
 
 ### Web Research
 - **SHACL/OWL Validation**: "Demystifying SHACL" (Medium): Ontology-driven checks for properties/datatypes/ranges.
