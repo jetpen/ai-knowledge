@@ -16,14 +16,14 @@ Synthesized from [@TheVixhal](https://x.com/TheVixhal)'s X thread providing a pr
 
 - ML data (images, text, audio) → numbers
 - Need: efficient storage, operations, transformations
-- Core ops: [[vectors|vector-addition]], [[matrix-multiplication]], non-linearities
+- Core ops: vector-addition, [[matrix-multiplication]], non-linearities
 - Examples: NN weights (matrices), [[pca|PCA]] (eigenvectors), embeddings (vectors)
 
 ## Phase 1: Basics
 
 ### Scalars, Vectors, Matrices, Tensors
 - Scalar: single number
-- Vector: 1D array `[[vectors]]`
+- Vector: 1D array `vectors`
 - Matrix: 2D `[[matrices]]`
 - Tensor: nD
 - Shapes critical for debugging in [[pytorch]], [[tensorflow]]
@@ -48,6 +48,6 @@ Synthesized from [@TheVixhal](https://x.com/TheVixhal)'s X thread providing a pr
 - Attention: dot products + softmax
 - Transformers: matrix ops at scale
 
-[[vectors]], [[matrices]], [[pytorch]], [[tensorflow]], [[pca]]
+vectors, [[matrices]], [[pytorch]], [[tensorflow]], [[pca]]
 
 > Focus on implementation over proofs. Code along in NumPy/PyTorch.

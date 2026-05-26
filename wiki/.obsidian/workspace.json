@@ -15,14 +15,10 @@
                 "id": "7e1bce9287441a14",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "concepts/enterprise-ready-protocols.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "enterprise-ready-protocols"
+                  "title": "New tab"
                 },
                 "group": "134091d71bd915c4"
               }
@@ -38,7 +34,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "concepts/enterprise-ready-protocols.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +43,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for enterprise-ready-protocols"
+                  "title": "Backlinks"
                 },
                 "group": "134091d71bd915c4"
               }
@@ -217,8 +212,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e1bce9287441a14",
+  "active": "052b3c4134ca4d08",
   "lastOpenFiles": [
+    "raw/articles/2026-04-26-aparna-dhinakaran-context-management-agent-harnesses.md",
+    "ben/2026-04-26-aparna-dhinakaran-context-management-agent-harnesses.md",
     "concepts/tool-use-for-ai.md",
     "concepts/mimetype-support.md",
     "concepts/hermes-agent-memory.md",
@@ -243,8 +240,6 @@
     "entities/build-vs-dont-build-judgment.md",
     "entities/brief.md",
     "entities/crud.md",
-    "entities/li-jeffrey.md",
-    "entities/devin.md",
-    "entities/walden.md"
+    "entities/li-jeffrey.md"
   ]
 }

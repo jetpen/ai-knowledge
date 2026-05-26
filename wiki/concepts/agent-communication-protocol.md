@@ -1,9 +1,9 @@
 ---
-updated: 2026-04-25
+updated: 2026-05-26
 type: concept
 title: Agent Communication Protocol
 created: 2026-04-14
-tags: [communication-standard, interoperability, rest, agent-communication]
+tags: [communication-standard, interoperability, rest, agent-communication, standard]
 sources: [raw/articles/agent-communication-protocol-intro-2026.md]
 author: auto
 ---
@@ -12,6 +12,8 @@ author: auto
 
 ## Overview
 The Agent Communication Protocol (ACP) is an open interoperability standard, now part of the A2A project under the Linux Foundation. It provides a standardized RESTful API for agents, applications, and humans to communicate.
+
+It serves as the unified standard for defining universal communication and identity schemas to reduce fragmentation in the [[ai-ecosystem]].
 
 ## Core Features
 1. **REST-based Design**: Uses standard HTTP patterns for integration into production environments.
@@ -28,4 +30,5 @@ The Agent Communication Protocol (ACP) is an open interoperability standard, now
 - [[agent2agent-protocol]]
 - [[agent-network-protocol]]
 - [[AG-UI]]
-
+- [[ai-ecosystem]]
+- [[agentic-infrastructure]]

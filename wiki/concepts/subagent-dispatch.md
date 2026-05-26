@@ -1,10 +1,10 @@
 ---
 title: Subagent Dispatch
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-26
 type: concept
-tags: ["agents", "composition", "openclaw", "concept", "orchestration"]
-sources: ["raw/articles/openclaw-repo-2026.md", "raw/articles/deepagents-overview-2026.md", "raw/articles/symphony-service-spec-2026.md"]
+tags: ["agents", "composition", "openclaw", "concept", "orchestration", "delegation"]
+sources: ["raw/articles/openclaw-repo-2026.md", "raw/articles/deepagents-overview-2026.md", "raw/articles/symphony-service-spec-2026.md", "https://hermes-agent.nousresearch.com/docs/user-guide/features/delegation", "https://hermes-agent.nousresearch.com/docs/user-guide/features/kanban"]
 ---
 
 # Subagent Dispatch
@@ -22,8 +22,22 @@ LangChain's deepagents framework formalizes dispatch through the `SubAgentMiddle
 - **Spawning**: Dispatches can be synchronous (blocking the parent until completion) or asynchronous (tracking tasks in background via **[[async-subagents]]**).
 - **Scoped State**: Each dispatched subagent carries a scoped subset of the parent's context and reports back absolute thread totals for token usage and metrics.
 
-### 3. Hierarchical Orchestration
+### 3. Hermes Agent Implementation: [[delegate-task]]
+In the Hermes ecosystem, the **[[delegate-task]]** capability provides a specific interface for spawning child instances:
+- **Mechanics**: Subagents operate in isolated, fresh environments with restricted toolsets (`terminal`, `file`, etc.) and return a final summary to the parent.
+- **Synchronicity**: Delegation is synchronous (blocking), requiring careful parent-child lifecycle management.
+- **Concurrency**: Supports parallel batches (up to 3 concurrent tasks) to optimize throughput.
+- **Constraint**: Designed for task-specific reasoning; subagents do not inherit persistent memory or user-interaction tools like `clarify`.
+- [See Official Delegation Documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/delegation).
+
+### 4. Hierarchical Orchestration
 In complex systems, dispatch can be recursive. A departmental agent might orchestrate a swarm of subagents, each of which might further dispatch specialized tool-calling loops. This is often managed via a central **[[orchestrator-state-machine]]** to ensure reliability.
+
+### 5. Durable Task Management: [[kanban]]
+For scenarios requiring multi-agent collaboration, state persistence, and human-in-the-loop audit trails, the Hermes Kanban system acts as a durable message queue on top of the dispatch model:
+- **Persistence**: Tasks are tracked in `~/.hermes/kanban.db` and survive session restarts.
+- **Handoff**: Unlike synchronous delegation, Kanban allows agents to block, unblock, and finish tasks asynchronously.
+- [See Official Kanban Documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/kanban).
 
 ## Strategic Benefits
 - **Parallelism**: Multiple independent workstreams can be executed simultaneously by different subagents.
