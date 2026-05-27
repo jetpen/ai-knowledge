@@ -62,3 +62,4 @@ Elite teams treat agent mistakes as engineering problems: fix the system so erro
 - [[production-agent-runtime]]
 - [[deep-agents-sdk]]
 - [[agent-harness]]
+- [[agent-harness-design-principles]]

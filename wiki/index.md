@@ -7,7 +7,7 @@ updated: 2026-05-20
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-24 | Total pages: 495
+10|> Last updated: 2026-05-27 | Total pages: 493
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
@@ -273,10 +273,10 @@ updated: 2026-05-20
 [[concepts/agent-user-interaction-protocol.md]] - Agent User Interaction Protocol
 [[concepts/agent2agent-protocol.md]] - [[agent2agent-protocol]] Protocol
 [[concepts/agentic-ai-design-patterns.md]] - Agentic AI Design Patterns
-[[concepts/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack
+[[entities/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack (DEPRECATED: Consolidated into agentic-infrastructure.md)
 [[concepts/agentic-infrastructure.md]] - Agentic Infrastructure
 [[concepts/agentic-memory.md]] - Agentic Memory
-[[concepts/agentic-production-infrastructure.md]] - Agentic Production Infrastructure
+[[concepts/agentic-production-infrastructure.md]] - Agentic Production Infrastructure (DEPRECATED: Consolidated into agentic-infrastructure.md)
 [[concepts/agentic-workspace.md]] - Agentic Workspace
 [[concepts/ag-ui.md]] - AG-UI
 [[concepts/ai-accelerator-packs.md]] - AI Accelerator Packs
