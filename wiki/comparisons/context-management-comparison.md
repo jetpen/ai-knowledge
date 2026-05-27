@@ -1,14 +1,14 @@
 ---
-title: Context Management in Agent Harnesses
+title: Context Management in Agent Harnesses Comparison
 created: 2026-04-27
-updated: 2026-04-27
-type: concept
-tags: [context-management, agent-harnesses, convergence]
+updated: 2026-05-27
+type: comparison
+tags: [context-management, agent-harnesses, convergence, comparison]
 sources: [raw/articles/2026-04-26-aparna-dhinakaran-context-management-agent-harnesses.md]
 author: auto
 ---
 
-# Context Management in Agent Harnesses
+# Context Management in Agent Harnesses Comparison
 
 Active management of context window: high-value state close, paging/indexing, truncation hints.
 
@@ -24,8 +24,8 @@ Convergent: caps, offset/limit, compaction, isolation.
 
 Arize [[alyx-agent]] independently converges.
 
-[[aparna-dhinakaran]]
-
-## Related
+---
+**See Also**
+- [[aparna-dhinakaran]]
 - [[harness-engineering]]
 - [[agentic-infrastructure]]

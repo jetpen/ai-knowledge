@@ -41,6 +41,7 @@ updated: 2026-05-20
 [[entities/x402.md]] - x402 (HTTP-Native Payments)
 [[entities/agent-runtime-google.md]] - Agent Runtime (Google Cloud)
 [[entities/agentic-coding-patterns.md]] - Agentic Coding Patterns
+[[entities/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack (DEPRECATED: Consolidated into agentic-infrastructure.md)
 [[entities/aggregate.md]] - Aggregate
 [[entities/ai-data-platform-agents.md]] - AI Data Platform Agents
 [[entities/algorithmic-complexity.md]] - Algorithmic Complexity
@@ -298,7 +299,7 @@ updated: 2026-05-20
 [[concepts/community-driven-standards.md]] - community-driven standards
 [[concepts/composeio.md]] - Composeio
 [[concepts/context-engineering.md]] - Context Engineering
-[[concepts/context-management-in-agent-harnesses.md]] - Context Management in Agent Harnesses
+[[comparisons/context-management-comparison.md]] - Context Management in Agent Harnesses Comparison
 [[concepts/context-os.md]] - Context OS
 [[concepts/context-window-limitations.md]] - Context Window Limitations
 [[concepts/conversation-compaction.md]] - Conversation Compaction
@@ -389,9 +390,7 @@ updated: 2026-05-20
 [[concepts/streaming-interaction.md]] - streaming interaction
 [[concepts/streaming-reliability.md]] - streaming reliability
 [[concepts/structured-data-exchange.md]] - structured data exchange
-[[concepts/sub-agents.md]] - Sub-Agents
-[[concepts/subagent-dispatch.md]] - Subagent Dispatch
-[[concepts/subagent-spawning.md]] - Subagent Spawning
+[[concepts/sub-agents.md]] - Sub-Agents (includes spawning implementation and dispatch orchestration pattern)
 [[concepts/task-planning.md]] - Task Planning
 [[concepts/the-future-of-agents.md]] - The Future of Agents
 [[concepts/the-harness-is-the-backend.md]] - The Harness Is the Backend
