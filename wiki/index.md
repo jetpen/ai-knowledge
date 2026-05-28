@@ -309,8 +309,7 @@ updated: 2026-05-20
 [[concepts/dark-software-factory.md]] - [[dark-software-factory|Dark Software Factory]]
 [[concepts/data-source-integration.md]] - data source integration
 [[concepts/deep-agents-deploy.md]] - Deep Agents Deploy
-[[concepts/delegated-approval.md]] - Delegated Approval (Human-in-the-Loop)
-[[concepts/development-complexity-reduction.md]] - development complexity reduction
+[[concepts/human-in-the-loop.md]] - Human-in-the-loop (HITL) (includes Delegated Approval)
 [[concepts/dialectic-user-modeling.md]] - Dialectic User Modeling
 [[concepts/digital-employee.md]] - Digital Employee
 [[concepts/durable-execution.md]] - Durable Execution
@@ -336,8 +335,7 @@ updated: 2026-05-20
 [[concepts/harness-engineering.md]] - Harness Engineering
 [[concepts/harness-swap-test.md]] - Harness-Swap Test
 [[concepts/healthcare-multi-agent-systems.md]] - healthcare multi-agent systems
-[[concepts/hermes-agent-memory.md]] - Hermes Agent Memory Architecture
-[[concepts/human-in-the-loop.md]] - Human-in-the-loop
+[[concepts/human-in-the-loop.md]] - Human-in-the-loop (HITL) (includes Delegated Approval)
 [[concepts/hybrid-graph.md]] - Hybrid Graph (ADK Pattern)
 [[concepts/identity-layer.md]] - Identity Layer
 [[concepts/interaction-modalities.md]] - interaction modalities
@@ -399,8 +397,7 @@ updated: 2026-05-20
 [[concepts/tool-use-for-ai.md]] - tool use for AI
 [[concepts/ux-negotiation.md]] - UX negotiation
 [[concepts/vectors.md]] - Vectors
-[[concepts/workflow-automation.md]] - workflow automation
-[[concepts/workflow-contract.md]] - Workflow Contract
+[[concepts/workflow-automation.md]] - Workflow Automation (includes Workflow Contract specification)
 [[concepts/working-memory.md]] - Working Memory
 [[concepts/write-manage-read-loop.md]] - Write-Manage-Read Loop
 
