@@ -1,12 +1,12 @@
----  
+---
 title: Autonomous Build Manager Doctrine  
 created: 2026-05-04  
 updated: 2026-05-04  
 type: concept  
 tags: [agentic-coding, agent-harness, frameworks, ai-agents, prompt-engineering]  
 sources: [raw/articles/2026-05-04-elijah-muraoka-reusable-ai-agent-prompt-for-big-tasks.md]  
-author: auto  
----  
+author: auto
+---
 
 # Autonomous Build Manager Doctrine  
 

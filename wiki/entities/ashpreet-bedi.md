@@ -3,8 +3,11 @@ title: Ashpreet Bedi
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [person, twitter, ai-research?]
-sources: [raw/articles/2026-04-27-ashpreet-bedi-2048817143974613089.md]
+tags:
+  - person
+  - twitter
+sources:
+  - raw/articles/2026-04-27-ashpreet-bedi-2048817143974613089.md
 ---
 
 # Ashpreet Bedi (@ashpreetbedi)

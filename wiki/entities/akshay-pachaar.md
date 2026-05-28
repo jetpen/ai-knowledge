@@ -3,9 +3,12 @@ title: Akshay Pachaar
 created: 2026-04-24
 updated: 2026-04-24
 type: person
-tags: [person, agents, harness-engineering]
-sources: [raw/articles/akshay-pachaar-agent-harness-design-principles-2026-04-24.md]
-related: [[agent-harness-design-principles]]
+tags:
+  - person
+  - agents
+  - harness-engineering
+sources:
+  - raw/articles/akshay-pachaar-agent-harness-design-principles-2026-04-24.md
 ---
 
 # Akshay Pachaar (@akshay_pachaar)

@@ -7,7 +7,7 @@ tags:
   - company
   - ai
 sources:
-  - raw/articles/[[agent2agent-protocol]]-protocol-readme-2026.md
+  - raw/articles/agent2agent-protocol-protocol-readme-2026.md
   - raw/articles/ag-ui-protocol-introduction-2026.md
   - raw/articles/model-context-protocol-intro-2026.md
 ---

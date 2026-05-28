@@ -3,7 +3,7 @@ title: Agent2Agent Protocol vs Model Context Protocol
 created: 2026-04-11
 updated: 2026-04-11
 type: comparison
-tags: ["a2a", "comparison"]]", "[[model-context-protocol]]", "protocols", "ai-standards", "agent-communication"]
+tags: ["a2a", comparison, "model-context-protocol", "protocols", "ai-standards", "agent-communication"]
 sources: ["raw/articles/agent2agent-protocol-readme-2026.md", "raw/articles/model-context-protocol-intro-2026.md"]
 ---
 

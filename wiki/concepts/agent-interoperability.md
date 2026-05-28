@@ -3,10 +3,10 @@ updated: 2026-04-25
 type: concept
 author: auto
 title: agent interoperability
-created: 2026-04-11  # Preserve original created date if possible
+created: 2026-04-11
 tags: ["agents", "communication", "concept", "interoperability"]
 sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
---- 
+---
 
 # Agent Interoperability
 

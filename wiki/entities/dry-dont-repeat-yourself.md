@@ -1,13 +1,17 @@
 ---
-title: Dry Dont Repeat Yourself
+title: " Dont Repeat Yourself (DRY)"
 created: 2026-04-23
 updated: 2026-04-23
 type: pattern
-tags: [agentic-coding-patterns, dry-dont-repeat-yourself]
-sources: [raw/articles/2026-04-23-aipatternbook-repl.md, https://aipatternbook.com/patterns/dry-dont-repeat-yourself]
+tags:
+  - agentic-coding-patterns
+  - dry-dont-repeat-yourself
+sources:
+  - raw/articles/2026-04-23-aipatternbook-repl.md
+  - https://aipatternbook.com/patterns/dry-dont-repeat-yourself
 author: auto
 ---
-# Dry Dont Repeat Yourself
+# Dont Repeat Yourself (DRY)
 
 **Agentic Coding Pattern** from [[agentic-coding-patterns]] (AiPatternBook REPL).
 
@@ -34,8 +38,6 @@ author: auto
 - **Multi-Agent**: Shared state serializers.
 
 Cuts bugs 30%, speeds iteration.
-
-(198 words)
 
 ## Related Patterns
 [[abstraction]] [[module]] [[source-of-truth]] [[schema-serialization]] [[naming]] [[agentic-coding-patterns]]

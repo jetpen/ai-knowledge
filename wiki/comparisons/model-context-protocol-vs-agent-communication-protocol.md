@@ -3,8 +3,8 @@ title: Model Context Protocol vs Agent Communication Protocol
 created: 2026-04-11
 updated: 2026-04-11
 type: comparison
-tags: ["comparison", "protocol"]]", "acp", "protocols", "ai-standards"]
-sources: ["raw/articles/model-context-protocol-intro-2026.md", "raw/articles/agent-communication-protocol-intro-2026.md"]
+tags: [comparison, protocol, acp, protocols, ai-standards]
+sources: [raw/articles/model-context-protocol-intro-2026.md, raw/articles/agent-communication-protocol-intro-2026.md]
 ---
 
 # [[model-context-protocol]] vs [[agent-communication-protocol]]

@@ -3,8 +3,8 @@ title: Agentic Protocols Expansion Comparison
 created: 2026-04-11
 updated: 2026-04-11
 type: comparison
-tags: ["anp", "comparison", "protocol", "protocols"]]", "[[a2a]]", "[[ag-ui]]"]
-sources: ['raw/articles/agent-network-protocol-2026.md']
+tags: [anp, comparison, protocol, protocols, a2a, ag-ui]
+sources: [raw/articles/agent-network-protocol-2026.md]
 ---
 
 # [[agentic-protocols]]: [[anp]] vs [[mcp]] vs [[a2a]] vs [[ag-ui]]

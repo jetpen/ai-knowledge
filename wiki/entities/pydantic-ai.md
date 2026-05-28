@@ -3,8 +3,13 @@ title: Pydantic AI
 created: 2026-04-11
 updated: 2026-04-11
 type: entity
-tags: ["ai-framework", "entity", "framework", "pydantic-ai"]
-sources: ['raw/articles/[[ag-ui]]-protocol-introduction-2026.md']
+tags:
+  - ai-framework
+  - entity
+  - framework
+  - pydantic-ai
+sources:
+  - raw/articles/ag-ui-protocol-introduction-2026.md
 ---
 
 # Pydantic Ai
