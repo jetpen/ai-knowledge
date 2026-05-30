@@ -27,7 +27,7 @@ Open-source orchestration platform for building "zero-human companies" using AI 
 - **Other**: `.claude/skills/`, workflow integrations.
 
 ## Relationships
-Complements [[symphony]], [[hermes-agent]], [[deep-agents]] in agentic orchestration space. Focuses on production-grade agent coordination, monitoring (heartbeats, liveness), and skills composition. Potential integration with [[model-context-protocol]] (MCP) or [[agent-network-protocol]] (ANP) for tool use and communication.
+Complements [[symphony]], [[entities/hermes-agent]], [[deep-agents]] in agentic orchestration space. Focuses on production-grade agent coordination, monitoring (heartbeats, liveness), and skills composition. Potential integration with [[model-context-protocol]] (MCP) or [[agent-network-protocol]] (ANP) for tool use and communication.
 
 ## Status
 Rapid development with community contributions (e.g., codex-assisted PRs).

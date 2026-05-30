@@ -19,7 +19,7 @@ Tony Simons is a builder who created a custom \"Context OS\" for his Hermes Agen
 - Practical implementation treating agent context as a navigable file system of thought.
 
 ## Relationships
-- Builds on [[hermes-agent]]
+- Builds on [[entities/hermes-agent]]
 - Related to [[context-os]]
 
 ## Sources

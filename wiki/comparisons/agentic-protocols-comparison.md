@@ -34,4 +34,4 @@ Together, these protocols form a standardized stack for agentic systems:
 ## See Also
 - [[agentic-infrastructure]]
 - [[deep-agents-sdk]]
-- [[hermes-agent]]
+- [[entities/hermes-agent]]

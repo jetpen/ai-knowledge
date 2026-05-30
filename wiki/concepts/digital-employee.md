@@ -17,7 +17,7 @@ The "Digital Employee" concept represents the endgame of AI agent evolution—mo
 - **Digital Employee**: Operates autonomously within an **[[agentic-workspace]]**, focuses on outcomes, and manages its own task lists.
 
 ## Characteristics
-As described in the **[[openclaw]]** and **[[hermes-agent]]** ecosystems:
+As described in the **[[openclaw]]** and **[[entities/hermes-agent]]** ecosystems:
 - **Full System Access**: Capability to control files, email, calendars, and professional tools (e.g., Slack, Jira, GitHub) as if a person were at the keyboard.
 - **Proactive Nature**: Does not wait for a prompt; performs background tasks via an **[[agent-cron-scheduler]]** or responds to event-driven triggers.
 - **Communication Presence**: Lives where humans do—WhatsApp, Telegram, Discord—maintaining cross-platform continuity.

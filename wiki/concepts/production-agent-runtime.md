@@ -25,7 +25,7 @@ The foundational infrastructure layer beneath agent harnesses, enabling durable 
 - **OCI AI Agent Hub**: PaaS for custom multi-agent systems.
 
 ## Relationship to Stack
-Sits below harnesses (e.g., [[dspy]], [[hermes-agent]]), above raw compute. Bridges prototype to enterprise.
+Sits below harnesses (e.g., [[dspy]], [[entities/hermes-agent]]), above raw compute. Bridges prototype to enterprise.
 
 ## Related
 - [[agentic-production-infrastructure]] - Full engineering stack.

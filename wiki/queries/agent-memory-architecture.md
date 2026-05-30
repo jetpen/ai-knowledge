@@ -72,6 +72,6 @@ Harnesses like **Hermes Agent**, **OpenClaw**, **Deep Agents**, and **Symphony**
 ## See Also
 - [[agent-memory-dimensions]]
 - [[write-manage-read-loop]]
-- [[hermes-agent]]
+- [[entities/hermes-agent]]
 - [[production-agent-runtime]]
 - [[agent-harness]]

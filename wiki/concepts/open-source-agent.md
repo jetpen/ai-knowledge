@@ -21,7 +21,7 @@ An Open Source Agent is an AI agent whose core architecture, tools, and learning
 ### 1. [[openclaw]]
 One of the pioneering open-source agents, OpenClaw focused on breaking AI out of walled gardens. It emphasized that "your context and skills live on YOUR computer," fostering a growing community that build shared skills for everyday tasks.
 
-### 2. [[hermes-agent]]
+### 2. [[entities/hermes-agent]]
 A self-improving open-source agent built by **[[nous-research]]**. It extends the open-source model into "Research-ready" territory, offering:
 - **[[agent-learning-loop]]**: Autonomous skill creation that remains open and inspectable.
 - **Trajectory Compression**: Open datasets of agent reasoning for training future models.

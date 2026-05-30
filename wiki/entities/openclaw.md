@@ -11,7 +11,7 @@ author: auto
 # OpenClaw
 
 ## Overview
-OpenClaw is a personal AI assistant focused on proactive automation and chat-app integration (WhatsApp/Telegram). It serves as an ancestor to the [[hermes-agent]].
+OpenClaw is a personal AI assistant focused on proactive automation and chat-app integration (WhatsApp/Telegram). It serves as an ancestor to the [[entities/hermes-agent]].
 
 ## Capabilities
 - **24/7 Automation**: Supports background tasks, reminders, and cron jobs.
@@ -23,5 +23,5 @@ OpenClaw is a personal AI assistant focused on proactive automation and chat-app
 Hermes Agent provides a built-in migration tool to transition OpenClaw users to the Hermes platform.
 
 ## See Also
-- [[hermes-agent]]
+- [[entities/hermes-agent]]
 - [[claude-cowork]]

@@ -12,7 +12,7 @@ sources: ["raw/articles/hermes-agent-readme-2026.md"]
 The Agent Learning Loop is a built-in cognitive architecture that enables AI agents to self-improve through experience. Unlike static agents that reset after every session, agents with a learning loop compound their knowledge, refining their performance autonomously as they complete tasks.
 
 ## Core Mechanisms
-As implemented in the **[[hermes-agent]]**, the loop consists of several interconnected stages:
+As implemented in the **[[entities/hermes-agent]]**, the loop consists of several interconnected stages:
 
 1. **Experience Capture**: The agent tracks its reasoning trajectories, tool usages, and outcomes across sessions.
 2. **Autonomous Skill Creation**: After completing complex tasks, the agent analyzes its successful patterns and formalizes them into reusable **[[procedural-memory]]** (Skills).
@@ -34,4 +34,4 @@ The learning loop relies on a **closed learning loop** philosophy where the agen
 ## Related Concepts
 - **[[procedural-memory]]**: The repository of skills created by the loop.
 - ****Self-improvement****: The high-level goal of the learning loop architecture.
-- **[[hermes-agent]]**: The primary implementation of this pattern.
+- **[[entities/hermes-agent]]**: The primary implementation of this pattern.

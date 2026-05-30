@@ -46,6 +46,6 @@ Long-term conversational memory remains largely unsolved due to severe trade-off
 
 ## See Also
 - [[memory-design-axes]]
-- [[hermes-agent]]
+- [[entities/hermes-agent]]
 - [[llm-architecture]] | [[ag-ui]] | [[model-context-protocol]] | [[agent-communication-protocol]]
 

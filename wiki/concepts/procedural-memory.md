@@ -17,7 +17,7 @@ sources: [raw/articles/deepagents-api-ref-2026.md, raw/articles/hermes-agent-rea
 
 ## Implementation in the Ecosystem
 
-### 1. [[hermes-agent]]
+### 1. [[entities/hermes-agent]]
 In the H[[procedural-memory|procedural memory]]e, procedural memory is the output of the **[[agent-learning-loop]]**.
 - **Autonomous Creation**: The agent analyzes successful trajectories and formalizes them in[[procedural-memory|procedural memory]]in procedural memory.
 - **Self-Impro[[procedural-memory|procedural memory]]in procedural memory are updated and refined as the agent encounters new edge cases.

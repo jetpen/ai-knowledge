@@ -21,7 +21,7 @@ Twitter: [@elijahmuraoka_](https://x.com/elijahmuraoka_)
 - [[agent-primitives]]
 - [[codex]]  
 - [[agent-primitives]]
-- [[hermes-agent]]  
+- [[entities/hermes-agent]]  
 - [[agent-primitives]]
 - [[agent-harness]]  
 - [[agent-primitives]]

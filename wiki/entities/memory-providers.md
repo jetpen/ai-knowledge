@@ -28,5 +28,5 @@ Accessed via:
 - Config: `~/.hermes/config.yaml` (`provider: <name>`)
 
 ## See Also
-- [[hermes-agent]]
+- [[entities/hermes-agent]]
 - [[episodic-memory]]

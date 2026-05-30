@@ -19,7 +19,7 @@ As one of the core "proactive automation" features of the OpenClaw assistant, th
 - **Inbox Clearing**: Periodic sweeps of email to prioritize or summarize messages.
 - **Daily Heartbeats**: Sending status updates to the user via chat apps like WhatsApp or Telegram.
 
-### In [[hermes-agent]]
+### In [[entities/hermes-agent]]
 Building on the OpenClaw foundation, the Hermes Agent cron scheduler unifies proactive automation with a cross-platform gateway.
 - **Natural Language Scheduling**: Users can define cadences in plain English (e.g., "Check my email every morning and DM me a summary").
 - **Unattended Execution**: Runs reports, nightly backups, and weekly audits entirely in the background.

@@ -21,7 +21,7 @@ The move toward proactive automation shifts the user's role from "Interrogator" 
 ### 1. Time-Based Triggers
 Agents use a built-in **[[agent-cron-scheduler]]** to run recurring tasks unattended.
 - **[[openclaw]]**: Historically used for flight check-ins and daily heartbeats.
-- **[[hermes-agent]]**: Used for nightly backups, weekly audits, and daily briefings delivered to chat apps—all in natural language.
+- **[[entities/hermes-agent]]**: Used for nightly backups, weekly audits, and daily briefings delivered to chat apps—all in natural language.
 
 ### 2. Event-Driven Triggers
 Agents act in response to system events.
@@ -29,7 +29,7 @@ Agents act in response to system events.
 - **Webhook Integration**: Triggering an agent when an error is captured in a platform like Sentry or a PR is opened on GitHub.
 
 ### 3. Internal Needs Discovery
-Self-improving agents like **[[hermes-agent]]** use their **[[agent-learning-loop]]** to recognize when they should:
+Self-improving agents like **[[entities/hermes-agent]]** use their **[[agent-learning-loop]]** to recognize when they should:
 - Persist new knowledge into memory without being told.
 - Update or create new skills from recent trajectories.
 - Perform dialectic user modeling to refine future interactions.

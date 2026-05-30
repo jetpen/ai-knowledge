@@ -37,7 +37,7 @@ description: Open-source orchestration for zero-human companies.
 Open-source orchestration platform aimed at enabling "zero-human companies" via AI agents. Focuses on agent coordination, skills, heartbeat/liveness monitoring, API security, and UI/development tools. Highly active community-driven project with codex-assisted development.
 
 ## Relevance
-Fits agentic frameworks ecosystem ([[symphony]], [[hermes-agent]], [[deep-agents]]). Potential MCP/ANP integration given skills and orchestration focus.
+Fits agentic frameworks ecosystem ([[symphony]], [[entities/hermes-agent]], [[deep-agents]]). Potential MCP/ANP integration given skills and orchestration focus.
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

@@ -15,7 +15,7 @@ The Agent Skills Standard (often associated with **agentskills.io**) is an open 
 The standard aims to solve the problem of "shallow" agents by enabling "compound intelligence," where skills created from experience can be shared across different agent frameworks and sessions.
 
 ## Core Components
-As documented in the **[[deep-agents-sdk]]** and **[[hermes-agent]]** implementations:
+As documented in the **[[deep-agents-sdk]]** and **[[entities/hermes-agent]]** implementations:
 
 - **Skill Metadata**: Structured data (e.g., `SkillMetadata` class) that describes the skill's purpose, trigger conditions, required tools, and parameters.
 - **Markdown-based Documentation**: Skills are typically stored as `.md` files containing YAML frontmatter and instructional steps, making them both human-readable and agent-parsable.
@@ -25,7 +25,7 @@ As documented in the **[[deep-agents-sdk]]** and **[[hermes-agent]]** implementa
     - **Execution**: The agent follows the skill's procedural steps using its available tools.
 
 ## Implementation in the Ecosystem
-- **[[hermes-agent]]**: Uses the standard for its **[[agent-learning-loop]]**, where it autonomously creates and improves skills from session experience.
+- **[[entities/hermes-agent]]**: Uses the standard for its **[[agent-learning-loop]]**, where it autonomously creates and improves skills from session experience.
 - **[[deep-agents-sdk]]**: Features `SkillsMiddleware` which loads and exposes these standard-compliant skills directly to the system prompt.
 - **Procedural Nature**: Unlike "tools" (which are typically granular API calls), "skills" are procedural guides that teach an agent *how* to use tools to achieve a specific outcome.
 

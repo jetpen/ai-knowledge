@@ -39,5 +39,5 @@ Based on Kevin Simback's technical synthesis, the Hermes Agent memory architectu
   - Configurations and data are isolated per profile via `$HERMES_HOME/`, environment-specific `.env` files, and project paths.
 
 ## Relationships
-- **[[hermes-agent]]**: Framework governing memory plugins.
+- **[[entities/hermes-agent]]**: Framework governing memory plugins.
 - **[[openviking]]**: Recommended provider for hierarchical knowledge management.

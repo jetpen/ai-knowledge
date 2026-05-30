@@ -11,8 +11,8 @@ sources: ["raw/articles/hermes-agent-readme-2026.md"]
 
 Dialectic User Modeling is an advanced approach to personalization where an AI agent builds a deepening model of the user through continuous interaction, reflection, and "dialogue" with stored user data. 
 
-## Mechanism in [[hermes-agent]]
-As implemented in the Hermes Agent architecture (leveraging technologies like **[[hermes-agent]]**), dialectic modeling moves beyond static profile fields to a dynamic, evolving understanding:
+## Mechanism in [[entities/hermes-agent]]
+As implemented in the Hermes Agent architecture (leveraging technologies like **[[entities/hermes-agent]]**), dialectic modeling moves beyond static profile fields to a dynamic, evolving understanding:
 
 1. **Thesis (Interaction)**: The agent observes the user's direct requests, feedback, and personality traits during a task.
 2. **Antithesis (Reflection)**: The agent nudges itself to compare new observations against its existing model of the user, identifying contradictions or new preferences.

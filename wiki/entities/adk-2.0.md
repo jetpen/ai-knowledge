@@ -26,7 +26,7 @@ Introduces 5 multi-agent orchestration patterns extending prior skill patterns (
 
 ## Relationships
 - Extends agent skill design patterns.
-- Alternative/competitor to [[symphony]], [[hermes-agent]], [[langgraph]], [[crewai]].
+- Alternative/competitor to [[symphony]], [[entities/hermes-agent]], [[langgraph]], [[crewai]].
 
 ## Related
 - [[concepts/agent-harness]] – Agent harness as infrastructure layer

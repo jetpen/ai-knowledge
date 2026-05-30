@@ -23,7 +23,7 @@ A local context operating system for AI agents, conceptualized by Tony Simons as
 - Enables thorough self-audits (file paths, byte counts, active/dormant/broken states).
 
 ## Relationships
-- Built for [[hermes-agent]]
+- Built for [[entities/hermes-agent]]
 - By [[tony-simons]]
 - Contrasts simplistic system prompts (\"sticky notes\").
 - Related to [[agent-memory-architecture]], [[hermes-agent-memory]]
