@@ -158,7 +158,6 @@ updated: 2026-05-20
 [[entities/module.md]] - Module
 [[entities/monetization.md]] - Monetization
 [[entities/monolith.md]] - Monolith
-[[entities/naming.md]] - Naming
 [[entities/nous-research.md]] - Nous Research
 [[entities/oci-ai-accelerator-pack.md]] - OCI AI Accelerator Pack
 [[entities/oci-ai-agent-hub.md]] - OCI AI Agent Hub
