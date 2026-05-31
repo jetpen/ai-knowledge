@@ -54,7 +54,8 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 - **Deep Agents**: Examples of an "agent harness." According to current research ([[harness-engineering]]), its utility lies in its modular middleware and progressive disclosure model.
 - **Deep Agents SDK**: Provides the infrastructure layer for production agents ([[agentic-production-infrastructure]]), including state management and reliable tool execution.
 
-- [[subagent-spawning]]: A core functional capability provided by the harness.
+- **[[subagent-spawning]]**: A core functional capability provided by the harness.
+- **[[pi-coding-agent]]**: A minimal, extensible terminal-based coding harness designed to adapt to user workflows.
 - [[agentic-workspace]]: The environment managed and secured by the harness.
 
 ## Related

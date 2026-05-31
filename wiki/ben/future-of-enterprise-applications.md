@@ -95,3 +95,15 @@ When the intent is achieved by inference, each run benefits from the intelligenc
 Bolt-on AI versus designed for native agentic execution
 
 delegated execution authority
+
+## Counter-narrative 
+
+The counter-narrative to the SaaSpocalypse:
+
+«Enterprises are not replacing data platforms with AI; they are using AI to generate more workloads that run on those same platforms.» [What Happened?](https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-shares-skyrocket-what-you-need-to-know-051000990.html)
+
+I hate the term "data platform". "System of Record" is better terminology. This is an enterprise application that combines a transactional database for operational data with the transactional logic that implements the rules for a domain. For example, order fulfillment for some industry.
+
+I am growing fond of the term "System of Intelligence" for layering agentic AI enablement over-top of the Systems of Record. Skills, MCP tools, ontology, and specifications for abstracting the SoR into the terms of art that end users will use conversationally to automate tasks in their job roles and to describe their business differentiation. The result of their work will be termed the "System of Outcomes", which are the final customized solution for achieving their business goals.
+
+These are the terms I have settled on for talking about the future of enterprise applications.
