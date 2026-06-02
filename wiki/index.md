@@ -7,7 +7,7 @@ updated: 2026-05-20
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-10|> Last updated: 2026-05-27 | Total pages: 493
+> Last updated: 2026-06-01 | Total pages: 494
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
@@ -234,6 +234,7 @@ updated: 2026-05-20
 [[entities/zero-to-one.md]] - Zero To One
 
 ## Concepts
+[[concepts/enterprise-context-layer.md]] - Enterprise Context Layer
 [[concepts/long-running-automation-service.md]] - Long Running Automation Service
 [[concepts/agentic-protocols.md]] - Agentic Protocols
 [[concepts/agent-communication-protocol.md]] - Agent Communication Protocol

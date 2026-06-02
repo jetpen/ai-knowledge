@@ -9,3 +9,5 @@ date: 2026-05-24
 2026-05-25: Consolidated [[concepts/agentic-memory-types.md]] -> [[concepts/agent-memory.md]].
 2026-05-25: Consolidated [[concepts/memory-layered-context.md]] -> [[concepts/agent-memory.md]].
 2026-05-25: Consolidated [[concepts/memory-lock-in.md]] -> [[concepts/agent-memory.md]].
+
+2026-06-01: Ingested X status https://x.com/i/status/2061512556590809342 into raw/twitter and created concepts/enterprise-context-layer.md; added to index.
