@@ -11,3 +11,4 @@ date: 2026-05-24
 2026-05-25: Consolidated [[concepts/memory-lock-in.md]] -> [[concepts/agent-memory.md]].
 
 2026-06-01: Ingested X status https://x.com/i/status/2061512556590809342 into raw/twitter and created concepts/enterprise-context-layer.md; added to index.
+2026-06-02: Ingested X article 'A Beginner Primer on Using MoE Models on Consumer Hardware' (tweet 2059310445798797748) into raw/articles/

@@ -1,13 +1,13 @@
 ---
 title: Wiki Index
 created: 2026-05-07
-updated: 2026-05-20
+updated: 2026-06-02
 ---
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-01 | Total pages: 494
+> Last updated: 2026-06-02 | Total pages: 400
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
@@ -401,6 +401,8 @@ updated: 2026-05-20
 [[concepts/working-memory.md]] - Working Memory
 [[concepts/write-manage-read-loop.md]] - Write-Manage-Read Loop
 
+[[concepts/consumer-hardware-local-inference.md]] - Consumer Hardware Local Inference (MoE-aware)
+[[concepts/mixture-of-experts.md]] - Mixture of Experts (MoE)
 ## Comparisons
 <!-- Alphabetical within section -->
 [[comparisons/agentic-user-interfaces.md]] - Agentic User Interface Protocols (AG-UI vs A2UI)
