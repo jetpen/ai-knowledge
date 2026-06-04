@@ -258,6 +258,7 @@ updated: 2026-06-02
 [[concepts/agent-discovery.md]] - agent discovery
 [[concepts/agent-harness-design-principles.md]] - Agent Harness Design Principles
 [[concepts/agent-harness.md]] - Agent Harness
+[[concepts/agent-harnesses.md]] - Agent Harnesses
 [[concepts/agent-interoperability.md]] - agent interoperability
 [[concepts/agent-learning-loop.md]] - Agent Learning Loop
 [[concepts/agent-memory-architecture.md]] - Agent Memory Architecture
