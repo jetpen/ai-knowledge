@@ -25,5 +25,5 @@ tags:
 
 ## Links
 - [[agentic-infrastructure]]
-- [[agent-harnesses]]
+- [[agent-harness]]
 - [[sdlc-automation]]

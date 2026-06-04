@@ -117,4 +117,4 @@ Workflows are a helpful new way to extend Claude Code. I encourage you to think 
 Thariq Shihipar and Sid Bidasaria (@sidbid) are members of technical staff at Anthropic, working on Claude Code.
 
 ## Relationships
-- Associated with: [[agentic-infrastructure]], [[agent-harnesses]], [[claude-code]], [[workflow-automation]]
+- Associated with: [[agentic-infrastructure]], [[agent-harness]], [[claude-code]], [[workflow-automation]]

@@ -19,7 +19,7 @@ AI/ML researcher or contributor (inferred from wiki ingestion context). Active o
 - Tweet [2048817143974613089](https://x.com/i/status/2048817143974613089): Link post (content: https://t.co/suj0MIw2Cm).
 
 ## Related
-- [[agent-harnesses]] (domain context)
+- [[agent-harness]] (domain context)
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

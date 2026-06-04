@@ -21,6 +21,6 @@ Anthropic agent harness.
 
 Claude Code can generate **dynamic workflows** that write a task-specific harness on-the-fly, enabling different subagent configurations and isolation levels for different problem classes.
 
-- Related concepts: [[workflow-automation]], [[agent-harnesses]], [[agentic-infrastructure]]
+- - Related concepts: [[workflow-automation]], [[agent-harness]], [[agentic-infrastructure]]
 - 
 [[context-management-in-agent-harnesses]]

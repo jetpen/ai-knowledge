@@ -55,6 +55,6 @@ Language model used to score or classify outputs on qualities requiring language
 - Mature setups combine all three methods.
 - Reference-free and user-signal evaluators should migrate to production traffic to close the loop.
 
-**Related concepts**: [[ai-engineering-loop]], [[agent-harnesses]], [[dspy-evaluation-harness]], [[langfuse]].
+**Related concepts**: [[ai-engineering-loop]], [[agent-harness]], [[dspy-evaluation-harness]], [[langfuse]].
 
 **Further reading**: [Langfuse Academy series](https://x.com/i/status/2056754091817361670)
