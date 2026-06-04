@@ -57,30 +57,13 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 
 ## Related
 
-- [[agentic-infrastructure]] Concepts
 - **Deep Agents**: Examples of an "agent harness." According to current research ([[harness-engineering]]), its utility lies in its modular middleware and progressive disclosure model.
 - **Deep Agents SDK**: Provides the infrastructure layer for production agents ([[agentic-production-infrastructure]]), including state management and reliable tool execution.
-
 - **[[subagent-spawning]]**: A core functional capability provided by the harness.
 - **[[pi-coding-agent]]**: A minimal, extensible terminal-based coding harness designed to adapt to user workflows.
-- [[agentic-workspace]]: The environment managed and secured by the harness.
-
-## Related
-
+- [[agentic-workspace]]: The environment managed and secured by the harness
 - [[agentic-infrastructure]]
 - [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns
 - [[concepts/harness-engineering]] – Engineering practices for agent harnesses
-
-## Agent Harnesses (Plural)
-
-Plural form of **Agent Harness**: the infrastructure layer(s) that wrap an LLM/tool-calling loop with management capabilities (planning, subagent orchestration, context/memory handling, sandboxes/permissions, and recovery).
-
-## Relation to Agent Harness
-
-This page is the canonical definition. Older wikilinks may refer to the plural form; consolidate by linking to **[[concepts/agent-harness.md]]**.
-
-## Related (plural)
-
-- [[concepts/harness-engineering]]
 - [[concepts/the-harness-is-the-backend]]
 - [[entities/claude-code]] (Anthropic agent harness)

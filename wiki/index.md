@@ -98,7 +98,6 @@ updated: 2026-06-02
 [[entities/daniel-miessler.md]] - Daniel Miessler
 [[entities/data-model.md]] - Data Model
 [[entities/data-structure.md]] - Data Structure
-[[entities/database-agent-factory.md]] - Database Agent Factory
 [[entities/database.md]] - Database
 [[entities/daytona.md]] - Daytona
 [[entities/decomposition.md]] - Decomposition
@@ -242,7 +241,8 @@ updated: 2026-06-02
 [[concepts/llm.md]] - LLM (Large Language Model)
 [[concepts/dynamic-skill-querying.md]] - dynamic skill querying
 [[concepts/agentic-protocols-comparison.md]] - Agentic Protocols Comparison
-[[concepts/agent-cards.md]] - Agent Cards
+[[concepts/company-brain.md]] - Company Brain
+[[concepts/consumer-hardware-local-inference.md]] - Consumer Hardware Local Inference (MoE-aware)
 [[concepts/credential-inclusion.md]] - credential inclusion
 [[concepts/delivery-route-optimizer.md]] - Delivery Route Optimizer
 [[concepts/agent-collaboration-network.md]] - Agent Collaboration Network
@@ -309,8 +309,7 @@ updated: 2026-06-02
 [[concepts/dark-software-factory.md]] - [[dark-software-factory|Dark Software Factory]]
 [[concepts/data-source-integration.md]] - data source integration
 [[concepts/deep-agents-deploy.md]] - Deep Agents Deploy
-[[concepts/human-in-the-loop.md]] - Human-in-the-loop (HITL) (includes Delegated Approval)
-[[concepts/dialectic-user-modeling.md]] - Dialectic User Modeling
+[[concepts/hydradb.md]] - HydraDB
 [[concepts/digital-employee.md]] - Digital Employee
 [[concepts/durable-execution.md]] - Durable Execution
 [[concepts/dspy-module.md]] - DSPy Module
@@ -337,6 +336,7 @@ updated: 2026-06-02
 [[concepts/healthcare-multi-agent-systems.md]] - healthcare multi-agent systems
 [[concepts/human-in-the-loop.md]] - Human-in-the-loop (HITL) (includes Delegated Approval)
 [[concepts/hybrid-graph.md]] - Hybrid Graph (ADK Pattern)
+[[concepts/hydradb.md]] - HydraDB
 [[concepts/identity-layer.md]] - Identity Layer
 [[concepts/interaction-modalities.md]] - interaction modalities
 [[concepts/inter-company-partnerships.md]] - inter-company partnerships

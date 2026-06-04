@@ -1,16 +1,4 @@
----
-date: 2026-05-24
----
-# Wiki Log
-
-- 2026-05-24: Renamed `entities/ibm-research.md` to `entities/ibm.md`. Updated index and related refs.
-
-2026-05-25: Completed full wiki lint, frontmatter remediation (28 files), index synchronization, and discovery link pass (29 links injected).
-2026-05-25: Consolidated [[concepts/agentic-memory-types.md]] -> [[concepts/agent-memory.md]].
-2026-05-25: Consolidated [[concepts/memory-layered-context.md]] -> [[concepts/agent-memory.md]].
-2026-05-25: Consolidated [[concepts/memory-lock-in.md]] -> [[concepts/agent-memory.md]].
-
-2026-06-01: Ingested X status https://x.com/i/status/2061512556590809342 into raw/twitter and created concepts/enterprise-context-layer.md; added to index.
-2026-06-02: Ingested X article 'A Beginner Primer on Using MoE Models on Consumer Hardware' (tweet 2059310445798797748) into raw/articles/
-2026-06-03: Created [[concepts/agent-harnesses.md]] to satisfy plural wikilinks; updated [[entities/claude-code.md]] sources + added dynamic-workflows section; updated index.
-2026-06-04: Consolidated [[concepts/agent-harnesses.md]] into [[concepts/agent-harness.md]] preserving all content; removed plural page from index and updated wikilinks.
+2026-06-04: Ingested Mr. Buzzoni (@polydao) X post 2062185564871295459 "Why Every Company Is Building a Brain to Capture All Working Context".
+- Created raw file: wiki/raw/twitter/polydao-why-every-company-is-building-a-brain-2026-06-04.md
+- Synthesized concepts: [[Company Brain]], [[HydraDB]].
+- Updated index.md catalog.
