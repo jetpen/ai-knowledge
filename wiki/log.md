@@ -1,4 +1,4 @@
-2026-06-04: Ingested Mr. Buzzoni (@polydao) X post 2062185564871295459 "Why Every Company Is Building a Brain to Capture All Working Context".
-- Created raw file: wiki/raw/twitter/polydao-why-every-company-is-building-a-brain-2026-06-04.md
-- Synthesized concepts: [[Company Brain]], [[HydraDB]].
+2026-06-04: Ingested AlphaSignal AI X post 2062553418460479577 "AI Agents Don't Need Bigger Context Windows".
+- Created raw file: wiki/raw/twitter/headroom-ai-agents-dont-need-bigger-context-windows-2026-06-04.md
+- Synthesized concept: [[Headroom]].
 - Updated index.md catalog.

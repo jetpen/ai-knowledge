@@ -1,13 +1,13 @@
 ---
 title: Wiki Index
 created: 2026-05-07
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-02 | Total pages: 400
+> Last updated: 2026-06-04 | Total pages: 401
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
@@ -303,6 +303,7 @@ updated: 2026-06-02
 [[concepts/context-os.md]] - Context OS
 [[concepts/context-window-limitations.md]] - Context Window Limitations
 [[concepts/conversation-compaction.md]] - Conversation Compaction
+[[concepts/headroom.md]] - Headroom
 [[concepts/cross-framework-collaboration.md]] - cross-framework collaboration
 [[concepts/cross-platform-integration.md]] - cross-platform integration
 [[concepts/customer-churn.md]] - Customer Churn
