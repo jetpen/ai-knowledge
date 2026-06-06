@@ -295,6 +295,7 @@ updated: 2026-06-04
 [[concepts/bitter-lesson-engineering.md]] - Bitter Lesson Engineering
 [[concepts/checkpoint-and-resume.md]] - Checkpoint-and-Resume
 [[concepts/client-initiated-methods.md]] - client-initiated methods
+[[concepts/code-as-agent-harness.md]] - Code as Agent Harness
 [[concepts/code-review-loop.md]] - Code-Review Loop
 [[concepts/community-driven-standards.md]] - community-driven standards
 [[concepts/composeio.md]] - Composeio

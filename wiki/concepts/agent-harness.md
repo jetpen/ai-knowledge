@@ -63,6 +63,7 @@ Per [[mike-piccolo]] (2026-04-28 X post): Current separation of harness (agent l
 - **[[pi-coding-agent]]**: A minimal, extensible terminal-based coding harness designed to adapt to user workflows.
 - [[agentic-workspace]]: The environment managed and secured by the harness
 - [[agentic-infrastructure]]
+- [[concepts/code-as-agent-harness]] — Code as Agent Harness architecture patterns and multi-agent consistency layers
 - [[entities/adk-2.0]] – Google ADK 2.0 harness/orchestration patterns
 - [[concepts/harness-engineering]] – Engineering practices for agent harnesses
 - [[concepts/the-harness-is-the-backend]]
