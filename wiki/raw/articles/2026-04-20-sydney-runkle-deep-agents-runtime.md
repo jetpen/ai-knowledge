@@ -22,8 +22,6 @@ Throughout this section, "the runtime" refers to [LangSmith Deployment (LSD)](ht
 
 The table below maps each production requirement to the runtime primitive that meets it.
 
-[Image/table placeholder]
-
 ### Durable execution
 
 Agents work by running a loop: Given a prompt, the model reasons, calls tools, observes the results, and repeats until it decides the task is complete.

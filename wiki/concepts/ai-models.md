@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [models, llms, agentic-models, oci]
-sources: [wiki/oci-ai-accelerator-packs.md, https://huggingface.co/models?agent]
+sources: ["wiki/oci-ai-accelerator-packs.md", "https://huggingface.co/models?agent"]
 author: hermes-agent
 ---
 
