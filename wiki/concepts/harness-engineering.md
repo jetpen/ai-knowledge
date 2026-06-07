@@ -1,13 +1,14 @@
 ---
 title: Harness Engineering
 created: 2026-04-14
-updated: 2026-05-08
+updated: 2026-06-07
 type: concept
 tags: [harness-engineering, agentic-dev, llm-arch, software-development, agents, ai-infrastructure]
 sources: 
   - raw/articles/2026-04-13-nav-toor-harness-engineering.md
   - raw/articles/agent-harness-engineering-addyosmani-2026-04-22.md
   - raw/articles/2026-04-22-alphasignal-ai-harness-engineering.md
+  - raw/articles/2026-06-07-harness-engineering-what-every-ai-engineer-needs-to-know-2026-sairahul1.md
 author: auto
 ---
 
@@ -18,6 +19,8 @@ Harness Engineering: Agent = Model + Harness.
 Optimize scaffolding (prompts/tools/context/hooks/sandboxes/subagents/loops) as artifact.  
 Decent model + great harness > great model + bad harness (Addy Osmani, Nav Toor, AlphaSignal AI).  
 Failures = config/skill issues → ratchet into rules/hooks (AGENTS.md).
+
+Additional source (Rahul / X article, 2026-06-07) adds: harness as OS-like management of model/context, plus a checklist of “harness artifacts” (AGENT.md / CLAUDE.md onboarding files, JSON feature lists/progress trackers, session initialization boot routines, planner↔evaluator sprint contracts, and structured templates that map to real repo paths).
 
 AlphaSignal AI (2026-04-22): In 2026, harness engineering emerged as the key moat. OpenAI shipped 1M lines via agent-written code in a tightly constrained repo environment. Anthropic decoupled brain/hands via Planner-Generator-Evaluator. LangChain boosted Terminal Bench 2.0 from 52.8%→66.5% via "reasoning sandwich." ThoughtWorks framework: guide/sensor × computational/inferential axes.
 

@@ -1,5 +1,5 @@
 ---
-title: Yann LeCun: Vision for Autonomous Intelligence
+title: "Yann LeCun: Vision for Autonomous Intelligence"
 created: 2026-05-24
 updated: 2026-05-24
 type: entity
