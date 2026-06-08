@@ -12,6 +12,7 @@ updated: 2026-06-04
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
 [[entities/cognition.md]] - Cognition
+[[entities/opik.md]] - Opik
 [[entities/pydantic-ai.md]] - Pydantic AI
 [[entities/separation-of-concerns.md]] - Separation of Concerns
 [[entities/composio.md]] - Composio

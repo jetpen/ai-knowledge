@@ -26,10 +26,17 @@ It won't be long before we see every agent harness innovate in these areas:
 1. Given a knowledge base containing the totality of knowledge about a business (mission, strategy, processes, procedures, policies, standards, guidelines, etc.), based on my current task (prompt) fetch the most relevant knowledge into my context to guide its execution.
 2. Given a knowledge base containing the totality of skills, MCP tools, workflows, recipes, and every type of markdown that is relevant to every job role in my business, do the matching of my prompt without occupying any tokens in my context.
 
-[The runtime behind production deep agents](2026-04-20-sydney-runkle-deep-agents-runtime) by Sydney Runkle
+[The runtime behind production deep agents](https://x.com/sydneyrunkle/status/2046277232537256002) by Sydney Runkle
 
-[Harness Engineering: What Every AI Engineer Needs to Know in 2026](2026-06-07-harness-engineering-what-every-ai-engineer-needs-to-know-2026-sairahul1) by Rahul
+[Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/i/status/2063544956158185927) by Rahul
 
 [The Anatomy of an Agent Harness](https://x.com/i/status/2031408954517971368) by Viv
 
+[Why Every Company Is Building a Brain to Capture All Working Context](https://x.com/i/status/2062185564871295459) by Mr. Buzzoni
+
 Models improve
+
+Orchestration of a unit of work for the business. It is called a loop, because it controls the execution and failure handling until the work is done. The work may be delegated to one or more subagents.
+
+[WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/i/status/2063865685558903149)
+

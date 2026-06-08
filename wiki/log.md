@@ -11,3 +11,7 @@
 - Created raw file: wiki/raw/twitter/headroom-ai-agents-dont-need-bigger-context-windows-2026-06-04.md
 - Synthesized concept: [[Headroom]].
 - Updated index.md catalog.
+2026-06-08: Ingested Akshay 🚀 X article 2064051835636498924 "Your Agent Harness Should Repair Itself".
+|- Created raw file: wiki/raw/articles/2026-06-08-akshay_pachaar-your-agent-harness-should-repair-itself.md
+|- Created/updated entity: [[opik]] (if applicable) and updated concept: [[self-healing-agent-harness]].
+|- Updated index.md catalog.
