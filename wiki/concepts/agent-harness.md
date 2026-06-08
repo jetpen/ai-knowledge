@@ -1,10 +1,10 @@
 ---
 title: Agent Harness
 created: 2026-04-12
-updated: 2026-06-04
+updated: 2026-06-08
 type: concept
 tags: ["framework", "agents", "harness", "concept", "deepagents"]
-sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md"]
+sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md", "raw/articles/2026-06-07-mohit-goyal-agentic-harness-from-scratch-agentforge.md"]
 ---
 
 # Agent Harness
@@ -36,8 +36,17 @@ LangChain defines `deepagents` specifically as an "agent harness." It implements
 
 ## Perspectives on Harness Architecture
 
-### Aparna Dhinakaran: Bottom-Up from Coding Agents (2026-04-29)
+### Mohit Goyal: Agent is a runtime contract (AgentForge, 2026-06-07)
+Per Mohit Goyal (@ByteMohit) X article: harness engineering is the executable “runtime contract” around the model—action space, approval policy, tool/observation format, context budget + compaction, recovery paths, and persistence.
 
+Emphases from AgentForge:
+- **Session-first**: harness constructs the agent’s world (tools, skills, MCP bindings, operating mode) before the first model token.
+- **Loop as control system**: stop conditions, loop detection, and model-level circuit breakers prevent “demo” behavior.
+- **Tool contract enables recovery**: structured tool results (`summary`, `artifacts`, `next_actions`, `recovery_hint`) make failures actionable.
+- **Safety in code**: approval modes enforce policies outside the prompt; tool observations are wrapped as untrusted data to manage prompt injection.
+- **Skills = context budgeting**: skills use progressive disclosure (metadata indexed; full guidance loaded only when needed).
+
+### Aparna Dhinakaran: Bottom-Up from Coding Agents (2026-04-29)
 Per [[aparna-dhinakaran]] X post: Harnesses **not** frameworks like [[langgraph]]/LangChain (human-configured abstractions). Instead, bottom-up architectures from production coding agents:
 
 - **Examples**: Cursor, [[claude-code]], Windsurf, Codex, Arize [[alyx-agent]].
