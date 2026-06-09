@@ -7,11 +7,12 @@ updated: 2026-06-04
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-04 | Total pages: 401
+> Last updated: 2026-06-09 | Total pages: 373
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
 [[entities/cognition.md]] - Cognition
+[[entities/hunter-leath.md]] - Hunter Leath
 [[entities/opik.md]] - Opik
 [[entities/pydantic-ai.md]] - Pydantic AI
 [[entities/separation-of-concerns.md]] - Separation of Concerns
@@ -235,6 +236,7 @@ updated: 2026-06-04
 
 ## Concepts
 [[concepts/enterprise-context-layer.md]] - Enterprise Context Layer
+[[concepts/file-system-agent.md]] - File System as Agent
 [[concepts/long-running-automation-service.md]] - Long Running Automation Service
 [[concepts/agentic-protocols.md]] - Agentic Protocols
 [[concepts/agent-communication-protocol.md]] - Agent Communication Protocol
