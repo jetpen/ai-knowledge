@@ -4,6 +4,8 @@ ingested: 2026-06-09
 sha256: b6f91a2e135979e1436fe97724b31e5fda1a90c4b56ba7bfe7aa240d293fd881
 author: Carlos E. Perez (@IntuitMachine)
 post_id: 2064291644401213706
+article_plain_text_available: false
+body_source: data.text
 ---
 
 # Everyone's chasing the best model. Almost nobody's agent actually works in production.
