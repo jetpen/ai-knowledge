@@ -55,9 +55,6 @@ Per [[aparna-dhinakaran]] X post: Harnesses **not** frameworks like [[langgraph]
 
 Critiques retrofitting older frameworks as "harnesses."
 
-sources: [...existing..., "raw/articles/2046980769747533830-aparna-dhinakaran-what-is-agent-harness.md"]
-
-
 ### Critique: Agent Harness Is Not Enough
 Per [[li-jeffrey]] / [[hola-os]]: Harnesses excel at tasks but fail roles without [[environment-engineering]]. Use [[harness-swap-test]] to validate.
 

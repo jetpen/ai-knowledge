@@ -38,5 +38,10 @@ Models improve
 
 Orchestration of a unit of work for the business. It is called a loop, because it controls the execution and failure handling until the work is done. The work may be delegated to one or more subagents.
 
-[WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/i/status/2063865685558903149)
+[WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/i/status/2063865685558903149) by Matt Van Horn
 
+Long context problems
+
+[RLM Agents live healthier when they talk via Structured Outputs](https://x.com/i/status/2063907440509571354) by 
+
+Overcoming context rot [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172) by Nelson F. Liu, et al

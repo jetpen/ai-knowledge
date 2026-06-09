@@ -3,9 +3,14 @@ title: Self-Healing Agent Harness
 created: 2026-04-27
 updated: 2026-06-08
 type: concept
-tags: [agent-harness, self-healing, production-ai, qa-evaluation, agentic-ai]
-sources: 
-  - ~/projects/ai-knowledge/wiki/raw/articles/2026-04-27-peter-pang-self-healing-agent-harness-x-post.md
+tags:
+  - agent-harness
+  - self-healing
+  - production-ai
+  - qa-evaluation
+  - agentic-ai
+sources:
+  - raw/articles/2026-04-27-peter-pang-self-healing-agent-harness-x-post.md
   - raw/articles/2026-06-08-akshay_pachaar-your-agent-harness-should-repair-itself.md
 ---
 
@@ -31,8 +36,6 @@ Lessons:
 - Implements a production debugging loop: Trace → Ollie diagnoses → Ollie proposes a fix → fix applied & verified → regression tests → back to Trace.
 - Converts failing traces into executable assertions/test cases, reducing reliance on manual “why/diff/hope” loops.
 - Uses structured judge-style evaluation as part of the test workflow.
-
-Source: raw/articles/2026-06-08-akshay_pachaar-your-agent-harness-should-repair-itself.md
 
 ## Relationships
 - Enables [[agent-harness]] at scale (3-8x/day deploys).
