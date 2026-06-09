@@ -1,10 +1,10 @@
 ---
 title: Agent Harness
 created: 2026-04-12
-updated: 2026-06-08
+updated: 2026-06-09
 type: concept
 tags: ["framework", "agents", "harness", "concept", "deepagents"]
-sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md", "raw/articles/2026-06-07-mohit-goyal-agentic-harness-from-scratch-agentforge.md"]
+sources: ["raw/articles/deepagents-overview-2026.md", "raw/articles/deepagents-api-ref-2026.md", "raw/articles/2026-06-07-mohit-goyal-agentic-harness-from-scratch-agentforge.md", "raw/twitter/2026-06-09-intuitmachine-loop-around-the-model.md"]
 ---
 
 # Agent Harness

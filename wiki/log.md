@@ -32,5 +32,11 @@
 - Updated index.md catalog.
 
 2026-06-09: Synthesized X article 2064054172258078866 "How to Become AI Native".
-- Created concept: [[concepts/ai-native.md|AI Native]]
+- Created concept: [[concepts/ai-native.md|AI Native]].
+- Updated index.md catalog.
+
+2026-06-09: Ingested X post 2064291644401213706 "Everyone's chasing the best model...".
+- Created raw file: wiki/raw/twitter/2026-06-09-intuitmachine-loop-around-the-model.md
+- Updated concept: [[concepts/agent-harness.md|Agent Harness]]
+- Created concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]]
 - Updated index.md catalog.

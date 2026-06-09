@@ -263,6 +263,7 @@ updated: 2026-06-04
 [[concepts/agent-harness.md]] - Agent Harness
 [[concepts/agent-interoperability.md]] - agent interoperability
 [[concepts/agent-learning-loop.md]] - Agent Learning Loop
+[[concepts/agent-loop-control-system.md]] - Agent Loop as Control System
 [[concepts/agent-memory-architecture.md]] - Agent Memory Architecture
 [[concepts/agent-memory-dimensions.md]] - Agent Memory Dimensions
 [[concepts/agent-memory-paradigms.md]] - Agent Memory Paradigms
