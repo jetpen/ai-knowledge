@@ -30,3 +30,7 @@
 - Created entity: [[entities/hunter-leath.md|Hunter Leath]]
 - Created concept: [[concepts/file-system-agent.md|File System as Agent]]
 - Updated index.md catalog.
+
+2026-06-09: Synthesized X article 2064054172258078866 "How to Become AI Native".
+- Created concept: [[concepts/ai-native.md|AI Native]]
+- Updated index.md catalog.

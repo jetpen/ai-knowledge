@@ -286,6 +286,7 @@ updated: 2026-06-04
 [[concepts/ai-accelerator-packs.md]] - AI Accelerator Packs
 [[concepts/ai-ecosystem.md]] - AI Ecosystem
 [[concepts/ai-models.md]] - AI Models
+[[concepts/ai-native.md]] - AI Native
 [[concepts/ambient-processing.md]] - Ambient Processing
 [[concepts/application-layer.md]] - Application Layer
 [[concepts/asynchronous-push-notifications.md]] - asynchronous push notifications
