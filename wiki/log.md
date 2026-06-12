@@ -40,3 +40,7 @@
 - Updated concept: [[concepts/agent-harness.md|Agent Harness]]
 - Created concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]]
 - Updated index.md catalog.
+
+2026-06-11: Ingested X article 2064925285003542820 "Loop Engineering Isn't What You Think"
+- Created raw file: wiki/raw/twitter/2026-06-11-loop-engineering-isn-t-what-you-think.md
+- Updated concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]]

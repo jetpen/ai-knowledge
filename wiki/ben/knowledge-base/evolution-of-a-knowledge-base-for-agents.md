@@ -9,6 +9,18 @@ tags:
   - future-trends
 ---
 ![[agent-evolution.drawio.png]]
+AI agents can be categorized as follows.
+* general purpose
+* specialty
+Codex, Claude Code, Cursor, OpenClaw, and Hermes Agent are general purpose agents. They are extensible through prompts, plugins, MCP, and skills. When used in combination with a capable model, these mechanisms are capable of accomplishing nearly anything within the realm of computing.
+
+Performing tasks using a conversation (a session in the chatbot) or by performing a skill relies on the model to determine the intent, formulate a plan, and execute the steps, which may involve calling tools available to the agent. Model inference has the following concerns.
+* non-determinism and accuracy
+* token consumption (cost)
+* speed of execution (performance)
+Both concerns can be mitigated by replacing the general purpose agents with a specialty agent and relying on procedural code instead of inference. Usually, fast execution, high transaction volume, low latency, or high accuracy without reasoning are factors that would motivate the development of a specialty agent.
+
+Model inferencing and reasoning enable an agent to consider information in context for finding options, planning based on available tools, and deciding based on criteria provided on the fly.
 
 Asked ChatGPT: `does Codex use more token consumption when many skills are registered? or does the context window not get filled up by skill names and descriptions to match prompts to skill calls?`
 
