@@ -41,6 +41,11 @@
 - Created concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]]
 - Updated index.md catalog.
 
-2026-06-11: Ingested X article 2064925285003542820 "Loop Engineering Isn't What You Think"
+2026-06-11: Ingested X article 2064925285003542820 "Loop Engineering Isn't What You Think".
 - Created raw file: wiki/raw/twitter/2026-06-11-loop-engineering-isn-t-what-you-think.md
 - Updated concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]]
+
+2026-06-13: Ingested X article 2065460998668972188 "How I Made My Brownfield Codebase AI-First".
+- Created/updated raw file: wiki/raw/twitter/2026-06-12-how-i-made-my-brownfield-codebase-ai-first-plainionist.md
+- Extracted data.article.plain_text (article_plain_text_available=true), body sha256=5a71338ebd1daeffa436589cda113b66521c398bd636922a4039f8bb9f9872d4
+- No synthesized pages updated (not run in this redo).
