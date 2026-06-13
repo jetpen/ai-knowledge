@@ -82,9 +82,10 @@ The agency of the future will manage loops and retire task delivery as the main 
 https://x.com/i/status/2053173547393331318
 
 [Nate B Jones](https://natesnewsletter.substack.com/): Job-by-Job Guide to AI Evolution
-https://x.com/i/status/2052791197585035463
-[@ericosiu](https://x.com/ericosiu)System of outcomes
-https://x.com/i/status/2052791197585035463
+
+[The AI-Native Agency Manifesto, aka The $1T Services-As-Software Guide](https://x.com/i/status/2052791197585035463) by @eriosiu
+
+[How we built a Single Company Brain (and how you can too)](https://x.com/i/status/2060415100603781497) by @eriosiu
 
 Self-improvement such that first time discovery is done by inference through trial and error until success is achieved. From there, future repetition of the skill is optimized through the generation of code. Non-deterministic execution at the slow speed of inference evolves to high performance deterministic execution through procedural code.
 
@@ -107,3 +108,5 @@ I hate the term "data platform". "System of Record" is better terminology. This 
 I am growing fond of the term "System of Intelligence" for layering agentic AI enablement over-top of the Systems of Record. Skills, MCP tools, ontology, and specifications for abstracting the SoR into the terms of art that end users will use conversationally to automate tasks in their job roles and to describe their business differentiation. The result of their work will be termed the "System of Outcomes", which are the final customized solution for achieving their business goals.
 
 These are the terms I have settled on for talking about the future of enterprise applications.
+
+[COMPLETE guide to building service-as-a-software: the 2026 AI-native agency model](https://x.com/i/status/2065794144824377665) by 

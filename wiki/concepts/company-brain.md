@@ -1,11 +1,12 @@
 ---
 title: Company Brain
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-13
 type: concept
 tags: [ai-agents, institutional-memory, infrastructure, working-context]
 sources:
   - wiki/raw/twitter/polydao-why-every-company-is-building-a-brain-2026-06-04.md
+  - wiki/raw/twitter/2026-05-29-how-we-built-a-single-company-brain-and-how-you-can-too-ericosiu.md
 ---
 
 # Company Brain
