@@ -109,4 +109,21 @@ I am growing fond of the term "System of Intelligence" for layering agentic AI e
 
 These are the terms I have settled on for talking about the future of enterprise applications.
 
-[COMPLETE guide to building service-as-a-software: the 2026 AI-native agency model](https://x.com/i/status/2065794144824377665) by 
+[COMPLETE guide to building service-as-a-software: the 2026 AI-native agency model](https://x.com/i/status/2065794144824377665) by Dan Rosenthal
+
+[Al's trillion-dollar opportunity: Context graphs](https://x.com/i/status/2003525933534179480) by Jaya Gupta
+
+[A frontier without an ecosystem is not stable](https://x.com/i/status/2066182223213293753) by Satya Nadella speaks about the value of human capital.
+
+> Summary
+> 
+> I see AI creating a cognitive loop between people and systems unlike past shifts, changing how firms learn and build IP.
+> 
+> Companies must develop human capital and token capital that compound via learning loops on top of models.
+> Turn workflows and judgment into agentic systems that improve with private evals and reinforcement on real traces.
+> 
+> This learning loop becomes the firm’s compounding IP, a hill climbing machine hard to replicate.
+> 
+> Build a frontier ecosystem where every company owns its knowledge loop to avoid commoditization and ensure broad value creation.
+
+[Your Backend Should Catch Problems Before You Even Know They're There](https://x.com/nateoneilll/status/2066200810900291932) by Nate O'Neill

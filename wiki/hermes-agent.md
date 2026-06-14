@@ -35,3 +35,11 @@ Steps:
    - `hermes gateway start`
    - `hermes gateway status` (user service)
    - `hermes gateway status --system` (should be inactive/absent)
+
+
+## Task 6 - schedule daily search for new articles about agents
+
+
+
+`xurl search "is:verified has:links agent" -n 20`
+
