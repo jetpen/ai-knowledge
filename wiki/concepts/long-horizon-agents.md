@@ -20,3 +20,4 @@ From [[li-jeffrey]] / [[hola-os]]: Environment sustains roles; harness executes 
 
 Related: [[production-agent-runtime]], [[durable-execution]].
 Related: [[long-running-agents]] | [[deep-agents-deploy]] | [[the-future-of-agents]]
+- Source (long-horizon organizational learning loop): [[raw/twitter/2026-06-15-sethrosen-please-don-t-implement-a-company-brain-and-expect-a-learning-loop.md]].

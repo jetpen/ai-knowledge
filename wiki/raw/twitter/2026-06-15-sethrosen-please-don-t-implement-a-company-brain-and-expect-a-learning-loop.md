@@ -15,6 +15,8 @@ ingested: 2026-06-16
 ## Preview
 Satya's piece is rightly going viral. He's connecting two things, human capital and token capital, through a learning loop...
 
+Related: [[concepts/agent-learning-loop]], [[concepts/long-horizon-agents]], [[concepts/company-brain]].
+
 ## Body
 Satya's piece is rightly going viral.
 He's connecting two things, human capital and token capital, through a learning loop: how humans steer AI, how AI makes humans smarter, and how the whole thing compounds.

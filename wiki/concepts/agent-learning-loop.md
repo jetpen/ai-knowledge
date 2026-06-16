@@ -32,6 +32,8 @@ The learning loop relies on a **closed learning loop** philosophy where the agen
 - **Research Utility**: Trajectories from the learning loop can be compressed and used to train future generations of tool-calling models.
 
 ## Related Concepts
-- **[[procedural-memory]]**: The repository of skills created by the loop.
+- [[procedural-memory]]: The repository of skills created by the loop.
 - ****Self-improvement****: The high-level goal of the learning loop architecture.
-- **[[entities/hermes-agent]]**: The primary implementation of this pattern.
+- [[entities/hermes-agent]]: The primary implementation of this pattern.
+- Source (enterprise long-horizon learning loop): [[raw/twitter/2026-06-15-sethrosen-please-don-t-implement-a-company-brain-and-expect-a-learning-loop.md]].
+

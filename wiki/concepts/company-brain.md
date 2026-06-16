@@ -28,3 +28,4 @@ As companies deploy multiple autonomous agents (support, sales, engineering), th
 - [[HydraDB]]: Working-context infrastructure supporting the Company Brain.
 - [[Institutional Memory]]: The concept these systems formally instantiate.
 - [[AI Agents]]: The primary beneficiaries of structured company memory.
+- Source: [[raw/twitter/2026-06-15-sethrosen-please-don-t-implement-a-company-brain-and-expect-a-learning-loop.md]].
