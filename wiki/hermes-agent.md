@@ -40,6 +40,7 @@ Steps:
 ## Task 6 - schedule daily search for new articles about agents
 
 
-
 `xurl search "is:verified has:links agent" -n 20`
 
+* deduplicate
+* spam filter

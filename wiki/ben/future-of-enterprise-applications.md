@@ -127,3 +127,7 @@ These are the terms I have settled on for talking about the future of enterprise
 > Build a frontier ecosystem where every company owns its knowledge loop to avoid commoditization and ensure broad value creation.
 
 [Your Backend Should Catch Problems Before You Even Know They're There](https://x.com/nateoneilll/status/2066200810900291932) by Nate O'Neill
+
+[Universal Agent Thesis](https://x.com/i/status/2066593705906012188) by Cobus Greyling
+
+
