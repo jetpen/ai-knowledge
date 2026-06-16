@@ -57,3 +57,7 @@ Long context problems
 [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/i/status/2063907440509571354) by 
 
 Overcoming context rot [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172) by Nelson F. Liu, et al
+
+[The AI Lock-In Is Beginning!](https://x.com/i/status/2043505841127760066) by Jaya Gupta
+
+[Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)

@@ -1147,3 +1147,8 @@ software through a closed-loop, test-governed, merge-request-mediated process. O
 reliably, additional SDLC stages can be added incrementally, such as broader architecture review,
 security policy enforcement, release automation, observability setup, and eventually production
 operations and upgrade workflows.
+
+
+## References
+
+* [Factory 2.0: From coding agents to software factories](https://x.com/i/status/2066578088184680920) by Matan Grinberg

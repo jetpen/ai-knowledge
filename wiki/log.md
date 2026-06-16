@@ -59,3 +59,8 @@
 - Created raw file: wiki/raw/twitter/2026-06-14-if-i-had-6-months-to-become-an-agentic-ai-engineer-suraj_sharma14.md
 - article_plain_text_available=false (fallback: data.text)
 - No synthesized pages updated (not run in this redo).
+
+2026-06-15: Ingested X article 2043505841127760066 "The AI Lock-In Is Beginning!".
+- Created raw file: wiki/raw/twitter/2026-04-13-the-ai-lock-in-is-beginning-jayagup10.md
+- Extracted data.article.plain_text (article_plain_text_available=true), body sha256=d857a2ad8ed6c9f55fa1e29f027fa636f0e1b6aedaea904b6897f9aa5073f6a1
+- No synthesized pages updated (raw ingest only).
