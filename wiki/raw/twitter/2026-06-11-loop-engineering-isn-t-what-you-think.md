@@ -19,11 +19,11 @@ Most conversations about loops focus on what they can do, not what they cost. Ev
 If you want to learn AI agents, check out this GitHub repo:
 https://github.com/Ramakm/ai-agents.git
 
-There's a quote from Boris Cherny, the engineer behind Claude Code, that has made a lot of developers stop and think.
+There's a quote from [[entities/boris-cherny.md|Boris Cherny]], the engineer behind [[entities/claude-code.md|Claude Code]], that has made a lot of developers stop and think.
 When asked how he works today, he said he barely prompts models directly anymore. Instead, he has loops that prompt the models for him. His job is to build the loops.
 
 That's a subtle but important shift.
-He's no longer focused on talking to the AI. He's focused on building the system that talks to the AI. Peter Steinberger, creator of OpenClaw, makes a similar point: stop prompting coding agents and start designing loops that prompt them.
+He's no longer focused on talking to the AI. He's focused on building the system that talks to the AI. [[entities/peter-steinberger.md|Peter Steinberger]], creator of [[entities/openclaw.md|OpenClaw]], makes a similar point: stop prompting coding agents and start designing loops [[concepts/autonomous-loop-workflows.md]] that prompt them.
 
 Naturally, the AI world ran with it. Agentic loops became the latest buzzword.
 But as usual, the reality is more nuanced than the headline. Most people talking about loops can't clearly explain what they are, when they actually help, or what you're giving up in exchange for the automation.
@@ -48,8 +48,8 @@ Check this repo: https://github.com/snarktank/ai-dev-tasks/blob/main/create-prd.
 
 The agent generates, reads its own output, decides what's left to do, and prompts itself again. Over and over, on its own, until it thinks the job is done.
  
-This isn't a fringe idea. The open-source developer Geoffrey Huntley packaged the simplest version of it as the "Ralph Wiggum" loop. At its core, a Bash loop keeps re-running an agent on the same task until a clear finish condition is met. 
-Tools like Cursor's /goal and the various /loop and /sloop commands floating around are all flavors of the same move: "Here's the goal; don't stop until it's done." At Anthropic, this style of work is part of why Claude now authors the large majority of merged production code.
+This isn't a fringe idea. The open-source developer [[entities/geoffrey-huntley.md|Geoffrey Huntley]] packaged the simplest version of it as the [[concepts/ralph-wiggum-loop.md|"Ralph Wiggum" loop]]. At its core, a Bash loop keeps re-running an agent on the same task until a clear finish condition is met. 
+Tools like Cursor's /goal and the various /loop and /sloop commands floating around are all flavors of the same move: "Here's the goal; don't stop until it's done." At [[entities/anthropic.md|Anthropic]], this style of work [[concepts/autonomous-loop-workflows.md]] is part of why Claude now authors the large majority of merged production code.
 
 It is, genuinely, a glimpse of where this is heading. But here's where the slide deck ends and reality begins.
 
@@ -65,7 +65,7 @@ The moment an agent starts making hundreds of decisions on your behalf, it's for
 
 What comes back can feel like a slot machine. Pull the lever, wait, and hope the output matches your vision. Sometimes it does. Often it doesn't.
 
-The hardest part is that you don't get to steer along the way. Once you type /goal, the train leaves the station.
+The hardest part is that you don't get to steer along the way. Once you type /goal [initiating an [[concepts/autonomous-loop-workflows.md|autonomous loop workflow]]], the train leaves the station.
 
 4. The part nobody puts on the slide: the bill
 
@@ -109,9 +109,9 @@ Then you set a simple rule: nothing ships below 4/5.
  
 If the score comes back as 2/5 or 3/5, you don't jump in manually. You trigger a small workflow that reads the review, applies the suggested fixes, pushes the changes, and waits for the next review.
 
-The process repeats until the score clears 4/5 or the loop hits a maximum number of attempts. That's what a good loop looks like: a closed system with a measurable target and a clear exit condition.
+The process repeats until the score clears 4/5 or the loop hits a maximum number of attempts. That's what a good loop looks like: a closed system with a measurable target and a clear exit condition [[concepts/autonomous-loop-workflows.md]].
 
-The secret isn't the loop itself. It's having a score the loop can reliably chase. If you want the bare-bones shape of it, a Ralph-style loop is honestly just a few lines around your agent:
+The secret isn't the loop itself. It's having a score the loop can reliably chase. If you want the bare-bones shape of it, a Ralph-style loop [[concepts/ralph-wiggum-loop.md]] is honestly just a few lines around your agent:
  
 Be warned: even this clean loop frays at the edges. Push more than ~1,000 lines in one go, and the review agent struggles to hold it all in context; you'll rarely hit 5/5. The fix is the same discipline good engineers already use: keep changes small, split big work into multiple PRs. Even inside a tidy, well-defined loop, scope is still the thing that breaks it.
 

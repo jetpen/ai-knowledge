@@ -27,3 +27,5 @@ Failure is primarily caused by the loop around the model—how control is implem
 - [[concepts/agent-learning-loop]]
 - [[concepts/human-in-the-loop]]
 - [[concepts/task-planning]]
+- [[concepts/autonomous-loop-workflows.md|Autonomous Loop Workflows]]
+- [[concepts/ralph-wiggum-loop.md|Ralph Wiggum Loop]]
