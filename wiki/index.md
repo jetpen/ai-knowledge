@@ -236,6 +236,8 @@ updated: 2026-06-04
 
 ## Concepts
 [[concepts/enterprise-context-layer.md]] - Enterprise Context Layer
+[[concepts/minimum-viable-context.md]] - Minimum Viable Context
+[[concepts/stewardship-pattern.md]] - Stewardship Pattern
 [[concepts/file-system-agent.md]] - File System as Agent
 [[concepts/long-running-automation-service.md]] - Long Running Automation Service
 [[concepts/agentic-protocols.md]] - Agentic Protocols
@@ -361,6 +363,7 @@ updated: 2026-06-04
 [[concepts/lora-low-rank-adaptation.md]] - LoRA (Low-Rank Adaptation)
 [[concepts/matrices.md]] - Matrices
 [[concepts/memory-design-axes.md]] - Memory System Design Axes
+[[concepts/minimum-viable-context.md]] - Minimum Viable Context
 [[concepts/memory-in-llms.md]] - Memory in LLMs
 [[concepts/meta-protocol-layer.md]] - Meta-Protocol Layer
 [[concepts/mimetype-support.md]] - mimetype support

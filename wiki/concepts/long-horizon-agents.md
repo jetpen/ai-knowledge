@@ -17,7 +17,9 @@ Require [[environment-engineering]] beyond [[agent-harness]] for coherence, lear
 - Test: [[harness-swap-test]] – what survives harness change?
 
 From [[li-jeffrey]] / [[hola-os]]: Environment sustains roles; harness executes tasks.
-
-Related: [[production-agent-runtime]], [[durable-execution]].
-Related: [[long-running-agents]] | [[deep-agents-deploy]] | [[the-future-of-agents]]
+## Related
+- [[production-agent-runtime]], [[durable-execution]].
+- [[long-running-agents]] | [[deep-agents-deploy]] | [[the-future-of-agents]]
+- [[concepts/minimum-viable-context]]: shared foundation for long-horizon strategy.
+- [[concepts/stewardship-pattern]]: contract enabling compounding rather than decay.
 - Source (long-horizon organizational learning loop): [[raw/twitter/2026-06-15-sethrosen-please-don-t-implement-a-company-brain-and-expect-a-learning-loop.md]].

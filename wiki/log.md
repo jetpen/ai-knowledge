@@ -55,12 +55,20 @@
 - Extracted data.article.plain_text (article_plain_text_available=true), body sha256=7396fe6dc21bbe93fff7b66deeb3ffb0e5c3f658206d0b295b25750af7bd6c61
 - No synthesized pages updated (not run in this redo).
 
-2026-06-14: Ingested X post 2066128527989113123 "If I had 6 months to become an Agentic AI Engineer.".
-- Created raw file: wiki/raw/twitter/2026-06-14-if-i-had-6-months-to-become-an-agentic-ai-engineer-suraj_sharma14.md
-- article_plain_text_available=false (fallback: data.text)
-- No synthesized pages updated (not run in this redo).
+## [2026-06-14] ingest | If I had 6 months to become an Agentic AI Engineer.
+|- Created raw file: wiki/raw/twitter/2026-06-14-if-i-had-6-months-to-become-an-agentic-ai-engineer-suraj_sharma14.md
+|- article_plain_text_available=false (fallback: data.text)
+|- No synthesized pages updated (not run in this redo).
+|
+## [2026-06-17] update | enterprise learning loop linking
+|- Created concept: [[concepts/minimum-viable-context.md|Minimum Viable Context]] (from Seth Rosen X article)
+|- Created concept: [[concepts/stewardship-pattern.md|Stewardship Pattern]] (from Seth Rosen X article)
+|- Updated concepts: [[concepts/company-brain.md|Company Brain]] and [[concepts/long-horizon-agents.md|Long-Horizon Agents]] with new related links
+|- Updated source: added links to [[concepts/minimum-viable-context.md|Minimum Viable Context]] and [[concepts/stewardship-pattern.md|Stewardship Pattern]] in the raw tweet
+|- Updated index.md catalog
+|- Created entity: [[entities/seth-rosen.md|Seth Rosen]]
 
-2026-06-15: Ingested X article 2043505841127760066 "The AI Lock-In Is Beginning!".
+## [2026-06-15] ingest | The AI Lock-In Is Beginning!.
 - Created raw file: wiki/raw/twitter/2026-04-13-the-ai-lock-in-is-beginning-jayagup10.md
 - Extracted data.article.plain_text (article_plain_text_available=true), body sha256=d857a2ad8ed6c9f55fa1e29f027fa636f0e1b6aedaea904b6897f9aa5073f6a1
 - No synthesized pages updated (raw ingest only).

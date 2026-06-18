@@ -12,10 +12,12 @@ ingested: 2026-06-16
 
 # Please don't implement a "company brain" and expect a learning loop
 
+Author: [[entities/seth-rosen]]
+
 ## Preview
 Satya's piece is rightly going viral. He's connecting two things, human capital and token capital, through a learning loop...
 
-Related: [[concepts/agent-learning-loop]], [[concepts/long-horizon-agents]], [[concepts/company-brain]].
+Related: [[concepts/agent-learning-loop]], [[concepts/long-horizon-agents]], [[concepts/company-brain]], [[concepts/minimum-viable-context]], [[concepts/stewardship-pattern]].
 
 ## Body
 Satya's piece is rightly going viral.
