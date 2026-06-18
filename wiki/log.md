@@ -69,6 +69,13 @@
 |- Created entity: [[entities/seth-rosen.md|Seth Rosen]]
 
 ## [2026-06-15] ingest | The AI Lock-In Is Beginning!.
-- Created raw file: wiki/raw/twitter/2026-04-13-the-ai-lock-in-is-beginning-jayagup10.md
+- Created raw file: wiki/raw/articles/2026-04-13-the-ai-lock-in-is-beginning-jayagup10.md
 - Extracted data.article.plain_text (article_plain_text_available=true), body sha256=d857a2ad8ed6c9f55fa1e29f027fa636f0e1b6aedaea904b6897f9aa5073f6a1
 - No synthesized pages updated (raw ingest only).
+
+## [2026-06-18] update | Single Company Brain source synthesis
+- Created concepts: [[concepts/retrieval-layer.md|Retrieval Layer]], [[concepts/workflow-level-permissions.md|Workflow-Level Permissions]], [[concepts/feedback-loop.md|Feedback Loop]]
+- Created entity: [[entities/single-grain.md|Single Grain]]
+- Updated concepts: [[concepts/company-brain.md|Company Brain]], [[entities/source-of-truth.md|Source of Truth]]
+- Updated raw source: added links to the synthesized pages in [[raw/twitter/2026-05-29-how-we-built-a-single-company-brain-and-how-you-can-too-ericosiu.md]]
+- Updated index.md catalog

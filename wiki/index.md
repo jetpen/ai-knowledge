@@ -195,6 +195,7 @@ updated: 2026-06-04
 [[entities/schema-serialization.md]] - Schema (Serialization)
 [[entities/serialization.md]] - Serialization
 [[entities/shape.md]] - Shape
+[[entities/single-grain.md]] - Single Grain
 [[entities/shubham-saboo.md]] - Shubham Saboo
 [[entities/smfs.md]] - SMFS (Supermemory Filesystem)
 [[entities/source-of-truth.md]] - Source of Truth
@@ -247,6 +248,7 @@ updated: 2026-06-04
 [[concepts/dynamic-skill-querying.md]] - dynamic skill querying
 [[concepts/agentic-protocols-comparison.md]] - Agentic Protocols Comparison
 [[concepts/company-brain.md]] - Company Brain
+[[concepts/feedback-loop.md]] - Feedback Loop
 [[concepts/consumer-hardware-local-inference.md]] - Consumer Hardware Local Inference (MoE-aware)
 [[concepts/credential-inclusion.md]] - credential inclusion
 [[concepts/delivery-route-optimizer.md]] - Delivery Route Optimizer
@@ -312,6 +314,7 @@ updated: 2026-06-04
 [[concepts/context-window-limitations.md]] - Context Window Limitations
 [[concepts/conversation-compaction.md]] - Conversation Compaction
 [[concepts/headroom.md]] - Headroom
+[[concepts/retrieval-layer.md]] - Retrieval Layer
 [[concepts/cross-framework-collaboration.md]] - cross-framework collaboration
 [[concepts/cross-platform-integration.md]] - cross-platform integration
 [[concepts/customer-churn.md]] - Customer Churn
@@ -408,6 +411,7 @@ updated: 2026-06-04
 [[concepts/ux-negotiation.md]] - UX negotiation
 [[concepts/vectors.md]] - Vectors
 [[concepts/workflow-automation.md]] - Workflow Automation (includes Workflow Contract specification)
+[[concepts/workflow-level-permissions.md]] - Workflow-Level Permissions
 [[concepts/working-memory.md]] - Working Memory
 [[concepts/write-manage-read-loop.md]] - Write-Manage-Read Loop
 

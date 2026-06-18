@@ -1,7 +1,7 @@
 ---
 title: Company Brain
 created: 2026-06-04
-updated: 2026-06-13
+updated: 2026-06-18
 type: concept
 tags: [ai-agents, institutional-memory, infrastructure, working-context]
 sources:
@@ -28,6 +28,10 @@ As companies deploy multiple autonomous agents (support, sales, engineering), th
 - [[HydraDB]]: Working-context infrastructure supporting the Company Brain.
 - [[Institutional Memory]]: The concept these systems formally instantiate.
 - [[AI Agents]]: The primary beneficiaries of structured company memory.
+- [[retrieval-layer]]: The operating layer that selects task-relevant context.
+- [[workflow-level-permissions]]: The boundary for what a workflow is allowed to see.
+- [[feedback-loop]]: Corrections becoming future system behavior.
+- [[single-grain]]: The company context described in the source article.
 - [[concepts/minimum-viable-context]]: Don’t implement the full “company brain”; curate minimum viable shared judgment.
 - [[concepts/agent-learning-loop]]: Compounding learning loop strategy for long-horizon AI.
 - [[concepts/stewardship-pattern]]: The stewardship contract that keeps shared structure improving.
