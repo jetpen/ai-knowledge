@@ -7,6 +7,8 @@ author: Ben Eng
 [Pubkey DNS](https://pubky.org/explore/technologies/dns/)
 
 ## Domain Registrar
+
+
 ## TLS Certificates
 
 Certificate Authority

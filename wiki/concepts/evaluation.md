@@ -40,7 +40,7 @@ Language model used to score or classify outputs on qualities requiring language
 **Limitations and mitigations**:
 - Requires calibration against human preferences.
 - Can inherit blind spots when using the same model family as the application.
-- Best when combined with code-based guardrails.
+- Best when combined with code-based [[guardrails]].
 
 ## Reference-based vs Reference-free
 

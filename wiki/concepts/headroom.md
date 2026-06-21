@@ -15,7 +15,7 @@ Headroom is an open-source context-management layer for agentic workloads. It tr
 
 ## Overview
 
-Headroom's stated architecture is CCR: Compress-Cache-Retrieve. It compresses noisy inputs, caches originals behind content hashes, and retrieves full detail on demand.
+Headroom's stated [[architecture]] is CCR: Compress-Cache-Retrieve. It compresses noisy inputs, caches originals behind content hashes, and retrieves full detail on demand.
 
 The goal is to reduce token usage on noisy tool-heavy workloads without making the original information unrecoverable.
 
@@ -25,7 +25,7 @@ The goal is to reduce token usage on noisy tool-heavy workloads without making t
 - **SmartCrusher**: compresses structured JSON and large search outputs.
 - **CodeCompressor**: AST-aware compression for code and logs.
 - **Kompress-base**: model trained on agentic traces.
-- **CacheAligner**: stabilizes prompt prefixes for better KV-cache hits.
+- **CacheAligner**: stabilizes prompt prefixes for better [[kv-cache]] hits.
 - **headroom learn**: mines failed sessions and writes corrections back into agent instructions.
 
 ## Related concepts
