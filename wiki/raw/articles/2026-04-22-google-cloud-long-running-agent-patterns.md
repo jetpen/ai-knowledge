@@ -21,7 +21,7 @@ The moment you try to build these long-running agents, you realize most agent ar
 
 At Cloud Next '26, we announced that [[agent-runtime-google|Agent Runtime]] now supports long-running agents that maintain state for up to seven days. In this article, we’ll share five essential agent design patterns for building long-running agents with Agent Runtime.
 
-By [[addy-osmani|@addyosmani]] and [[shubham-saboo|@Saboo_Shubham_]]
+By [[addy-osmani|@addyosmani]] and [[saboo-shubham|@Saboo_Shubham_]]
 
 Here are five design patterns that separate production systems from demos.
 

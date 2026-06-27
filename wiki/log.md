@@ -91,3 +91,8 @@
 - Created raw file: wiki/raw/twitter/2026-06-27-tr666520-gitpetri-context-is-everything.md
 - Extracted Zenodo abstract (xurl article body not available in plain text)
 - No synthesized pages updated (user instruction: no synthesis/linking)
+
+## [2026-06-27] update | consolidate entities/shubham-saboo into entities/saboo-shubham
+- Preserved all content by merging entities/shubham-saboo.md into entities/saboo-shubham.md (verbatim preserved block).
+- Removed duplicate entities/shubham-saboo.md
+- Updated wikilink in wiki/raw/articles/2026-04-22-google-cloud-long-running-agent-patterns.md to reference entities/saboo-shubham.md

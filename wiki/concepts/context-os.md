@@ -26,4 +26,4 @@ A local context operating system for AI agents, conceptualized by Tony Simons as
 - Built for [[entities/hermes-agent]]
 - By [[tony-simons]]
 - Contrasts simplistic system prompts (\"sticky notes\").
-- Related to [[agent-memory-architecture]], [[hermes-agent-memory]]
+- Related to [[agent-memory-architecture]], [[hermes-agent]]

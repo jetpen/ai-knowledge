@@ -1,7 +1,7 @@
 ---
 title: Hermes Agent
 created: 2026-04-14
-updated: 2026-05-03
+updated: 2026-06-27
 type: entity
 tags: [hermes-agent, memory, llm-arch, cognitive-science, agentic-infrastructure]
 sources: 
@@ -24,12 +24,26 @@ Hermes Agent separates internal knowledge into four distinct persistent stores, 
 4. **Identity**: Assembled from `SOUL.md` and other personality presets.
 5. **[[memory-providers]]**: Pluggable external systems (e.g., OpenViking, Honcho, Mem0) expanding bounded core storage.
 
+### Knowledge Classification
+Hermes Agent organizes knowledge into a cognitive science-inspired taxonomy, treating declarative, procedural, episodic, and identity-based information as distinct architectural concerns enforced via system constraints.
+
+1. **Declarative (Facts)**: Bounded files (`MEMORY.md` for environment, `USER.md` for profile).
+2. **Procedural (How-to)**: Unbounded `SKILL.md` files; created after complex workflows.
+3. **Episodic (History)**: SQLite/FTS5 full-text logs.
+4. **Identity**: Layered construction (`SOUL.md` + environment/platform context).
+
 ## Memory Management Principles
 - **Routing Logic**: A deterministic decision tree determines storage destination for facts, procedures, and environment data.
 - **Bounded Constraint**: Bounded storage prevents memory hoarding and minimizes noise by forcing information curation.
 - **Frozen Snapshot Pattern**: Disk memory loads once at start to save costs and stabilize context.
 - **Consolidation Cycles**: Uses `nudge_interval` to trigger evaluations of information value.
 - **Security**: Atomic writes via `fsync()` and scanning of content to prevent injection or exfiltration.
+
+### Core Mechanisms
+* **Bounded Curation**: Minimal character budgets force the agent to rank, prioritize, and curate only the essential persistent facts.
+* **Frozen Snapshot**: Disk-resident memory is cached at session start to preserve prompt-cache stability, minimizing per-turn token costs.
+* **Security Scanning**: Automated validation of writes for malicious patterns.
+* **Deterministic Routing**: A rigid decision tree (`_build_system_prompt()`) determines whether new info is declarative, procedural, or ephemeral task-state.
 
 ## Custom Implementations
 - [[context-os]]: Tony Simons' layered "Context OS" (11+ surfaces: SOUL.md identity, facts DB, procedures, session history, compression, routines; v2026.4.30 setup).
@@ -39,7 +53,7 @@ Hermes Agent separates internal knowledge into four distinct persistent stores, 
 - [[harness-engineering]]
 - [[agent-interoperability]]
 - [[context-os]]
-
+- [[agentic-memory-types]]
 
 ## Related
 - [[agentic-infrastructure]]

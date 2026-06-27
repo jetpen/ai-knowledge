@@ -199,7 +199,6 @@ updated: 2026-06-04
 [[entities/serialization.md]] - Serialization
 [[entities/shape.md]] - Shape
 [[entities/single-grain.md]] - Single Grain
-[[entities/shubham-saboo.md]] - Shubham Saboo
 [[entities/smfs.md]] - SMFS (Supermemory Filesystem)
 [[entities/source-of-truth.md]] - Source of Truth
 [[entities/spec-driven-development.md]] - Spec-Driven Development (SDD)
@@ -328,9 +327,9 @@ updated: 2026-06-04
 [[concepts/hydradb.md]] - HydraDB
 [[concepts/digital-employee.md]] - Digital Employee
 [[concepts/durable-execution.md]] - Durable Execution
-[[concepts/dspy-module.md]] - DSPy Module
-[[concepts/dspy-optimizers.md]] - DSPy Optimizers
-[[concepts/dspy-signature.md]] - DSPy Signature
+[[entities/dspy.md#Modules|DSPy Module]] - DSPy Module (consolidated into DSPy)
+[[entities/dspy.md#Optimizers|DSPy Optimizers]] - DSPy Optimizers (consolidated into DSPy)
+[[entities/dspy.md#Signatures|DSPy Signature]] - DSPy Signature (consolidated into DSPy)
 [[concepts/ecosystem-connectivity.md]] - [[ai-ecosystem]] connectivity
 [[concepts/ecosystem-support.md]] - [[ai-ecosystem]] support
 [[concepts/enterprise-ai.md]] - Enterprise AI
@@ -359,7 +358,7 @@ updated: 2026-06-04
 [[concepts/internal-state-protection.md]] - internal state protection
 [[ontologies]] - Introduction to Ontologies
 [[concepts/isolated-workspace.md]] - Isolated Workspace
-[[concepts/json-rpc-communication.md]] - JSON-RPC communication
+[[entities/json-rpc-2.0.md#Communication in the A2A Protocol|JSON-RPC communication]] - JSON-RPC communication (consolidated into JSON-RPC 2.0)
 [[concepts/knowledge-graph-optimization.md]] - Knowledge Graph Optimization
 [[concepts/living-in-the-singularity.md]] - "Living in the Singularity"
 [[concepts/llm-l.md]] - LLM (Large Language Model)

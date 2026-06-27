@@ -32,5 +32,5 @@ Agent built in a weekend; infra takes a quarter (industry standard).
 
 ## References
 - [[harness-engineering]]
-- [[hermes-agent-memory]]
+- [[hermes-agent]]
 - [[deep-agents]]

@@ -20,5 +20,5 @@ The A2A protocol leverages streaming to facilitate dynamic, responsive communica
 - **Streaming Reliability:** Ongoing protocol enhancements focus on improving the robustness of these streaming channels, ensuring consistent delivery of tokens, status updates, and rich data payloads even under high network latency or complex orchestration loads.
 
 ## Relationships
-- **Associated with:** [[Agent2Agent-Protocol]], [[agent-communication]], [[interaction-modalities]], [[json-rpc-communication]]
+- **Associated with:** [[Agent2Agent-Protocol]], [[agent-communication]], [[interaction-modalities]], [[json-rpc-2.0]]
 - **Infrastructure:** Relies on standardized protocols for real-time transports (SSE, WebSockets-compatible patterns) within the broader [[agentic-infrastructure]].
