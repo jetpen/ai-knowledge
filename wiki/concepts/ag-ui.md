@@ -27,6 +27,10 @@ It abstracts agentic complexity—long-running tasks, streaming intermediate wor
 - **Different from A2UI**: A2UI is a Generative UI specification; AG-UI is the transport protocol connecting the two.
 - **MCP Relationship**: MCP connects to tools/data; AG-UI connects to users/apps; A2A connects agent-to-agent.
 
+## Sources (raw links)
+- [[raw/articles/ag-ui-protocol-introduction-2026.md]]
+- [[raw/twitter/2026-06-27-saboo-shubham-generative-ui-is-the-new-frontend.md]]
+
 ## See Also
 - [[model-context-protocol]]
 - [[agent2agent-protocol]]
