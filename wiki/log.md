@@ -86,3 +86,8 @@
 - Updated concept: [[concepts/agent-loop-control-system.md|Agent Loop as Control System]] (linked new concepts)
 - Patched raw source file: [[raw/twitter/2026-06-11-loop-engineering-isn-t-what-you-think.md]] to add bidirectional wikilinks
 - Updated index.md catalog and increased page count in header to 378
+
+## [2026-06-27] ingest | GitPetri : A State-Driven Runtime Kernel for Knowledge-Intensive Systems. Context Is Everything
+- Created raw file: wiki/raw/twitter/2026-06-27-tr666520-gitpetri-context-is-everything.md
+- Extracted Zenodo abstract (xurl article body not available in plain text)
+- No synthesized pages updated (user instruction: no synthesis/linking)
