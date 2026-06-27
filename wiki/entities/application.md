@@ -13,9 +13,6 @@ author: hermes
 ## Context
 **Intent, Scope, and Decision-Making** (AiPatternBook TOC Section 3): Sets high-level intent for agent development.
 
-## Source Context
-> 3. **Intent, Scope, and Decision-Making**  
->    - Application, Brief, Requirement, ...
 
 ## Agentic Application
 The Application pattern defines the core purpose and boundaries of an agent system, akin to a product spec. In agentic coding, it captures "what the agent does" — e.g., "Code review agent for Python repos" — guiding prompt engineering, tool selection, eval metrics.

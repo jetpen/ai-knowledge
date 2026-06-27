@@ -39,6 +39,6 @@ Empowers agentic iteration: 70% faster convergence per benchmarks.
 (212 words)
 
 ## Related Patterns
-[[specification]] [[requirement]] [[tradeoff]] [[judgment]] [[architecture-decision-record]] [[agentic-coding-patterns]]
+[[spec-driven-development]] [[requirement]] [[tradeoff]] [[judgment]] [[architecture-decision-record]] [[agentic-coding-patterns]]
 
 [[agentic-coding-patterns]]

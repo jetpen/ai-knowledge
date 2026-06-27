@@ -21,4 +21,4 @@ author: hermes
 Naming assigns precise, domain-aligned identifiers to agent concepts (tasks, states, tools) preventing ambiguity in prompts/LLMs. Use [[ubiquitous-language]] for shared terms (e.g., 'TaskAggregate' not 'job'). Conventions: snake_case for vars, CamelCase classes, descriptive (generatePlan not gen). Agents self-validate names via schema. In multi-agent, consistent naming enables protocol discovery. Pitfalls: vague names cause hallucinations; enforce via linters/Pydantic. Integrates [[coding-convention]] for style. Example: Name tools 'sendEmail(recipient, subject, body)' explicitly. Boosts reliability in [[spec-driven-development]]. (142 words)
 
 ## Related
-[[ubiquitous-language]] [[coding-convention]] [[domain-model]] [[entity]] [[specification]]
+[[ubiquitous-language]] [[coding-convention]] [[domain-model]] [[entity]] [[spec-driven-development]]

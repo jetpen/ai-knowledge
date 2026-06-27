@@ -13,9 +13,6 @@ author: hermes
 ## Context
 **Intent, Scope, and Decision-Making** (AiPatternBook TOC Section 3): Concise problem statement.
 
-## Source Context
-> 3. **Intent, Scope, and Decision-Making**  
->    - Brief, ...
 
 ## Agentic Application
 Brief is a one-page agent spec outlining goals, users, success metrics. Guides prompt design, tool choice.

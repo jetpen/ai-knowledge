@@ -10,7 +10,7 @@ author: auto
 
 # Cursor
 
-Coding agent harness. Converged architecture (tool loop, context compression, permissions) per [[aparna-dhinakaran]].
+AI-native coding agent harness (IDE). An instance of the [[agent-harness]] converged pattern (tool loop, context compression, permissions) identified by [[aparna-dhinakaran]] — see [[agent-harness]] for the shared abstraction.
 
 Related: [[agent-harness]], [[windsurf]], [[claude-code]], [[codex]], [[alyx-agent]].
 

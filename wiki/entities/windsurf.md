@@ -10,9 +10,9 @@ author: auto
 
 # Windsurf
 
-Coding agent harness. Converged architecture (tool loop, context compression, permissions) per Aparna Dhinakaran.
+Agentic coding IDE / harness. An instance of the [[agent-harness]] converged pattern (tool loop, context compression, permissions) identified by [[aparna-dhinakaran]] — see [[agent-harness]] for the shared abstraction.
 
-Related: [[agent-harness]], [[cursor]], [[claude-code]], [[codex-cli]], [[alyx-agent]].
+Related: [[agent-harness]], [[cursor]], [[claude-code]], [[codex]], [[alyx-agent]].
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]

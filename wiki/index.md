@@ -43,7 +43,7 @@ updated: 2026-06-04
 [[entities/x402.md]] - x402 (HTTP-Native Payments)
 [[entities/agent-runtime-google.md]] - Agent Runtime (Google Cloud)
 [[entities/agentic-coding-patterns.md]] - Agentic Coding Patterns
-[[entities/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack (DEPRECATED: Consolidated into agentic-infrastructure.md)
+[[concepts/agentic-infrastructure.md]] - Agentic Infrastructure (was: agentic-infrastructure-stack, consolidated)
 [[entities/aggregate.md]] - Aggregate
 [[entities/ai-data-platform-agents.md]] - AI Data Platform Agents
 [[entities/algorithmic-complexity.md]] - Algorithmic Complexity
@@ -82,7 +82,7 @@ updated: 2026-06-04
 [[entities/codex.md]] - Codex
 [[entities/cognee.md]] - Cognee
 [[entities/cohesion.md]] - Cohesion
-[[entities/competetive-landscape.md]] - Competitive Landscape
+[[entities/competitive-landscape.md]] - Competitive Landscape
 [[entities/component.md]] - Component
 [[entities/composeio.md]] - Composeio
 [[entities/composition.md]] - Composition
@@ -195,11 +195,11 @@ updated: 2026-06-04
 [[entities/saboo-shubham.md]] - Shubham Saboo
 [[entities/sanjay-goil.md]] - Sanjay Goil
 [[entities/schema-database.md]] - Schema (Database)
-[[entities/schema-serialization.md]] - Schema (Serialization)
+[[entities/serialization.md]] - Serialization (was: schema-serialization)
 [[entities/serialization.md]] - Serialization
 [[entities/shape.md]] - Shape
 [[entities/single-grain.md]] - Single Grain
-[[entities/smfs.md]] - SMFS (Supermemory Filesystem)
+[[entities/supermemory.md]] - Supermemory (SMFS = Supermemory Filesystem)
 [[entities/source-of-truth.md]] - Source of Truth
 [[entities/spec-driven-development.md]] - Spec-Driven Development (SDD)
 [[entities/sse.md]] - SSE
@@ -242,7 +242,7 @@ updated: 2026-06-04
 [[concepts/minimum-viable-context.md]] - Minimum Viable Context
 [[concepts/stewardship-pattern.md]] - Stewardship Pattern
 [[concepts/file-system-agent.md]] - File System as Agent
-[[concepts/long-running-automation-service.md]] - Long Running Automation Service
+Long Running Automation Service (MISSING — no page; catalog stub)
 [[concepts/agentic-protocols.md]] - Agentic Protocols
 [[concepts/agent-communication-protocol.md]] - Agent Communication Protocol
 [[concepts/logistics-ai.md]] - "Logistics AI"
@@ -261,8 +261,8 @@ updated: 2026-06-04
 [[concepts/aaak.md]] - AAAK
 [[concepts/a2a-and-mcp-relationship.md]] - A2A and MCP relationship
 [[concepts/a2a-mcp-integration-patterns.md]] - A2A-MCP Integration Patterns
-[[concepts/agent-communication-standard.md]] - agent communication standard
-[[concepts/agent-communication.md]] - agent communication
+[[concepts/agent-communication-protocol.md]] - Agent Communication Protocol (was: agent-communication-standard)
+[[concepts/agent-communication-protocol.md]] - Agent Communication Protocol (was: agent-communication)
 [[concepts/agent-cron-scheduler.md]] - Agent Cron Scheduler
 [[concepts/agent-discovery.md]] - agent discovery
 [[concepts/agent-harness-design-principles.md]] - Agent Harness Design Principles
@@ -276,7 +276,7 @@ updated: 2026-06-04
 [[concepts/agent-native-cli.md]] - Agent-Native CLIs
 [[concepts/agent-native-product-design.md]] - Agent-Native Product Design
 [[concepts/agent-network-protocol.md]] - Agent Network Protocol
-[[concepts/agent-primitives.md]] - Agent Primitives
+Agent Primitives (MISSING — no page; catalog stub)
 [[concepts/agent-replacement.md]] - agent replacement
 [[concepts/agent-skill-design-patterns.md]] - 5 Agent Skill Design Patterns
 [[concepts/agent-skills-standard.md]] - Agent Skills Standard
@@ -284,10 +284,10 @@ updated: 2026-06-04
 [[concepts/agent-user-interaction-protocol.md]] - Agent User Interaction Protocol
 [[concepts/agent2agent-protocol.md]] - [[agent2agent-protocol]] Protocol
 [[concepts/agentic-ai-design-patterns.md]] - Agentic AI Design Patterns
-[[entities/agentic-infrastructure-stack.md]] - Agentic Infrastructure Stack (DEPRECATED: Consolidated into agentic-infrastructure.md)
+[[concepts/agentic-infrastructure.md]] - Agentic Infrastructure (was: agentic-infrastructure-stack, consolidated)
 [[concepts/agentic-infrastructure.md]] - Agentic Infrastructure
 [[concepts/agentic-memory.md]] - Agentic Memory
-[[concepts/agentic-production-infrastructure.md]] - Agentic Production Infrastructure (DEPRECATED: Consolidated into agentic-infrastructure.md)
+[[concepts/agentic-infrastructure.md]] - Agentic Infrastructure (was: agentic-production-infrastructure, consolidated)
 [[concepts/agentic-workspace.md]] - Agentic Workspace
 [[concepts/ag-ui.md]] - AG-UI
 [[concepts/ai-accelerator-packs.md]] - AI Accelerator Packs
@@ -296,8 +296,8 @@ updated: 2026-06-04
 [[concepts/ai-native.md]] - AI Native
 [[concepts/ambient-processing.md]] - Ambient Processing
 [[concepts/application-layer.md]] - Application Layer
-[[concepts/asynchronous-push-notifications.md]] - asynchronous push notifications
-[[concepts/async-first-communication.md]] - async-first communication
+[[entities/push-notifications.md]] - Push Notifications (was: asynchronous-push-notifications)
+async-first communication (MISSING — no page; catalog stub)
 [[concepts/async-subagents.md]] - Async Subagents
 [[concepts/authorization-schemes.md]] - authorization schemes
 [[concepts/automatic-organization.md]] - Automatic Organization
@@ -320,7 +320,7 @@ updated: 2026-06-04
 [[concepts/retrieval-layer.md]] - Retrieval Layer
 [[concepts/cross-framework-collaboration.md]] - cross-framework collaboration
 [[concepts/cross-platform-integration.md]] - cross-platform integration
-[[concepts/customer-churn.md]] - Customer Churn
+Customer Churn (MISSING — no page; catalog stub)
 [[concepts/dark-software-factory.md]] - [[dark-software-factory|Dark Software Factory]]
 [[concepts/data-source-integration.md]] - data source integration
 [[concepts/deep-agents-deploy.md]] - Deep Agents Deploy
@@ -330,10 +330,10 @@ updated: 2026-06-04
 [[entities/dspy.md#Modules|DSPy Module]] - DSPy Module (consolidated into DSPy)
 [[entities/dspy.md#Optimizers|DSPy Optimizers]] - DSPy Optimizers (consolidated into DSPy)
 [[entities/dspy.md#Signatures|DSPy Signature]] - DSPy Signature (consolidated into DSPy)
-[[concepts/ecosystem-connectivity.md]] - [[ai-ecosystem]] connectivity
-[[concepts/ecosystem-support.md]] - [[ai-ecosystem]] support
+[[ai-ecosystem]] connectivity (MISSING — no dedicated page; see [[ai-ecosystem]])
+[[ai-ecosystem]] support (MISSING — no dedicated page; see [[ai-ecosystem]])
 [[concepts/enterprise-ai.md]] - Enterprise AI
-[[concepts/enterprise-ready-protocols.md]] - enterprise-ready protocols
+enterprise-ready protocols (MISSING — no page; catalog stub)
 [[concepts/environment-engineering.md]] - Environment Engineering
 [[concepts/episodic-memory.md]] - Episodic Memory
 [[concepts/evaluation.md]] - Evaluation Methods (evals, LLM-as-a-judge)
@@ -348,7 +348,7 @@ updated: 2026-06-04
 [[concepts/halo-agent-loop-optimization.md]] - HALO (Hierarchical Agent Loop Optimization)
 [[concepts/harness-engineering.md]] - Harness Engineering
 [[concepts/harness-swap-test.md]] - Harness-Swap Test
-[[concepts/healthcare-multi-agent-systems.md]] - healthcare multi-agent systems
+healthcare multi-agent systems (MISSING — no page; catalog stub)
 [[concepts/human-in-the-loop.md]] - Human-in-the-loop (HITL) (includes Delegated Approval)
 [[concepts/hybrid-graph.md]] - Hybrid Graph (ADK Pattern)
 [[concepts/hydradb.md]] - HydraDB
@@ -361,19 +361,19 @@ updated: 2026-06-04
 [[entities/json-rpc-2.0.md#Communication in the A2A Protocol|JSON-RPC communication]] - JSON-RPC communication (consolidated into JSON-RPC 2.0)
 [[concepts/knowledge-graph-optimization.md]] - Knowledge Graph Optimization
 [[concepts/living-in-the-singularity.md]] - "Living in the Singularity"
-[[concepts/llm-l.md]] - LLM (Large Language Model)
+[[concepts/llm.md]] - LLM (Large Language Model) (was: llm-l)
 [[concepts/long-horizon-agents.md]] - Long-Horizon Agents
 [[concepts/long-mem-eval.md]] - "Long-term Memory Evaluation"
 [[concepts/long-running-agents.md]] - Long-Running Agents
-[[concepts/long-running-task-collaboration.md]] - long-running task collaboration
+long-running task collaboration (MISSING — no page; catalog stub)
 [[concepts/lora-low-rank-adaptation.md]] - LoRA (Low-Rank Adaptation)
-[[concepts/matrices.md]] - Matrices
+Matrices (MISSING — no page; catalog stub)
 [[concepts/memory-design-axes.md]] - Memory System Design Axes
 [[concepts/minimum-viable-context.md]] - Minimum Viable Context
-[[concepts/memory-in-llms.md]] - Memory in LLMs
+Memory in LLMs (MISSING — no page; see [[agent-memory-architecture]])
 [[concepts/meta-protocol-layer.md]] - Meta-Protocol Layer
-[[concepts/mimetype-support.md]] - mimetype support
-[[concepts/moderation.md]] - Moderation
+mimetype support (MISSING — no page; catalog stub)
+[[entities/content-moderation.md]] - Content Moderation (was: moderation)
 [[concepts/model-context-protocol.md]] - Model Context Protocol
 [[concepts/multi-agent-systems.md]] - Multi-Agent Systems
 [[concepts/oci-ai-accelerator-packs.md]] - OCI AI Accelerator Packs
@@ -392,17 +392,17 @@ updated: 2026-06-04
 [[concepts/protocol-standardization.md]] - protocol standardization
 [[concepts/protocol-sdks.md]] - Protocol SDKs (consolidated language SDKs)
 [[concepts/ralph-wiggum-loop.md]] - Ralph Wiggum Loop
-[[concepts/r-e-s-t-framework.md]] - R.E.S.T Framework
+[[entities/rest-api.md]] - REST API (was: r-e-s-t-framework)
 [[concepts/raw-derived-tradeoff.md]] - Raw vs Derived Memory Tradeoff
-[[concepts/rest-based-communication.md]] - REST-based communication
+[[entities/rest-api.md]] - REST API (was: rest-based-communication)
 [[concepts/scheduled-tasks.md]] - Scheduled Tasks
 [[concepts/security.md]] - Security
 [[concepts/self-healing-agent-harness.md]] - Self-Healing Agent Harness
 [[concepts/semantic-memory.md]] - Semantic Memory
 [[concepts/shared-state.md]] - Shared State
 [[concepts/smart-friend.md]] - Smart Friend
-[[concepts/standard-for-connecting-ai-applications.md]] - standard for connecting AI applications
-[[concepts/standardized-restful-api.md]] - standardized RESTful API
+[[entities/mcp.md]] - Model Context Protocol (was: standard-for-connecting-ai-applications)
+[[entities/rest-api.md]] - REST API (was: standardized-restful-api)
 [[concepts/streaming-interaction.md]] - streaming interaction
 [[concepts/streaming-reliability.md]] - streaming reliability
 [[concepts/structured-data-exchange.md]] - structured data exchange
@@ -414,7 +414,7 @@ updated: 2026-06-04
 [[concepts/token-level-memory.md]] - Token-Level Memory
 [[concepts/tool-use-for-ai.md]] - tool use for AI
 [[concepts/ux-negotiation.md]] - UX negotiation
-[[concepts/vectors.md]] - Vectors
+Vectors (MISSING — no page; catalog stub)
 [[concepts/workflow-automation.md]] - Workflow Automation (includes Workflow Contract specification)
 [[concepts/workflow-level-permissions.md]] - Workflow-Level Permissions
 [[concepts/working-memory.md]] - Working Memory

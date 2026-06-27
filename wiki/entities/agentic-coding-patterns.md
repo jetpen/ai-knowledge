@@ -13,7 +13,7 @@ Encyclopedia at [[https://aipatternbook.com/repl|AiPatternBook REPL]] catalogs ~
 
 ## Major Categories
 - **Product Judgment**: [[problem]], [[customer]], [[value-proposition]], [[product-market-fit]], [[roadmap]]
-- **Intent & Scope**: [[specification]], [[spec-driven-development]], [[architecture-decision-record]]
+- **Intent & Scope**: [[spec-driven-development]], [[architecture-decision-record]]
 - **Structure**: [[architecture]], [[decomposition]], [[task-decomposition]], [[cohesion]], [[coupling]]
 - **Data & State**: [[data-model]], [[source-of-truth]], [[idempotency]], [[bounded-context]]
 - **Computation**: [[algorithm]], [[api]]
@@ -23,7 +23,7 @@ Encyclopedia at [[https://aipatternbook.com/repl|AiPatternBook REPL]] catalogs ~
 
 [[distribution]] | [[product-market-fit]] | [[crossing-the-chasm]] | [[zero-to-one]] | [[bottleneck]] | [[roadmap]] | [[user-story]] | [[use-case]] | [[build-vs-dont-build-judgment]]
 
-[[application]] | [[brief]] | [[requirement]] | [[constraint]] | [[acceptance-criteria]] | [[specification]] | [[spec-driven-development]] | [[design-doc]] | [[tradeoff]] | [[judgment]]
+[[application]] | [[brief]] | [[requirement]] | [[constraint]] | [[acceptance-criteria]] | [[spec-driven-development]] | [[design-doc]] | [[tradeoff]] | [[judgment]]
 
 [[taste]] | [[architecture-decision-record]] | [[architecture]] | [[shape]] | [[abstraction]] | [[component]] | [[module]] | [[interface]]
 

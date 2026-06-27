@@ -10,6 +10,6 @@ author: auto
 
 # Codex
 
-OpenAI coding agent harness. Converged architecture (tool loop, context compression, permissions) per [[aparna-dhinakaran]].
+OpenAI's coding agent harness. An instance of the [[agent-harness]] converged pattern (tool loop, context compression, permissions) identified by [[aparna-dhinakaran]] — see [[agent-harness]] for the shared abstraction.
 
 Related: [[agent-harness]], [[cursor]], [[windsurf]], [[claude-code]], [[alyx-agent]].
