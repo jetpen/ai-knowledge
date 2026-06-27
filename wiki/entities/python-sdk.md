@@ -1,19 +1,13 @@
 ---
 title: Python SDK
-created: 2026-04-11
-updated: 2026-04-11
 type: entity
-tags:
-  - development-tool
-  - entity
-  - python
-  - sdk
-sources:
-  - raw/articles/agent2agent-protocol-protocol-readme-2026.md
+tags: [entity, sdk, redirect]
+redirect: protocol-sdks
+updated: 2026-06-27
 ---
 
-# Python Sdk
+# Python SDK
 
-The official Python implementation for interacting with the protocol. Enables developers to build compliant clients and servers rapidly with built-in type safety.
-## Relationships
-- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+> **Merged into [[protocol-sdks]]** on 2026-06-27 (consolidation of near-identical per-language SDK stubs).
+
+See [[protocol-sdks]] for the canonical entry and the language matrix.

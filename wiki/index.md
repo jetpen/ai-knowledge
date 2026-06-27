@@ -7,7 +7,7 @@ updated: 2026-06-04
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-18 | Total pages: 378
+> Last updated: 2026-06-27 | Total pages: 379
 
 ## Entities
 [[entities/a2a.md]] - Agent-to-Agent Protocol
@@ -121,7 +121,7 @@ updated: 2026-06-04
 [[entities/entity.md]] - Entity
 [[entities/fusion-ai-agent-studio.md]] - Fusion AI Agent Studio
 [[entities/geoffrey-huntley.md]] - Geoffrey Huntley
-[[entities/go-sdk.md]] - Go SDK
+[[entities/go-sdk.md]] - Go SDK → redirect to [[concepts/protocol-sdks.md]]
 [[entities/go-to-market.md]] - Go To Market
 [[entities/google-adk.md]] - Google ADK
 [[entities/google.md]] - Google
@@ -135,7 +135,7 @@ updated: 2026-06-04
 [[entities/interface.md]] - Interface
 [[entities/intertwine.md]] - Intertwine
 [[entities/intuitiveml.md]] - intuitiveml
-[[entities/java-sdk.md]] - Java SDK
+[[entities/java-sdk.md]] - Java SDK → redirect to [[concepts/protocol-sdks.md]]
 [[entities/jayanth-sanku.md]] - Jayanth Sanku
 [[entities/js-sdk.md]] - JS SDK
 [[entities/json-rpc-2.0.md]] - JSON-RPC 2.0
@@ -162,7 +162,7 @@ updated: 2026-06-04
 [[entities/monetization.md]] - Monetization
 [[entities/monolith.md]] - Monolith
 [[entities/nous-research.md]] - Nous Research
-[[entities/oci-ai-accelerator-pack.md]] - OCI AI Accelerator Pack
+[[entities/oci-ai-accelerator-pack.md]] - OCI AI Accelerator Pack → redirect to [[concepts/oci-ai-accelerator-packs.md]]
 [[entities/oci-ai-agent-hub.md]] - OCI AI Agent Hub
 [[entities/oci-ai-services.md]] - OCI AI Services
 [[entities/oci-generative-ai-agents.md]] - OCI Generative AI Agents
@@ -184,7 +184,7 @@ updated: 2026-06-04
 [[entities/product-market-fit.md]] - Product-Market Fit
 [[entities/push-notifications.md]] - push notifications
 [[entities/pytorch.md]] - PyTorch
-[[entities/python-sdk.md]] - Python SDK
+[[entities/python-sdk.md]] - Python SDK → redirect to [[concepts/protocol-sdks.md]]
 [[entities/ramakrishna.md]] - Ramakrishna
 [[entities/react.md]] - ReAct
 [[entities/requirement.md]] - Requirement
@@ -219,7 +219,7 @@ updated: 2026-06-04
 [[entities/trae-ai.md]] - TRAE AI
 [[entities/transaction.md]] - Transaction
 [[entities/trevin-chow.md]] - Trevin Chow
-[[entities/typescript-sdk.md]] - Typescript SDK
+[[entities/typescript-sdk.md]] - TypeScript SDK → redirect to [[concepts/protocol-sdks.md]]
 [[entities/ubiquitous-language.md]] - Ubiquitous Language
 [[entities/universal-commerce-protocol.md]] - Universal Commerce Protocol
 [[entities/use-case.md]] - Use Case
@@ -309,7 +309,7 @@ updated: 2026-06-04
 [[concepts/client-initiated-methods.md]] - client-initiated methods
 [[concepts/code-as-agent-harness.md]] - Code as Agent Harness
 [[concepts/code-review-loop.md]] - Code-Review Loop
-[[concepts/community-driven-standards.md]] - community-driven standards
+[[concepts/community-driven-standards.md]] - community-driven standards → redirect to [[concepts/protocol-standardization.md]]
 [[concepts/composeio.md]] - Composeio
 [[concepts/context-engineering.md]] - Context Engineering
 [[comparisons/context-management-comparison.md]] - Context Management in Agent Harnesses Comparison
@@ -390,6 +390,7 @@ updated: 2026-06-04
 [[concepts/production-agent-infrastructure.md]] - Production Agent Infrastructure
 [[concepts/production-agent-runtime.md]] - Production Agent Runtime
 [[concepts/protocol-standardization.md]] - protocol standardization
+[[concepts/protocol-sdks.md]] - Protocol SDKs (consolidated language SDKs)
 [[concepts/ralph-wiggum-loop.md]] - Ralph Wiggum Loop
 [[concepts/r-e-s-t-framework.md]] - R.E.S.T Framework
 [[concepts/raw-derived-tradeoff.md]] - Raw vs Derived Memory Tradeoff

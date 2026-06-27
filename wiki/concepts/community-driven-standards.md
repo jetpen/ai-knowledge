@@ -1,17 +1,13 @@
 ---
 title: community-driven standards
-created: 2026-04-11
-updated: 2026-04-11
 type: concept
-tags: ["community", "concept", "governance", "standards"]
-sources: ['raw/articles/agent2agent-protocol-readme-2026.md']
+tags: [concept, standards, redirect]
+redirect: protocol-standardization
+updated: 2026-06-27
 ---
 
 # Community Driven Standards
 
-An open specification designed to reduce fragmentation in the [[ai-ecosystem]] by defining universal communication or identity schemas.
+> **Merged into [[protocol-standardization]]** on 2026-06-27 (identical "open specification to reduce fragmentation" body, same source).
 
-## Source Context
-This entry is compiled from the following ingested material: raw/articles/agent2agent-protocol-readme-2026.md.
-## Relationships
-- Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+See [[protocol-standardization]].

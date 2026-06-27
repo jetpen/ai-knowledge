@@ -9,7 +9,7 @@ sources: [raw/oracle-ai-accelerator-packs-2026.md]
 
 # Delivery Route Optimizer
 
-The **Delivery Route Optimizer** is an [[oci-ai-accelerator-pack]] designed to modernize logistics by leveraging AI-driven routing models.
+The **Delivery Route Optimizer** is an [[oci-ai-accelerator-packs]] solution designed to modernize logistics by leveraging AI-driven routing models.
 
 ## Core Capabilities
 - **Optimization Algorithms**: Analyzes real-time data to calculate and maintain the most efficient delivery paths.
