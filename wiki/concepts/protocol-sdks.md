@@ -31,5 +31,3 @@ Official language-specific implementations for interacting with agent protocols 
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
 - Related: [[protocol-standardization]], [[agentic-protocols]], [[a2a]], [[acp]], [[anp]]
 
-## Consolidation note
-Created 2026-06-27 by merging the per-language stubs `go-sdk`, `java-sdk`, `typescript-sdk`, and `python-sdk`, which were near-identical boilerplate (the Go/Java/Python stubs erroneously read "JS/TS implementation" — corrected here).

@@ -24,23 +24,6 @@ Tradeoff:
 - Use the same system-install mode per profile (i.e., install their gateways with `--system`).
 - Each profile installs its own service name/file, so installations don’t clash.
 
-## Task 5 — Switch default gateway from system service to user service
-Steps:
-1) Stop/uninstall the system service for `default`:
-   - `sudo hermes gateway stop --system` (if needed)
-   - `sudo hermes gateway uninstall --system`
-2) Install the user service for `default`:
-   - `hermes gateway install`
-3) Start + verify:
-   - `hermes gateway start`
-   - `hermes gateway status` (user service)
-   - `hermes gateway status --system` (should be inactive/absent)
+## How to coordinate multiple agents?
 
-
-## Task 6 - schedule daily search for new articles about agents
-
-
-`xurl search "is:verified has:links agent" -n 20`
-
-* deduplicate
-* spam filter
+Goal, Kanban, or delegate_task? https://x.com/i/status/2070934652265562478

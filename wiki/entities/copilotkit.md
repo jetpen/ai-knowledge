@@ -24,3 +24,5 @@ CopilotKit is a developer-focused platform that provides infrastructure for buil
 
 ## Relationships
 - Associated with: [[ai-ecosystem]], [[agentic-infrastructure]]
+- https://www.copilotkit.ai/
+- https://github.com/copilotkit/copilotkit
